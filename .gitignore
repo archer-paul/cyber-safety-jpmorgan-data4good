@@ -1,0 +1,272 @@
+# ============================================================================
+# BRECK FOUNDATION PROJECT - GITIGNORE
+# ============================================================================
+
+# ============================================================================
+# SENSITIVE DATA - DO NOT COMMIT
+# ============================================================================
+
+# Excel data files (contain sensitive information)
+*.xlsx
+*.xls
+Breck_Internal_Data*.xlsx
+data/Breck_Internal_Data*.xlsx
+
+# UK Schools database (large file, publicly available elsewhere)
+edubasealldata*.csv
+*edubase*.csv
+GIAS*.csv
+
+# Any data folder
+data/
+raw_data/
+
+# Personal configuration files
+*config_personal.py
+*secrets.py
+.env
+.env.local
+
+# ============================================================================
+# PYTHON
+# ============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# ============================================================================
+# IDEs & EDITORS
+# ============================================================================
+
+# VSCode
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PyCharm
+.idea/
+.idea/*
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+
+# ============================================================================
+# OPERATING SYSTEMS
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+.nfs*
+
+# ============================================================================
+# PROJECT SPECIFIC
+# ============================================================================
+
+# Temporary analysis files
+temp/
+tmp/
+scratch/
+experiments/
+
+# Large output files (optional - remove lines if you want to commit these)
+# outputs/*.json
+# outputs/*.txt
+
+# Keep HTML maps and CSV leads for demo purposes
+!outputs/*.html
+!outputs/*.csv
+!outputs/breck_interactive_map.html
+!outputs/normal_leads.csv
+!outputs/deprived_area_leads.csv
+
+# Backup files
+*.bak
+*.backup
+*_backup.*
+*_old.*
+
+# Log files
+*.log
+logs/
+
+# ============================================================================
+# DOCUMENTATION
+# ============================================================================
+
+# Compiled documentation
+docs/_build/
+docs/.doctrees/
+
+# ============================================================================
+# MISC
+# ============================================================================
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache directories
+.cache/
+*.cache

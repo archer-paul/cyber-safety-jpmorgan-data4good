@@ -1,0 +1,2157 @@
+{
+  "Merstham Park School": null,
+  "Slough & Eton School": {
+    "lat": 51.5038246,
+    "lon": -0.6040507,
+    "address": "Slough and Eton Church of England Business and Enterprise College, Ragstone Road, Myrke, Chalvey, Slough, England, SL1 2PU, United Kingdom",
+    "query_used": "Slough & Eton School, UK"
+  },
+  "Epsom Primary School": {
+    "lat": 51.3629138,
+    "lon": -0.2676897,
+    "address": "West Ewell Primary School and Nursery, Ruxley Lane, West Ewell, Ewell, Epsom and Ewell, Surrey, England, KT19 0UY, United Kingdom",
+    "query_used": "Epsom Primary School, UK"
+  },
+  "Langshott Primary School": {
+    "lat": 51.1740552,
+    "lon": -0.1544683,
+    "address": "Langshott Primary School, Smallfield Road, Meath Green, Horley, Reigate and Banstead, Surrey, England, RH6 9AU, United Kingdom",
+    "query_used": "Langshott Primary School, UK"
+  },
+  "Brindishe Green Primary School": null,
+  "Surbiton High School": {
+    "lat": 51.3992009,
+    "lon": -0.30412,
+    "address": "Surbiton High School, 15, Surbiton Crescent, Seething Wells, Surbiton, Kingston upon Thames, London, Greater London, England, KT1 2JT, United Kingdom",
+    "query_used": "Surbiton High School, UK"
+  },
+  "Brentwood School": {
+    "lat": 51.6209332,
+    "lon": 0.3085837,
+    "address": "Brentwood School, Crescent Drive, Shenfield, Brentwood, Essex, England, CM15 8EE, United Kingdom",
+    "query_used": "Brentwood School, UK"
+  },
+  "Charles Darwin School": {
+    "lat": 51.3176435,
+    "lon": 0.045338,
+    "address": "Charles Darwin School, Jail Lane, Aperfield, London Borough of Bromley, London, Greater London, England, TN16 3AU, United Kingdom",
+    "query_used": "Charles Darwin School, UK"
+  },
+  "Valley Invicta Primary School at Holborough Lakes": {
+    "lat": 51.3341572,
+    "lon": 0.4430482,
+    "address": "Valley Invicta Primary School at Holborough Lakes, Pollyfield Close, Holborough Lakes, Snodland, Tonbridge and Malling, Kent, England, ME6 5GR, United Kingdom",
+    "query_used": "Valley Invicta Primary School at Holborough Lakes, UK"
+  },
+  "The Bishop David Brown School": {
+    "lat": 51.3362417,
+    "lon": -0.5268535,
+    "address": "The Bishop David Brown School, Albert Drive, Sheerwater, West Byfleet, Woking, Surrey, England, GU21 5RF, United Kingdom",
+    "query_used": "The Bishop David Brown School, UK"
+  },
+  "The Hammond": {
+    "lat": 51.5547399,
+    "lon": 0.0084571,
+    "address": "The Jenny Hammond Primary School, Elsham Road, Cann Hall, Leytonstone, London Borough of Waltham Forest, London, Greater London, England, E11 3JH, United Kingdom",
+    "query_used": "The Hammond, UK"
+  },
+  "Malmesbury Primary School": {
+    "lat": 51.3879821,
+    "lon": -0.1862487,
+    "address": "Malmesbury Primary School, Malmesbury Road, Morden, London Borough of Merton, London, Greater London, England, SM4 6HG, United Kingdom",
+    "query_used": "Malmesbury Primary School, UK"
+  },
+  "Serenity School Crawley": null,
+  "Leopold Primary School": {
+    "lat": 51.5445258,
+    "lon": -0.2474981,
+    "address": "Leopold Primary School, Hawkshead Road, Harlesden, London Borough of Brent, London, Greater London, England, NW10 9UR, United Kingdom",
+    "query_used": "Leopold Primary School, UK"
+  },
+  "East Preston Junior School": {
+    "lat": 50.8126027,
+    "lon": -0.4816797,
+    "address": "East Preston Junior School, Lashmar Road, East Preston, Angmering on Sea, Arun, West Sussex, England, BN16 1EZ, United Kingdom",
+    "query_used": "East Preston Junior School, UK"
+  },
+  "Stockport Academy": {
+    "lat": 53.4002781,
+    "lon": -2.181615,
+    "address": "Stockport Academy, Rushton Road, Bridgehall, Edgeley, Cheadle, Stockport, Greater Manchester, England, SK3 0UP, United Kingdom",
+    "query_used": "Stockport Academy, UK"
+  },
+  "Shenley Primary School": {
+    "lat": 51.6904605,
+    "lon": -0.2796575,
+    "address": "Shenley Primary School, London Road, Shenley, Hertsmere, Hertfordshire, England, WD7 9DX, United Kingdom",
+    "query_used": "Shenley Primary School, UK"
+  },
+  "Broadmead Primary School": {
+    "lat": 51.3859871,
+    "lon": -0.0907218,
+    "address": "Broadmead Primary School, 366, Sydenham Road, Selhurst, London Borough of Croydon, London, Greater London, England, CR0 2EA, United Kingdom",
+    "query_used": "Broadmead Primary School, UK"
+  },
+  "The Ravensbourne School": {
+    "lat": 51.3950576,
+    "lon": 0.0213031,
+    "address": "The Ravensbourne School, Hayes Lane, Hayes, London Borough of Bromley, London, Greater London, England, BR2 9EH, United Kingdom",
+    "query_used": "The Ravensbourne School, UK"
+  },
+  "Coombe Boys School": {
+    "lat": 51.3958457,
+    "lon": -0.247118,
+    "address": "Coombe Boys' School, Blakes Lane, Motspur Park, Royal Borough of Kingston upon Thames, London, Greater London, England, KT3 6NU, United Kingdom",
+    "query_used": "Coombe Boys School, UK"
+  },
+  "Thomas Willingale": {
+    "lat": 51.6496725,
+    "lon": 0.0846939,
+    "address": "Thomas Willingale Primary School and Nursery, The Broadway, Loughton, Epping Forest, Essex, England, IG10 3SR, United Kingdom",
+    "query_used": "Thomas Willingale, UK"
+  },
+  "North Bridge House Senior School Hampstead": null,
+  "Wintringham Primary Academy": {
+    "lat": 52.2254006,
+    "lon": -0.2450854,
+    "address": "Wintringham Primary Academy, Guelder Rose Way, St. Neots, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE19 0BQ, United Kingdom",
+    "query_used": "Wintringham Primary Academy, UK"
+  },
+  "The Ellen Wilkinson School For Girls": {
+    "lat": 51.5162428,
+    "lon": -0.2865957,
+    "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+    "query_used": "The Ellen Wilkinson School For Girls, UK"
+  },
+  "Kingsford Community School": {
+    "lat": 51.5136513,
+    "lon": 0.0542473,
+    "address": "Kingsford Community School, Kingsford Way, Beckton, London Borough of Newham, London, Greater London, England, E6 5JG, United Kingdom",
+    "query_used": "Kingsford Community School, UK"
+  },
+  "Hogarth Primary": {
+    "lat": 51.4882422,
+    "lon": -0.2559935,
+    "address": "The William Hogarth Primary School, Duke Road, Glebe Estate, London Borough of Hounslow, London, Greater London, England, W4 2JR, United Kingdom",
+    "query_used": "Hogarth Primary, UK"
+  },
+  "Parkside Community Primary School": {
+    "lat": 51.2884384,
+    "lon": 1.1056799,
+    "address": "Parkside Community Primary School, Tennyson Avenue, Barracks, Canterbury, Kent, England, CT1 1EP, United Kingdom",
+    "query_used": "Parkside Community Primary School, UK"
+  },
+  "Clifton College": {
+    "lat": 51.46149,
+    "lon": -2.6195087,
+    "address": "Clifton College, 32, College Road, Clifton Village, Clifton, Bristol, City of Bristol, West of England, England, BS8 3EZ, United Kingdom",
+    "query_used": "Clifton College, UK"
+  },
+  "Grafton Primary School": {
+    "lat": 51.5586321,
+    "lon": 0.1409032,
+    "address": "Grafton Primary School, Grafton Road, Becontree Heath, London Borough of Barking and Dagenham, London, Greater London, England, RM8 3EX, United Kingdom",
+    "query_used": "Grafton Primary School, UK"
+  },
+  "Coombe Wood School": {
+    "lat": 51.3616585,
+    "lon": -0.075764,
+    "address": "Coombe Wood School, 30, Melville Avenue, London Borough of Croydon, London, Greater London, England, CR2 7HY, United Kingdom",
+    "query_used": "Coombe Wood School, UK"
+  },
+  "Chertsey High School": {
+    "lat": 51.3831443,
+    "lon": -0.4933121,
+    "address": "Chertsey High School, Chertsey Road, Chertsey, Runnymede, Surrey, England, KT15 2EP, United Kingdom",
+    "query_used": "Chertsey High School, UK"
+  },
+  "St Anselm's Catholic School": {
+    "lat": 51.2629805,
+    "lon": 1.0988929,
+    "address": "St. Anselm's Catholic School, Old Dover Road, Barton Estate, Canterbury, Kent, England, CT1 3EN, United Kingdom",
+    "query_used": "St Anselm's Catholic School, UK"
+  },
+  "The Turing school": {
+    "lat": 50.807666,
+    "lon": 0.2895988,
+    "address": "The Turing School, Larkspur Drive, Friday Street, Eastbourne, East Sussex, England, BN23 8EG, United Kingdom",
+    "query_used": "The Turing school, UK"
+  },
+  "Mora Primary School": {
+    "lat": 51.5590273,
+    "lon": -0.2251764,
+    "address": "Mora Primary School, Mora Road, Dollis Hill, London Borough of Brent, London, Greater London, England, NW2 6TD, United Kingdom",
+    "query_used": "Mora Primary School, UK"
+  },
+  "Foundry College": null,
+  "Hillcroft School": {
+    "lat": 54.6897437,
+    "lon": -5.9544533,
+    "address": "Hill Croft Special School, Manse Way, Carnmoney, New Mossley, Newtownabbey, Antrim and Newtownabbey District, County Antrim, Northern Ireland / Tuaisceart \u00c9ireann, BT36 5UW, United Kingdom",
+    "query_used": "Hillcroft School, UK"
+  },
+  "The Trinity CE Primary Academy": null,
+  "East Lane Primary School": {
+    "lat": 51.5638137,
+    "lon": -0.3079198,
+    "address": "East Lane Primary School, East Lane, North Wembley, Sudbury, London Borough of Brent, London, Greater London, England, HA0 3NT, United Kingdom",
+    "query_used": "East Lane Primary School, UK"
+  },
+  "Mulberry School for Girls": {
+    "lat": 51.5140082,
+    "lon": -0.0595291,
+    "address": "Mulberry School for Girls, Richard Street, St. George in the East, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 2JP, United Kingdom",
+    "query_used": "Mulberry School for Girls, UK"
+  },
+  "Felmore Primary": {
+    "lat": 51.580615,
+    "lon": 0.5068551,
+    "address": "Felmore Primary School, Davenants, Basildon, Essex, England, SS13 1QX, United Kingdom",
+    "query_used": "Felmore Primary, UK"
+  },
+  "Audley Primary School": {
+    "lat": 52.4880205,
+    "lon": -1.7954415,
+    "address": "Audley Primary School, Audley Road, Hodge Hill, Kitts Green, Birmingham, West Midlands, England, B33 9HY, United Kingdom",
+    "query_used": "Audley Primary School, UK"
+  },
+  "St George's College Weybridge": {
+    "lat": 51.3778623,
+    "lon": -0.4789792,
+    "address": "St George's College Weybridge, Weybridge Road, Runnymede, Surrey, England, KT15 2QS, United Kingdom",
+    "query_used": "St George's College Weybridge, UK"
+  },
+  "Holy Family Catholic Primary School": {
+    "lat": 51.4600569,
+    "lon": 0.0302342,
+    "address": "Holy Family Catholic Primary School, Tudway Road, Kidbrooke Village, Kidbrooke, Royal Borough of Greenwich, London, Greater London, England, SE3 9YX, United Kingdom",
+    "query_used": "Holy Family Catholic Primary School, UK"
+  },
+  "Charles Darwin Primary School": {
+    "lat": 52.6281562,
+    "lon": 1.3036641,
+    "address": "Charles Darwin Primary School, 81, Rose Lane, Thorpe Hamlet, Norwich, Norfolk, England, NR1 1DJ, United Kingdom",
+    "query_used": "Charles Darwin Primary School, UK"
+  },
+  "Gascoigne Primary School": {
+    "lat": 51.5326071,
+    "lon": 0.0810725,
+    "address": "Gascoigne Primary School, Gascoigne Road, Gascoigne Estate, Barking, London, Greater London, England, IG11 7DR, United Kingdom",
+    "query_used": "Gascoigne Primary School, UK"
+  },
+  "Francis Holland Sloane Square": null,
+  "Birchwood Avenue Primary School": {
+    "lat": 51.7692859,
+    "lon": -0.2258742,
+    "address": "Birchwood Avenue Primary School, Birchwood Avenue, Birchwood, Hatfield, Welwyn Hatfield, Hertfordshire, England, AL10 0PS, United Kingdom",
+    "query_used": "Birchwood Avenue Primary School, UK"
+  },
+  "Caldicott School": {
+    "lat": 51.5481679,
+    "lon": -0.6204693,
+    "address": "Caldicott School, Crown Lane, East Burnham, Burnham, Beeches Community Board, Farnham Common, Buckinghamshire, England, SL2 3SL, United Kingdom",
+    "query_used": "Caldicott School, UK"
+  },
+  "Ruislip High School": {
+    "lat": 51.5629567,
+    "lon": -0.4119308,
+    "address": "Ruislip High School, Sidmouth Drive, London Borough of Hillingdon, London, Greater London, England, HA4 0BT, United Kingdom",
+    "query_used": "Ruislip High School, UK"
+  },
+  "Bishop  Challoner Catholic Secondary School": {
+    "lat": 51.2563831,
+    "lon": -1.1221183,
+    "address": "Bishop Challoner Catholic Secondary School, St Michaels Road, Berg Estate, South Ham, Basingstoke, Basingstoke and Deane, Hampshire, England, RG22 6SR, United Kingdom",
+    "query_used": "Bishop  Challoner Catholic Secondary School, UK"
+  },
+  "Heathermount School": {
+    "lat": 51.3941958,
+    "lon": -0.6520902,
+    "address": "Heathermount School, Devenish Road, Sunninghill and Ascot, Ascot, Windsor and Maidenhead, England, SL5 9PG, United Kingdom",
+    "query_used": "Heathermount School, UK"
+  },
+  "Edmund Waller Primary School": {
+    "lat": 51.4712421,
+    "lon": -0.0494839,
+    "address": "Edmund Waller Primary School, Waller Road, Telegraph Hill, New Cross Gate, London Borough of Lewisham, London, Greater London, England, SE14 5LY, United Kingdom",
+    "query_used": "Edmund Waller Primary School, UK"
+  },
+  "Radnor House Twickenham": {
+    "lat": 51.4420446,
+    "lon": -0.3313027,
+    "address": "Radnor House, Cross Deep, Strawberry Hill, Twickenham, London, Greater London, England, TW1 4QG, United Kingdom",
+    "query_used": "Radnor House Twickenham, UK"
+  },
+  "King Edward VI School, Southampton": {
+    "lat": 50.9225462,
+    "lon": -1.4167856,
+    "address": "King Edward VI School, Wilton Road, Upper Shirley, Southampton, England, SO15 5UQ, United Kingdom",
+    "query_used": "King Edward VI School, Southampton, UK"
+  },
+  "Bonus Pastor Catholic College": {
+    "lat": 51.4265509,
+    "lon": -0.0014026,
+    "address": "Bonus Pastor Catholic College, Winlaton Road, Southend, London Borough of Lewisham, London, Greater London, England, BR1 5PZ, United Kingdom",
+    "query_used": "Bonus Pastor Catholic College, UK"
+  },
+  "St John's Beaumont": {
+    "lat": 53.6393382,
+    "lon": -1.8265529,
+    "address": "John Street, Quarmby, Milnsbridge, Kirklees, West Yorkshire, England, HD3 4NP, United Kingdom",
+    "query_used": "St John's Beaumont, UK"
+  },
+  "The Matthew Arnold School": {
+    "lat": 51.4255551,
+    "lon": -0.486262,
+    "address": "The Matthew Arnold School, Kingston Road, Staines-upon-Thames, Surrey, England, TW18 1PF, United Kingdom",
+    "query_used": "The Matthew Arnold School, UK"
+  },
+  "Trinity Primary Academy": {
+    "lat": 51.6002382,
+    "lon": -0.113544,
+    "address": "Trinity Primary Academy, Bounds Green Road, Hornsey, London Borough of Haringey, London, Greater London, England, N22 8ES, United Kingdom",
+    "query_used": "Trinity Primary Academy, UK"
+  },
+  "John Ball Primary School": {
+    "lat": 51.4664202,
+    "lon": 0.0039862,
+    "address": "John Ball Primary School, Southvale Road, Lee Terrace Estate, Blackheath, London Borough of Lewisham, London, Greater London, England, SE3 0TP, United Kingdom",
+    "query_used": "John Ball Primary School, UK"
+  },
+  "Weyfield Primary Academy": null,
+  "Trinity Academy St Edwards": null,
+  "South Molton Community College": {
+    "lat": 51.0115777,
+    "lon": -3.83342,
+    "address": "South Molton Community College, Alswear Old Road, South Molton, North Devon, Devon, Devon and Torbay, England, EX36 4LA, United Kingdom",
+    "query_used": "South Molton Community College, UK"
+  },
+  "Brighton College": {
+    "lat": 50.8217989,
+    "lon": -0.1210922,
+    "address": "Brighton College, Eastern Road, Kemptown, Brighton, Brighton and Hove, England, BN2 0AL, United Kingdom",
+    "query_used": "Brighton College, UK"
+  },
+  "Manorfield Primary & Nursery School": {
+    "lat": 51.1726933,
+    "lon": -0.174828,
+    "address": "Manorfield Primary and Nursery School, Sangers Drive, Meath Green, Horley, Reigate and Banstead, Surrey, England, RH6 8AL, United Kingdom",
+    "query_used": "Manorfield Primary & Nursery School, UK"
+  },
+  "Fleetdown Primary Academy": {
+    "lat": 51.433588,
+    "lon": 0.2484962,
+    "address": "Fleetdown Primary Academy, Lunedale Road, Brooklands, New Town, Hawley, Dartford, Kent, England, DA2 6JX, United Kingdom",
+    "query_used": "Fleetdown Primary Academy, UK"
+  },
+  "Maritime Academy": {
+    "lat": 53.5551427,
+    "lon": -0.1004321,
+    "address": "Ormiston Maritime Academy, Westward Ho, Grange, Grimsby, North East Lincolnshire, Greater Lincolnshire, England, DN34 5AH, United Kingdom",
+    "query_used": "Maritime Academy, UK"
+  },
+  "New North Academy": {
+    "lat": 51.5389909,
+    "lon": -0.0954946,
+    "address": "The New North Academy, 32, Popham Road, Canonbury, Islington, London Borough of Islington, London, Greater London, England, N1 8SJ, United Kingdom",
+    "query_used": "New North Academy, UK"
+  },
+  "Laleham Gap School": {
+    "lat": 51.3476627,
+    "lon": 1.437687,
+    "address": "Laleham Gap School, 1, Dumpton Gap, Broadstairs and St Peters, Broadstairs, Thanet, Kent, England, CT10 1TJ, United Kingdom",
+    "query_used": "Laleham Gap School, UK"
+  },
+  "Central Bedfordshire College": {
+    "lat": 51.8910532,
+    "lon": -0.5190532,
+    "address": "Central Bedfordshire College, College Drive, Dunstable, Central Bedfordshire, England, LU5 4HG, United Kingdom",
+    "query_used": "Central Bedfordshire College, UK"
+  },
+  "St John's C of E Primary School": {
+    "lat": 51.3719139,
+    "lon": -0.0513478,
+    "address": "St. John's C of E Primary School, Spring Park Road, Shirley, London Borough of Croydon, London, Greater London, England, CR0 5EL, United Kingdom",
+    "query_used": "St John's C of E Primary School, UK"
+  },
+  "Felsted Prep School": null,
+  "St Cuthbert's Catholic Primary School": {
+    "lat": 54.9934158,
+    "lon": -1.7372896,
+    "address": "St Cuthbert's Catholic Primary School, The Green, Lemington, Walbottle, Newcastle upon Tyne, North East, England, NE15 8JL, United Kingdom",
+    "query_used": "St Cuthbert's Catholic Primary School, UK"
+  },
+  "Dorchester Primary": {
+    "lat": 51.3802412,
+    "lon": -0.2312759,
+    "address": "Dorchester Primary School, Dorchester Road, The Hamptons, Worcester Park, London Borough of Sutton, London, Greater London, England, KT4 8PG, United Kingdom",
+    "query_used": "Dorchester Primary, UK"
+  },
+  "Esher Church of England High School": {
+    "lat": 51.3750222,
+    "lon": -0.370802,
+    "address": "Esher Church of England High School, The Gallops, Esher Place, Lower Green Esher, Esher, Elmbridge, Surrey, England, KT10 8AP, United Kingdom",
+    "query_used": "Esher Church of England High School, UK"
+  },
+  "Highfield and Brookham": {
+    "lat": 51.0700969,
+    "lon": -0.7841535,
+    "address": "Highfield and Brookham Schools, Highfield Lane, Linchmere, Chichester, West Sussex, England, GU30 7LQ, United Kingdom",
+    "query_used": "Highfield and Brookham, UK"
+  },
+  "University College School": {
+    "lat": 51.5531182,
+    "lon": -0.1803116,
+    "address": "University College School, Frognal, Vale of Health, South Hampstead, London Borough of Camden, London, Greater London, England, NW3 6XH, United Kingdom",
+    "query_used": "University College School, UK"
+  },
+  "Yattendon School": {
+    "lat": 51.1774533,
+    "lon": -0.1644787,
+    "address": "Yattendon School, Oakwood Road, Meath Green, Horley, Reigate and Banstead, Surrey, England, RH6 7BZ, United Kingdom",
+    "query_used": "Yattendon School, UK"
+  },
+  "Handcross Primary School": {
+    "lat": 51.0604815,
+    "lon": -0.2002921,
+    "address": "Handcross Primary School, London Road, Slaugham, Handcross, Mid Sussex, West Sussex, England, RH17 6HB, United Kingdom",
+    "query_used": "Handcross Primary School, UK"
+  },
+  "Royal Alexandra and Albert School": null,
+  "Francis Holland School Regent's Park": null,
+  "John Wood School and Nursery": null,
+  "Esher Church School": {
+    "lat": 51.3647512,
+    "lon": -0.3619604,
+    "address": "Esher Church School, Milbourne Lane, Claremont Park, Esher, Elmbridge, Surrey, England, KT10 9DU, United Kingdom",
+    "query_used": "Esher Church School, UK"
+  },
+  "UCS": {
+    "lat": 51.8304107,
+    "lon": -1.3015047,
+    "address": "UCS (Oxford Virtual Education Group), Bankside, Station Field Industrial Estate, Kidlington, Thrupp, Cherwell, Oxfordshire, England, OX5 1JE, United Kingdom",
+    "query_used": "UCS, UK"
+  },
+  "Mabe Primary School": {
+    "lat": 50.1677152,
+    "lon": -5.1292583,
+    "address": "Mabe Community Primary School, Cunningham Park, Mabe Burnthouse, Mabe, Penryn, Cornwall, England, TR10 9HB, United Kingdom",
+    "query_used": "Mabe Primary School, UK"
+  },
+  "Northfleet School for Girls": {
+    "lat": 51.4290849,
+    "lon": 0.3428117,
+    "address": "Northfleet School for Girls, Hall Road, Perry Street, Northfleet, Gravesham, Kent, England, DA11 8AQ, United Kingdom",
+    "query_used": "Northfleet School for Girls, UK"
+  },
+  "Ewell Grove Primary School": {
+    "lat": 51.3482411,
+    "lon": -0.2505546,
+    "address": "Ewell Grove Primary & Nursery School, West Street, Ewell, Epsom and Ewell, Surrey, England, KT17 1UX, United Kingdom",
+    "query_used": "Ewell Grove Primary School, UK"
+  },
+  "Slough & Eton": {
+    "lat": 51.5038246,
+    "lon": -0.6040507,
+    "address": "Slough and Eton Church of England Business and Enterprise College, Ragstone Road, Myrke, Chalvey, Slough, England, SL1 2PU, United Kingdom",
+    "query_used": "Slough & Eton, UK"
+  },
+  "The Beacon": {
+    "lat": 50.1088423,
+    "lon": -5.6177808,
+    "address": "The Beacon, Sancreed, Cornwall, England, TR20 8QT, United Kingdom",
+    "query_used": "The Beacon, UK"
+  },
+  "The College Merthyr Tydfil": null,
+  "Rochester Grammar": {
+    "lat": 51.3718924,
+    "lon": 0.5004425,
+    "address": "The Rochester Grammar School, Maidstone Road, Troy Town, Borstal, Rochester, Medway, England, ME1 3BY, United Kingdom",
+    "query_used": "Rochester Grammar, UK"
+  },
+  "Burstow Park School": {
+    "lat": 51.1452495,
+    "lon": -0.1266746,
+    "address": "Burstow Park School, Antlands Lane, Newhouse Farm, Burstow, Shipley Bridge, Tandridge, Surrey, England, RH6 9TF, United Kingdom",
+    "query_used": "Burstow Park School, UK"
+  },
+  "Cedar Children's Academy": {
+    "lat": 51.388987,
+    "lon": 0.4783799,
+    "address": "Cedar Children's Academy, Cedar Road, Strood, Kent, England, ME2 2JP, United Kingdom",
+    "query_used": "Cedar Children's Academy, UK"
+  },
+  "Bishops Down Primary School": {
+    "lat": 51.1393029,
+    "lon": 0.2486483,
+    "address": "Bishops Down Primary School, Coniston Avenue, Rusthall, Tunbridge Wells, Kent, England, TN4 9SR, United Kingdom",
+    "query_used": "Bishops Down Primary School, UK"
+  },
+  "Claygate primary School": {
+    "lat": 51.3586048,
+    "lon": -0.3432341,
+    "address": "Claygate Primary School, Foley Road, Claygate, Elmbridge, Surrey, England, KT10 0NB, United Kingdom",
+    "query_used": "Claygate primary School, UK"
+  },
+  "Coomb Wood School": null,
+  "St Peter's Catholic Primary School": {
+    "lat": 51.5319571,
+    "lon": 0.1446505,
+    "address": "St Peter's Catholic Primary School, Ripple Road, Dagenham, London Borough of Barking and Dagenham, London, Greater London, England, RM9 6UU, United Kingdom",
+    "query_used": "St Peter's Catholic Primary School, UK"
+  },
+  "Hatchlands Primary School": null,
+  "Whyteleafe School": {
+    "lat": 51.3075933,
+    "lon": -0.0813462,
+    "address": "Whyteleafe Primary School, Whyteleafe Hill, Whyteleafe, Caterham, Tandridge, Surrey, England, CR3 0AA, United Kingdom",
+    "query_used": "Whyteleafe School, UK"
+  },
+  "The Redeemer CEP": null,
+  "Leopold Gwenneth Rickus Primary": {
+    "lat": 51.5464196,
+    "lon": -0.2591881,
+    "address": "Leopold Gwenneth Rickus Primary School, Brentfield Road, Harlesden, London Borough of Brent, London, Greater London, England, NW10 8HE, United Kingdom",
+    "query_used": "Leopold Gwenneth Rickus Primary, UK"
+  },
+  "The Weald C of E Primary School": null,
+  "Rushey Green Primary School": {
+    "lat": 51.4422984,
+    "lon": -0.0182191,
+    "address": "Rushey Green Primary School, Culverley Road, Catford South, Catford, London, Greater London, England, SE6 2LA, United Kingdom",
+    "query_used": "Rushey Green Primary School, UK"
+  },
+  "Cyril Jackson Primary": {
+    "lat": 51.5102987,
+    "lon": -0.0296814,
+    "address": "The Cyril Jackson Primary School (North Building), 51, Three Colt Street, Limehouse, London Borough of Tower Hamlets, London, Greater London, England, E14 8HH, United Kingdom",
+    "query_used": "Cyril Jackson Primary, UK"
+  },
+  "Cayley": {
+    "lat": 53.4689012,
+    "lon": -2.1664705,
+    "address": "Amazon Locker, Lees Street, Abbey Hey, Gorton, Manchester, Greater Manchester, England, M11 1NX, United Kingdom",
+    "query_used": "Cayley, UK"
+  },
+  "St Francis Catholic Primary School": {
+    "lat": 51.5479728,
+    "lon": 0.0066356,
+    "address": "St Francis' Catholic Primary School, Bow Street, Stratford New Town, Maryland, London Borough of Newham, London, Greater London, England, E15 1HD, United Kingdom",
+    "query_used": "St Francis Catholic Primary School, UK"
+  },
+  "Bell Farm Primary School": {
+    "lat": 51.3718169,
+    "lon": -0.4005324,
+    "address": "Bell Farm Primary School, Keywood Drive, Hersham, Elmbridge, Surrey, England, KT12 5NB, United Kingdom",
+    "query_used": "Bell Farm Primary School, UK"
+  },
+  "Globe Primary School": {
+    "lat": 51.5290887,
+    "lon": -0.0515214,
+    "address": "Globe Primary School, Gawber Street, Cyprus Street Estate, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, England, E2 0JH, United Kingdom",
+    "query_used": "Globe Primary School, UK"
+  },
+  "Prince's Mead": {
+    "lat": 51.0929513,
+    "lon": -1.2857723,
+    "address": "Prince's Mead School, Martyr Worthy Road, Kings Worthy, Winchester, Hampshire, England, SO21 1AN, United Kingdom",
+    "query_used": "Prince's Mead, UK"
+  },
+  "Alexander McLeod Primary": {
+    "lat": 51.4851103,
+    "lon": 0.1126137,
+    "address": "Alexander McLeod Primary School, Bostall Lane, Abbey Wood, Royal Borough of Greenwich, London, Greater London, England, SE2 0QS, United Kingdom",
+    "query_used": "Alexander McLeod Primary, UK"
+  },
+  "St Francis Catholic School, Caterham": {
+    "lat": 51.295666,
+    "lon": -0.0846234,
+    "address": "St Francis Catholic Primary School, Whyteleafe Road, Caterham-on-the-Hill, Caterham, Tandridge, Surrey, England, CR3 5ED, United Kingdom",
+    "query_used": "St Francis Catholic School, Caterham, UK"
+  },
+  "East Leake Academy": {
+    "lat": 52.8358995,
+    "lon": -1.1716687,
+    "address": "East Leake Academy, Lantern Lane, Lantern Fields, East Leake, Rushcliffe, Nottinghamshire, East Midlands, England, LE12 6QN, United Kingdom",
+    "query_used": "East Leake Academy, UK"
+  },
+  "Ewell Castle Prep": {
+    "lat": 51.3498309,
+    "lon": -0.250516,
+    "address": "Ewell Castle School Nursery and Prep, Spring Street, Stoneleigh, Ewell, Epsom and Ewell, Surrey, England, KT17 1TZ, United Kingdom",
+    "query_used": "Ewell Castle Prep, UK"
+  },
+  "Hackbridge Primary School": {
+    "lat": 51.3786642,
+    "lon": -0.1565588,
+    "address": "Hackbridge Primary School - Hackbridge Corner Site, Spinning Wheel Way, Hackbridge, London Borough of Sutton, London, Greater London, England, SM6 7AX, United Kingdom",
+    "query_used": "Hackbridge Primary School, UK"
+  },
+  "On Track Education Northampton": {
+    "lat": 52.2743192,
+    "lon": -0.8608528,
+    "address": "On Track Education Northampton, 6, Quarry Park Close, Moulton Park, Northampton, West Northamptonshire, England, NN3 6QB, United Kingdom",
+    "query_used": "On Track Education Northampton, UK"
+  },
+  "St Paul's Cray CE primary School": null,
+  "Cuddington Croft Primary School": {
+    "lat": 51.350919,
+    "lon": -0.2212241,
+    "address": "Cuddington Croft Primary School, Nonsuch Walk, London Borough of Sutton, Epsom and Ewell, Surrey, Greater London, England, SM2 7NA, United Kingdom",
+    "query_used": "Cuddington Croft Primary School, UK"
+  },
+  "Robin Hood Primary School": {
+    "lat": 53.7376557,
+    "lon": -1.5081679,
+    "address": "Robin Hood Primary School, Leeds Road, Howlett Cross, Robin Hood, Wakefield, West Yorkshire, England, WF3 3BG, United Kingdom",
+    "query_used": "Robin Hood Primary School, UK"
+  },
+  "Thorpe Church of England Primary School": null,
+  "The Victory  Academy": {
+    "lat": 51.3679996,
+    "lon": 0.5337152,
+    "address": "The Victory Academy, Magpie Hall Road, Snodhurst, Chatham, Kent, England, ME4 5JB, United Kingdom",
+    "query_used": "The Victory  Academy, UK"
+  },
+  "All Faiths Children's Academy": {
+    "lat": 51.3980271,
+    "lon": 0.4930869,
+    "address": "All Faiths Children's Academy, Gun Lane, Rochester, Kent, England, ME2 4UF, United Kingdom",
+    "query_used": "All Faiths Children's Academy, UK"
+  },
+  "Holy Family Catholic Primary": {
+    "lat": 51.4600569,
+    "lon": 0.0302342,
+    "address": "Holy Family Catholic Primary School, Tudway Road, Kidbrooke Village, Kidbrooke, Royal Borough of Greenwich, London, Greater London, England, SE3 9YX, United Kingdom",
+    "query_used": "Holy Family Catholic Primary, UK"
+  },
+  "Unicorn Primary School": {
+    "lat": 51.3919172,
+    "lon": -0.0226801,
+    "address": "Unicorn Primary School, Creswell Drive, Langley Park, Eden Park, London Borough of Bromley, London, Greater London, England, BR3 3AL, United Kingdom",
+    "query_used": "Unicorn Primary School, UK"
+  },
+  "Chislehurst School for Girls": {
+    "lat": 51.4192627,
+    "lon": 0.08844,
+    "address": "Chislehurst School for Girls, Beaverwood Road, Perry Street, Chislehurst, London Borough of Bromley, London, Greater London, England, BR7 6HE, United Kingdom",
+    "query_used": "Chislehurst School for Girls, UK"
+  },
+  "Fairlawn primary school": {
+    "lat": 51.4469114,
+    "lon": -0.0552941,
+    "address": "Fairlawn Primary School, Honor Oak Road, Forest Hill, London Borough of Lewisham, London, Greater London, England, SE23 3SB, United Kingdom",
+    "query_used": "Fairlawn primary school, UK"
+  },
+  "Holy Cross Primary": {
+    "lat": 51.4425442,
+    "lon": -0.0139208,
+    "address": "Holy Cross Catholic Primary School, Culverley Road, Catford South, London Borough of Lewisham, London, Greater London, England, SE6 2LD, United Kingdom",
+    "query_used": "Holy Cross Primary, UK"
+  },
+  "St. AUgustine's Primary School": {
+    "lat": 55.85901,
+    "lon": -4.0348911,
+    "address": "St Augustine's Primary School, Buchanan Street, Dundyvan, Langloan, Coatbridge, North Lanarkshire, Alba / Scotland, ML5 1BL, United Kingdom",
+    "query_used": "St. AUgustine's Primary School, UK"
+  },
+  "St Anthony's Catholic Primary School": {
+    "lat": 53.3726636,
+    "lon": -2.261997,
+    "address": "St Anthony's Catholic Primary School, Dunkery Road, Woodhouse Park, Wythenshawe, Manchester, Greater Manchester, England, M22 0NT, United Kingdom",
+    "query_used": "St Anthony's Catholic Primary School, UK"
+  },
+  "Emanuel School": {
+    "lat": 51.4568585,
+    "lon": -0.1735055,
+    "address": "Emanuel School, Battersea Rise, Windmill Green Estate, Clapham Junction, London Borough of Wandsworth, London, Greater London, England, SW11 1HS, United Kingdom",
+    "query_used": "Emanuel School, UK"
+  },
+  "St Peter & St Paul Primary": {
+    "lat": 54.9296001,
+    "lon": -7.0315058,
+    "address": "St Peter & St Paul Primary School, Foreglen Road, Foreglen, Causeway Coast and Glens District, County Londonderry, Northern Ireland / Tuaisceart \u00c9ireann, BT47 4PJ, United Kingdom",
+    "query_used": "St Peter & St Paul Primary School, UK"
+  },
+  "Hatchlands Primary": null,
+  "Hillcroft Primary School": {
+    "lat": 51.2864843,
+    "lon": -0.0904018,
+    "address": "Hillcroft Primary School, Chaldon Road, Caterham-on-the-Hill, Caterham, Tandridge, Surrey, England, CR3 5PG, United Kingdom",
+    "query_used": "Hillcroft Primary School, UK"
+  },
+  "St John's Walham Green CE Primary": null,
+  "Heart of England Training Ltd": null,
+  "Chisenhale Primary School": {
+    "lat": 51.5328868,
+    "lon": -0.0389254,
+    "address": "Chisenhale Primary School, Chisenhale Road, Globe Town, Mile End, London Borough of Tower Hamlets, London, Greater London, England, E3 5QY, United Kingdom",
+    "query_used": "Chisenhale Primary School, UK"
+  },
+  "The Newbridge School": {
+    "lat": 52.7170623,
+    "lon": -1.36425,
+    "address": "The Newbridge School, Forest Road, Hugglescote and Donington le Heath, Coalville, North West Leicestershire, Leicestershire, England, LE67 3SJ, United Kingdom",
+    "query_used": "The Newbridge School, UK"
+  },
+  "Richard de Clare Community Academy": {
+    "lat": 51.9425591,
+    "lon": 0.6397918,
+    "address": "Richard de Clare Community Academy, Parsonage Street, Halstead, Braintree, Essex, England, CO9 2JT, United Kingdom",
+    "query_used": "Richard de Clare Community Academy, UK"
+  },
+  "Thomas Bennett Community College": {
+    "lat": 51.1001045,
+    "lon": -0.1912051,
+    "address": "Thomas Bennett Community College, Ashdown Drive, Southgate, Crawley, West Sussex, England, RH10 5AD, United Kingdom",
+    "query_used": "Thomas Bennett Community College, UK"
+  },
+  "Haseltine Primary School": {
+    "lat": 51.4280123,
+    "lon": -0.0367553,
+    "address": "Haseltine Primary School, Haseltine Road, Bell Green, Perry Vale, London Borough of Lewisham, London, Greater London, England, SE26 5AD, United Kingdom",
+    "query_used": "Haseltine Primary School, UK"
+  },
+  "Gordon Children's Academy": null,
+  "Holy Trinity CE Primary": {
+    "lat": 52.5134072,
+    "lon": -1.9068807,
+    "address": "Holy Trinity CE Primary Academy, Calthorpe Road, Birchfield, Birmingham, West Midlands, England, B20 3LP, United Kingdom",
+    "query_used": "Holy Trinity CE Primary, UK"
+  },
+  "Bromsgrove Prep School": {
+    "lat": 52.3278777,
+    "lon": -2.060919,
+    "address": "Bromsgrove Prep School, Old Station Road, Aston Fields, Bromsgrove, Worcestershire, England, B60 2BU, United Kingdom",
+    "query_used": "Bromsgrove Prep School, UK"
+  },
+  "Scotts Park Primary School": {
+    "lat": 51.4109019,
+    "lon": 0.0312347,
+    "address": "Scotts Park Primary School, Orchard Road, Widmore Green, Widmore, London Borough of Bromley, London, Greater London, England, BR1 2PR, United Kingdom",
+    "query_used": "Scotts Park Primary School, UK"
+  },
+  "St Mary's CofE Controlled Primary School": {
+    "lat": 51.333805,
+    "lon": -0.4764295,
+    "address": "St Mary's CofE Controlled Primary School, Hart Road, Byfleet, Woking, Surrey, England, KT14 7NJ, United Kingdom",
+    "query_used": "St Mary's CofE Controlled Primary School, UK"
+  },
+  "Beechwood Park School": {
+    "lat": 51.8182619,
+    "lon": -0.4838435,
+    "address": "Beechwood Park School, Beechwood Lane, Flamstead, Gaddesden Row, St Albans, Hertfordshire, England, AL3 8AW, United Kingdom",
+    "query_used": "Beechwood Park School, UK"
+  },
+  "Orwell Park Prep School but also The Wellbeing Hub and previous Huddl!": null,
+  "Blossom House School": {
+    "lat": 51.5315195,
+    "lon": -0.1343504,
+    "address": "Blossom House School, Aldenham Street, Somers Town, London Borough of Camden, London, Greater London, England, NW1 1PS, United Kingdom",
+    "query_used": "Blossom House School, UK"
+  },
+  "Avon Park School": {
+    "lat": 52.3609809,
+    "lon": -1.2362302,
+    "address": "Avon Park School, St. Johns Avenue, Hillmorton Paddox, Rugby, Warwickshire, England, CV22 5HR, United Kingdom",
+    "query_used": "Avon Park School, UK"
+  },
+  "The Forest Academy": {
+    "lat": 51.6089416,
+    "lon": 0.1130516,
+    "address": "The Forest Academy, New North Road, Hainault, London Borough of Redbridge, London, Greater London, England, IG6 3TE, United Kingdom",
+    "query_used": "The Forest Academy, UK"
+  },
+  "Limetree primary school": null,
+  "Papplewick School": {
+    "lat": 51.4217343,
+    "lon": -0.6786267,
+    "address": "Papplewick School, Windsor Road, North Ascot, Sunninghill and Ascot, Ascot, Windsor and Maidenhead, England, SL5 7LH, United Kingdom",
+    "query_used": "Papplewick School, UK"
+  },
+  "ST ANTHONY'S SCHOOL MARGATE": {
+    "lat": 51.3811885,
+    "lon": 1.4088009,
+    "address": "St Anthony's School, St. Anthony's Way, East Cliftonville, Millmead, Margate, Thanet, Kent, England, CT9 3RA, United Kingdom",
+    "query_used": "ST ANTHONY'S SCHOOL MARGATE, UK"
+  },
+  "Fulham Cross Academy": {
+    "lat": 51.4776773,
+    "lon": -0.2149023,
+    "address": "Fulham Cross Academy, Kingwood Road, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, England, SW6 6SN, United Kingdom",
+    "query_used": "Fulham Cross Academy, UK"
+  },
+  "Clandon CE Primary School": null,
+  "Scarborough College": {
+    "lat": 54.2642588,
+    "lon": -0.3966548,
+    "address": "Scarborough College, Filey Road, South Cliff, Scarborough, North Yorkshire, York and North Yorkshire, England, YO11 3BA, United Kingdom",
+    "query_used": "Scarborough College, UK"
+  },
+  "Hurst Park Primary School": {
+    "lat": 51.4044148,
+    "lon": -0.3792269,
+    "address": "Hurst Park Primary Academy, Freeman Drive, Molesey, Elmbridge, Surrey, England, KT8 1QS, United Kingdom",
+    "query_used": "Hurst Park Primary School, UK"
+  },
+  "St Joseph's, Deptford": {
+    "lat": 51.4657481,
+    "lon": -0.0005758,
+    "address": "St Joseph's Vale, Baizdon Road Estate, Blackheath, London Borough of Lewisham, London, Greater London, England, SE3 0UT, United Kingdom",
+    "query_used": "St Joseph's, Deptford, UK"
+  },
+  "Yavneh Primary": null,
+  "Good Shepherd Catholic Primary school": {
+    "lat": 51.353493,
+    "lon": -0.0209527,
+    "address": "Good Shepherd Catholic Primary and Nursery School, 2, Dunley Drive, Forestdale, London Borough of Croydon, London, Greater London, England, CR0 0RG, United Kingdom",
+    "query_used": "Good Shepherd Catholic Primary school, UK"
+  },
+  "Caterham School": {
+    "lat": 51.2720822,
+    "lon": -0.0896969,
+    "address": "Caterham School, Harestone Valley Road, Caterham Valley, Caterham, Tandridge, Surrey, England, CR3 6YA, United Kingdom",
+    "query_used": "Caterham School, UK"
+  },
+  "Canford School": {
+    "lat": 50.7882882,
+    "lon": -1.9518046,
+    "address": "Canford School, Canford Magna, Merley, Poole, Bournemouth, Christchurch and Poole, England, BH21 3AD, United Kingdom",
+    "query_used": "Canford School, UK"
+  },
+  "Amport Primary School": {
+    "lat": 51.1966719,
+    "lon": -1.5681482,
+    "address": "Amport Church of England Primary School, Keepers Hill, Sarson, Amport, Test Valley, Hampshire, England, SP11 8BA, United Kingdom",
+    "query_used": "Amport Primary School, UK"
+  },
+  "Downsend School": {
+    "lat": 51.3004251,
+    "lon": -0.3145903,
+    "address": "Downsend School, Blades Close, Lower Ashtead, Ashtead, Mole Valley, Surrey, England, KT22 8TJ, United Kingdom",
+    "query_used": "Downsend School, UK"
+  },
+  "Launcelot Primary School": {
+    "lat": 51.4264203,
+    "lon": 0.0151712,
+    "address": "Launcelot Primary School, Launcelot Road, Downham, London Borough of Lewisham, London, Greater London, England, BR1 5EA, United Kingdom",
+    "query_used": "Launcelot Primary School, UK"
+  },
+  "St Birinus": {
+    "lat": 51.6077333,
+    "lon": -0.7151672,
+    "address": "St Birinus, Chepping Wycombe, Beaconsfield and Chepping Wye Community Board, Flackwell Heath, Buckinghamshire, England, HP10 9DJ, United Kingdom",
+    "query_used": "St Birinus, UK"
+  },
+  "Chilworth House Lower School": null,
+  "Chelsea Academy": {
+    "lat": 51.4782579,
+    "lon": -0.182847,
+    "address": "Chelsea Academy, Lots Road, Lot's Village, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW10 0AB, United Kingdom",
+    "query_used": "Chelsea Academy, UK"
+  },
+  "Adeyfield Academy": {
+    "lat": 51.7531254,
+    "lon": -0.4474921,
+    "address": "The Adeyfield Academy, Longlands, Jarman Park, Highfield, Old Town, Dacorum, Hertfordshire, England, HP2 4DE, United Kingdom",
+    "query_used": "Adeyfield Academy, UK"
+  },
+  "Warren Mead": {
+    "lat": 51.3253784,
+    "lon": -0.2302741,
+    "address": "Warren Mead, Nork, Banstead, Reigate and Banstead, Surrey, England, SM7 1LU, United Kingdom",
+    "query_used": "Warren Mead, UK"
+  },
+  "Fairholme Primary School": {
+    "lat": 51.4470271,
+    "lon": -0.4342725,
+    "address": "Fairholme Primary School, Peacock Avenue, Bedfont, London Borough of Hounslow, London, Greater London, England, TW14 8ET, United Kingdom",
+    "query_used": "Fairholme Primary School, UK"
+  },
+  "Guildford High School": {
+    "lat": 51.2417427,
+    "lon": -0.5644504,
+    "address": "Guildford High School, London Road, Charlotteville, Guildford, Surrey, England, GU1 1SJ, United Kingdom",
+    "query_used": "Guildford High School, UK"
+  },
+  "Brampton College": {
+    "lat": 51.5886402,
+    "lon": -0.2221231,
+    "address": "Brampton College, Chapel Walk, Hendon, London Borough of Barnet, London, Greater London, England, NW4 4ER, United Kingdom",
+    "query_used": "Brampton College, UK"
+  },
+  "RNN Group": null,
+  "de Stafford School": {
+    "lat": 51.2940001,
+    "lon": -0.0829342,
+    "address": "de Stafford School, Burntwood Lane, Caterham-on-the-Hill, Caterham, Tandridge, Surrey, England, CR3 5YX, United Kingdom",
+    "query_used": "de Stafford School, UK"
+  },
+  "Priestlands School": {
+    "lat": 50.7531569,
+    "lon": -1.5549978,
+    "address": "Priestlands School, North Street, Fox Pond, Lymington and Pennington, Lymington, New Forest, Hampshire, England, SO41 8FZ, United Kingdom",
+    "query_used": "Priestlands School, UK"
+  },
+  "Holy Cross Catholic Primary School": {
+    "lat": 51.4425442,
+    "lon": -0.0139208,
+    "address": "Holy Cross Catholic Primary School, Culverley Road, Catford South, London Borough of Lewisham, London, Greater London, England, SE6 2LD, United Kingdom",
+    "query_used": "Holy Cross Catholic Primary School, UK"
+  },
+  "The Stephen Longfellow Academy": {
+    "lat": 53.7665788,
+    "lon": -1.5734982,
+    "address": "The Stephen Longfellow Academy, Global Avenue, Millshaw Business Park, Beeston, Churwell, Leeds, West Yorkshire, England, LS11 8PG, United Kingdom",
+    "query_used": "The Stephen Longfellow Academy, UK"
+  },
+  "St John Evangelist Catholic Primary school": {
+    "lat": 51.5340647,
+    "lon": -0.1039703,
+    "address": "St John Evangelist Catholic Primary School, Pierrepont Row, Angel, Islington, London Borough of Islington, London, Greater London, England, N1 8BL, United Kingdom",
+    "query_used": "St John Evangelist Catholic Primary school, UK"
+  },
+  "Hockering Church of England Primary Academy": {
+    "lat": 52.6749834,
+    "lon": 1.0709313,
+    "address": "Hockering Church of England Primary Academy, The Street, Hockering, Breckland, Norfolk, England, NR20 3HN, United Kingdom",
+    "query_used": "Hockering Church of England Primary Academy, UK"
+  },
+  "Monmouth Comprehensive School": {
+    "lat": 51.815798,
+    "lon": -2.7077191,
+    "address": "Monmouth Comprehensive School, Old Dixton Road, Wyesham, Monmouth, Monmouthshire, Cymru / Wales, NP25 3YT, United Kingdom",
+    "query_used": "Monmouth Comprehensive School, UK"
+  },
+  "The Enterprise Learning Alliance": null,
+  "Carpenters Primary School": {
+    "lat": 51.5365623,
+    "lon": -0.0056293,
+    "address": "Carpenters Primary School, Carpenters Road, Mill Meads, Stratford, London Borough of Newham, London, Greater London, England, E15 2JQ, United Kingdom",
+    "query_used": "Carpenters Primary School, UK"
+  },
+  "Offmore Primary School": {
+    "lat": 52.3893812,
+    "lon": -2.2244112,
+    "address": "Offmore Primary School, Wordsworth Crescent, Aggborough, Kidderminster, Offmore Farm, Wyre Forest, Worcestershire, England, DY10 3HA, United Kingdom",
+    "query_used": "Offmore Primary School, UK"
+  },
+  "Mckee college": {
+    "lat": 53.8502171,
+    "lon": -2.9897216,
+    "address": "McKee College House, 73, Breck Road, Skippool, Poulton-le-Fylde, Wyre, Lancashire, England, FY6 7AQ, United Kingdom",
+    "query_used": "Mckee college, UK"
+  },
+  "Dormers Wells High School": {
+    "lat": 51.5186691,
+    "lon": -0.3663952,
+    "address": "Dormers Wells High School, Wallis Road, Greenford, Southall, London, Greater London, England, UB1 3HZ, United Kingdom",
+    "query_used": "Dormers Wells High School, UK"
+  },
+  "The Worthgate School": null,
+  "Rokesly Junior School": {
+    "lat": 51.5833057,
+    "lon": -0.1197536,
+    "address": "Rokesly Junior School, Rokesly Avenue, Ferme Park, Hornsey, London Borough of Haringey, London, Greater London, England, N8 8NH, United Kingdom",
+    "query_used": "Rokesly Junior School, UK"
+  },
+  "Harry Gosling Primary School": {
+    "lat": 51.5137446,
+    "lon": -0.0661018,
+    "address": "Harry Gosling Primary School, Fairclough Street, St. George in the East, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 1NT, United Kingdom",
+    "query_used": "Harry Gosling Primary School, UK"
+  },
+  "Canbury School": {
+    "lat": 51.4239767,
+    "lon": -0.2759408,
+    "address": "Canbury School, Kingston Hill, Coombe, Royal Borough of Kingston upon Thames, London, Greater London, England, KT2 7LN, United Kingdom",
+    "query_used": "Canbury School, UK"
+  },
+  "Chestnut Park Primary school": {
+    "lat": 51.3840941,
+    "lon": -0.1051144,
+    "address": "Chestnut Park Primary School, 49, St James's Road, Broad Green, London Borough of Croydon, London, Greater London, England, CR0 2UR, United Kingdom",
+    "query_used": "Chestnut Park Primary school, UK"
+  },
+  "The Mead Infant School and Auriol Junior School": null,
+  "Thomas More Catholic School": {
+    "lat": 51.3435576,
+    "lon": -0.119033,
+    "address": "Thomas More Catholic School, Russell Hill Road, Purley, London Borough of Croydon, London, Greater London, England, CR8 2XP, United Kingdom",
+    "query_used": "Thomas More Catholic School, UK"
+  },
+  "Holy Trinity C of E Primary School": {
+    "lat": 51.4934434,
+    "lon": -0.1565995,
+    "address": "Holy Trinity C of E Primary School, Sedding Street, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW1X 9DE, United Kingdom",
+    "query_used": "Holy Trinity C of E Primary School, UK"
+  },
+  "Chorley St Peter's C of E Primary School": null,
+  "Limetree primary school, Merstham": null,
+  "St. Luke's church of England Primary school": {
+    "lat": 51.4266725,
+    "lon": -0.0998485,
+    "address": "St Luke's Church of England Primary School, Linton Grove, West Norwood, London Borough of Lambeth, London, Greater London, England, SE27 0DZ, United Kingdom",
+    "query_used": "St. Luke's church of England Primary school, UK"
+  },
+  "Great Dunmow Primary School": {
+    "lat": 51.8729911,
+    "lon": 0.3492616,
+    "address": "Great Dunmow Primary School, Walnut Walk, Great Dunmow, Uttlesford, Essex, England, CM6 1ZR, United Kingdom",
+    "query_used": "Great Dunmow Primary School, UK"
+  },
+  "Prince Avenue Academy": {
+    "lat": 51.5599158,
+    "lon": 0.6933536,
+    "address": "Prince Avenue Academy and Nursery, Prince Avenue, Eastwood, Leigh on Sea, Southend-on-Sea, Essex, England, SS0 0LG, United Kingdom",
+    "query_used": "Prince Avenue Academy, UK"
+  },
+  "Wallington county Grammar School": {
+    "lat": 51.3693166,
+    "lon": -0.1497093,
+    "address": "Wallington County Grammar School, Croydon Road, Wallington, London Borough of Sutton, London, Greater London, England, SM6 7PH, United Kingdom",
+    "query_used": "Wallington county Grammar School, UK"
+  },
+  "St William of York Catholic Primary School": {
+    "lat": 51.4439969,
+    "lon": -0.0411823,
+    "address": "St William of York Catholic Primary School, Brockley Park, Honor Oak, London Borough of Lewisham, London, Greater London, England, SE23 1PS, United Kingdom",
+    "query_used": "St William of York Catholic Primary School, UK"
+  },
+  "Chingford Foundation": {
+    "lat": 51.6298935,
+    "lon": -0.0077865,
+    "address": "Chingford Foundation School, 31, Nevin Drive, Chingford Green, Chingford, London Borough of Waltham Forest, London, Greater London, England, E4 7LT, United Kingdom",
+    "query_used": "Chingford Foundation, UK"
+  },
+  "ONELAB College": {
+    "lat": 51.5217906,
+    "lon": -0.0178527,
+    "address": "Onelab College, 7, Corsican Square, Lime Quarter, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E3 3YD, United Kingdom",
+    "query_used": "ONELAB College, UK"
+  },
+  "Dairy Meadow Primary and Nursery School": null,
+  "Earlham Primary School": {
+    "lat": 51.6028574,
+    "lon": -0.1084659,
+    "address": "Earlham Primary School, Earlham Grove, Noel Park, London Borough of Haringey, London, Greater London, England, N22 5HJ, United Kingdom",
+    "query_used": "Earlham Primary School, UK"
+  },
+  "Castle View School": {
+    "lat": 51.5209106,
+    "lon": 0.5954768,
+    "address": "Castle View School, Oak Road, Canvey Island, Castle Point, Essex, England, SS8 7FH, United Kingdom",
+    "query_used": "Castle View School, UK"
+  },
+  "Bow School": {
+    "lat": 51.5228628,
+    "lon": -0.0094972,
+    "address": "Bow School, 44, Twelvetrees Crescent, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E3 3QW, United Kingdom",
+    "query_used": "Bow School, UK"
+  },
+  "Waldegrave School": {
+    "lat": 51.4395559,
+    "lon": -0.3523925,
+    "address": "Waldegrave School, Fifth Cross Road, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW2 5LH, United Kingdom",
+    "query_used": "Waldegrave School, UK"
+  },
+  "John Perry Primary School": {
+    "lat": 51.5414163,
+    "lon": 0.1716111,
+    "address": "John Perry Primary School, Auriel Avenue, London Borough of Barking and Dagenham, London, Greater London, England, RM10 8UR, United Kingdom",
+    "query_used": "John Perry Primary School, UK"
+  },
+  "Marner Primary": {
+    "lat": 51.5227449,
+    "lon": -0.0127073,
+    "address": "Marner Primary School, Devas Street, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E3 3LL, United Kingdom",
+    "query_used": "Marner Primary, UK"
+  },
+  "Oakfield Primary Academy": {
+    "lat": 51.433239,
+    "lon": 0.2144222,
+    "address": "Oakfield Primary Academy, Oakfield Park Road, Brooklands, Wilmington, Dartford, Kent, England, DA1 2SW, United Kingdom",
+    "query_used": "Oakfield Primary Academy, UK"
+  },
+  "Wellington Community Primary School": {
+    "lat": 51.2495339,
+    "lon": -0.7761613,
+    "address": "Wellington Community Primary School, Beaumont Grove, Cargate, Aldershot, Rushmoor, Hampshire, England, GU11 1QJ, United Kingdom",
+    "query_used": "Wellington Community Primary School, UK"
+  },
+  "Yateley Manor School": {
+    "lat": 51.340914,
+    "lon": -0.8251445,
+    "address": "Yateley Manor School, 51, Reading Road, Moulsham Green, Yateley, Hart, Hampshire, England, GU46 7UQ, United Kingdom",
+    "query_used": "Yateley Manor School, UK"
+  },
+  "Michael Faraday School": {
+    "lat": 51.485208,
+    "lon": -0.0879031,
+    "address": "Michael Faraday School, Portland Street, Aylesbury Estate, Walworth, London Borough of Southwark, London, Greater London, England, SE17 2HR, United Kingdom",
+    "query_used": "Michael Faraday School, UK"
+  },
+  "Royal Aelxandra and Albert School": null,
+  "The International School of Geneva": null,
+  "Thorpe CofE Primary School": {
+    "lat": 51.4087421,
+    "lon": -0.5348525,
+    "address": "Thorpe CofE Aided Primary School, The Bence, Thorpe, Runnymede, Surrey, England, TW20 8QD, United Kingdom",
+    "query_used": "Thorpe CofE Primary School, UK"
+  },
+  "Bristol Grammar School": {
+    "lat": 51.4578031,
+    "lon": -2.6056574,
+    "address": "Bristol Grammar School, University Road, Tyndall's Park, Clifton, Bristol, City of Bristol, West of England, England, BS8 1SS, United Kingdom",
+    "query_used": "Bristol Grammar School, UK"
+  },
+  "St Luke's": {
+    "lat": 51.4896338,
+    "lon": -0.1694392,
+    "address": "St. Luke's, Sydney Street, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 6NH, United Kingdom",
+    "query_used": "St Luke's, UK"
+  },
+  "Rotherhithe Primary School": {
+    "lat": 51.4916579,
+    "lon": -0.0494865,
+    "address": "Rotherhithe Primary School, 61, Hawkstone Road, Surrey Quays, Rotherhithe, London Borough of Southwark, London, Greater London, England, SE16 2PE, United Kingdom",
+    "query_used": "Rotherhithe Primary School, UK"
+  },
+  "St Peter's Primary School": {
+    "lat": 51.3577645,
+    "lon": -0.089943,
+    "address": "St Peter's Primary School, Normanton Road, London Borough of Croydon, London, Greater London, England, CR2 7AR, United Kingdom",
+    "query_used": "St Peter's Primary School, UK"
+  },
+  "Valley Invicta primary school at Holborough Lakes": {
+    "lat": 51.3341572,
+    "lon": 0.4430482,
+    "address": "Valley Invicta Primary School at Holborough Lakes, Pollyfield Close, Holborough Lakes, Snodland, Tonbridge and Malling, Kent, England, ME6 5GR, United Kingdom",
+    "query_used": "Valley Invicta primary school at Holborough Lakes, UK"
+  },
+  "Drayton Manor High School": {
+    "lat": 51.5160136,
+    "lon": -0.3358936,
+    "address": "Drayton Manor High School, Drayton Bridge Road, West Ealing, Hanwell, London Borough of Ealing, London, Greater London, England, W7 1EU, United Kingdom",
+    "query_used": "Drayton Manor High School, UK"
+  },
+  "Prior's Field": {
+    "lat": 51.2071619,
+    "lon": -0.6422738,
+    "address": "Prior's Field School, Priors Close, Compton, Hurtmore, Guildford, Surrey, England, GU7 2RH, United Kingdom",
+    "query_used": "Prior's Field, UK"
+  },
+  "Ashby School": {
+    "lat": 52.7489555,
+    "lon": -1.4622502,
+    "address": "Ashby School, Nottingham Road, Ashby-de-la-Zouch, North West Leicestershire, Leicestershire, England, LE65 1DT, United Kingdom",
+    "query_used": "Ashby School, UK"
+  },
+  "Wrotham Road Primary School": {
+    "lat": 51.4374174,
+    "lon": 0.3677672,
+    "address": "Wrotham Road Primary School, Wrotham Road, Kings Farm, Gravesend, Gravesham, Kent, England, DA11 0QF, United Kingdom",
+    "query_used": "Wrotham Road Primary School, UK"
+  },
+  "The Kings, (The Cathedral) School.": null,
+  "Bromley Trust Academy": null,
+  "Orchards CE Academy": null,
+  "St Peter and St Paul Church Primary School": {
+    "lat": 51.2785489,
+    "lon": -0.1171619,
+    "address": "St Peter and St Paul Church Primary School, 93, Rook Lane, Chaldon, Caterham, Tandridge, Surrey, England, CR3 5BN, United Kingdom",
+    "query_used": "St Peter and St Paul Church Primary School, UK"
+  },
+  "Kilmorie": {
+    "lat": 50.4600344,
+    "lon": -3.499118,
+    "address": "Kilmorie, 1-54, Ilsham Marine Drive, Wellswood, Torquay, Torbay, Devon and Torbay, England, TQ1 2HU, United Kingdom",
+    "query_used": "Kilmorie, UK"
+  },
+  "Maidstone Grammar": {
+    "lat": 51.2650479,
+    "lon": 0.5314286,
+    "address": "Maidstone Grammar School, West Park Road, Shepway, Maidstone, Kent, England, ME15 7BT, United Kingdom",
+    "query_used": "Maidstone Grammar, UK"
+  },
+  "St Katherine's C of E Primary School": null,
+  "Kingsbury High School": {
+    "lat": 51.5877798,
+    "lon": -0.268498,
+    "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+    "query_used": "Kingsbury High School, UK"
+  },
+  "St Mary's Lewisham CE Primary School": null,
+  "Corbets Tey School": {
+    "lat": 51.5428612,
+    "lon": 0.2486516,
+    "address": "Corbets Tey School, Londons Close, Corbets Tey, London Borough of Havering, London, Greater London, England, RM14 2YQ, United Kingdom",
+    "query_used": "Corbets Tey School, UK"
+  },
+  "Hilltop Junior School": {
+    "lat": 51.6154134,
+    "lon": 0.5424182,
+    "address": "Hilltop Infant and Junior School, Redgate Close, Wickford, Shotgate, Basildon, Essex, England, SS11 8NG, United Kingdom",
+    "query_used": "Hilltop Junior School, UK"
+  },
+  "Learning Partners Academy Trust": null,
+  "Seaford Head School": {
+    "lat": 50.7682453,
+    "lon": 0.1077452,
+    "address": "Seaford Head School, Ashurst Road, Seaford, Lewes, East Sussex, England, BN25 1AH, United Kingdom",
+    "query_used": "Seaford Head School, UK"
+  },
+  "The New North Academy": {
+    "lat": 51.5389909,
+    "lon": -0.0954946,
+    "address": "The New North Academy, 32, Popham Road, Canonbury, Islington, London Borough of Islington, London, Greater London, England, N1 8SJ, United Kingdom",
+    "query_used": "The New North Academy, UK"
+  },
+  "Garden City Academy": {
+    "lat": 51.9737059,
+    "lon": -0.208034,
+    "address": "Garden City Academy, Radburn Way, Phoenix Park Estate, Jackmans Estate, Willian, Letchworth, Hertfordshire, England, SG6 2JZ, United Kingdom",
+    "query_used": "Garden City Academy, UK"
+  },
+  "Marymount International School": {
+    "lat": 51.4170529,
+    "lon": -0.2688465,
+    "address": "Marymount International School, George Road, Coombe, Royal Borough of Kingston upon Thames, London, Greater London, England, KT2 7PE, United Kingdom",
+    "query_used": "Marymount International School, UK"
+  },
+  "Nar Valley Federation, Castle Acre, Narborough and Sporle": null,
+  "Bletchingley Village Primary school": null,
+  "Folkestone Primary": null,
+  "Shirebrook Academy": {
+    "lat": 53.2112655,
+    "lon": -1.22637,
+    "address": "Shirebrook Academy, Common Lane, Shirebrook, Upper Langwith, Mansfield, Nottinghamshire, East Midlands, England, NG20 8QF, United Kingdom",
+    "query_used": "Shirebrook Academy, UK"
+  },
+  "Welbourne Primary School": {
+    "lat": 51.5885306,
+    "lon": -0.0664508,
+    "address": "Welbourne Primary School, Stainby Road, Tottenham Hale, London Borough of Haringey, London, Greater London, England, N15 4EA, United Kingdom",
+    "query_used": "Welbourne Primary School, UK"
+  },
+  "Leigh Primary School": {
+    "lat": 52.4977141,
+    "lon": -1.8471824,
+    "address": "Leigh Primary School, Leigh Road, Alum Rock, Washwood Heath, Birmingham, West Midlands, England, B8 2YH, United Kingdom",
+    "query_used": "Leigh Primary School, UK"
+  },
+  "Learning Partners": null,
+  "Charterhouse School": {
+    "lat": 51.1988744,
+    "lon": -0.6217695,
+    "address": "Charterhouse School, Hurtmore Road, Binscombe, Godalming, Waverley, Surrey, England, GU7 2DD, United Kingdom",
+    "query_used": "Charterhouse School, UK"
+  },
+  "Sythwood primary & Nursery School": {
+    "lat": 51.3224017,
+    "lon": -0.5849537,
+    "address": "Sythwood Primary and Nursery School, French's Wells, Goldsworth Park, Horsell, Woking, Surrey, England, GU21 3AX, United Kingdom",
+    "query_used": "Sythwood primary & Nursery School, UK"
+  },
+  "The Oaklands Primary Schools": {
+    "lat": 52.4410983,
+    "lon": -1.8206954,
+    "address": "The Oaklands Primary School, Dolphin Lane, Acocks Green, Fox Hollies, Birmingham, West Midlands, England, B27 7BT, United Kingdom",
+    "query_used": "The Oaklands Primary Schools, UK"
+  },
+  "Hiltingbury Junior School": {
+    "lat": 50.9968729,
+    "lon": -1.3844702,
+    "address": "Hiltingbury Junior School, Hiltingbury Road, Hocombe, Chandler's Ford, Eastleigh, Hampshire, England, SO53 5NP, United Kingdom",
+    "query_used": "Hiltingbury Junior School, UK"
+  },
+  "Sandymoor Ormiston Academy": {
+    "lat": 53.3437414,
+    "lon": -2.6543503,
+    "address": "Sandymoor Ormiston Academy, Wharford Lane, Manor Park, Sandymoor, Runcorn, Halton, Liverpool City Region, England, WA7 1QU, United Kingdom",
+    "query_used": "Sandymoor Ormiston Academy, UK"
+  },
+  "Trinity School": {
+    "lat": 51.4129849,
+    "lon": -1.3191538,
+    "address": "Trinity School, Western Avenue, Shaw cum Donnington, Shaw, West Berkshire, England, RG14 2DU, United Kingdom",
+    "query_used": "Trinity School, UK"
+  },
+  "The Regina Coeli School": null,
+  "North Brent School": null,
+  "New City College - Havering 6th Form": null,
+  "Danetree Primary School": {
+    "lat": 51.357459,
+    "lon": -0.2715986,
+    "address": "Danetree Primary School, Danetree Road, West Ewell, Ewell, Epsom and Ewell, Surrey, England, KT19 9SE, United Kingdom",
+    "query_used": "Danetree Primary School, UK"
+  },
+  "Fryent primary School": {
+    "lat": 51.5767537,
+    "lon": -0.264071,
+    "address": "Fryent Primary School, Church Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 8JD, United Kingdom",
+    "query_used": "Fryent primary School, UK"
+  },
+  "St Mary;s": {
+    "lat": 49.9203409,
+    "lon": -6.2928791,
+    "address": "St Mary's, Old Town, Isles of Scilly, England, United Kingdom",
+    "query_used": "St Mary;s, UK"
+  },
+  "Valley Primary School": {
+    "lat": 51.4060387,
+    "lon": 0.0070058,
+    "address": "Valley Primary School, Beckenham Lane, Bromley Park, Shortlands, London Borough of Bromley, London, Greater London, England, BR2 0DA, United Kingdom",
+    "query_used": "Valley Primary School, UK"
+  },
+  "Culverstone Green Primary School": {
+    "lat": 51.3433971,
+    "lon": 0.3464622,
+    "address": "Culverstone Green Primary School, Wrotham Road, South Street, Meopham, Culverstone Green, Gravesham, Kent, England, DA13 0RF, United Kingdom",
+    "query_used": "Culverstone Green Primary School, UK"
+  },
+  "Pooles Park Primary School": {
+    "lat": 51.5649602,
+    "lon": -0.1123003,
+    "address": "Pooles Park Primary School, Lennox Road, Finsbury Park, London Borough of Islington, London, Greater London, England, N4 3NW, United Kingdom",
+    "query_used": "Pooles Park Primary School, UK"
+  },
+  "Nescot College": null,
+  "West Hill Primary Academy": {
+    "lat": 51.447347,
+    "lon": 0.2029925,
+    "address": "West Hill Primary Academy, Nelson Road, Dartford, Kent, England, DA1 3DZ, United Kingdom",
+    "query_used": "West Hill Primary Academy, UK"
+  },
+  "The Cavendish School": {
+    "lat": 50.7807586,
+    "lon": 0.2607984,
+    "address": "The Cavendish School, Eldon Road, Downside, Eastbourne, East Sussex, England, BN21 1UE, United Kingdom",
+    "query_used": "The Cavendish School, UK"
+  },
+  "Whitmore Primary School & Nursery": null,
+  "Geoffrey Field Junior School": {
+    "lat": 51.4213372,
+    "lon": -0.962104,
+    "address": "Geoffrey Field Junior School, Exbourne Road, Whitley Wood, Reading, England, RG2 8RH, United Kingdom",
+    "query_used": "Geoffrey Field Junior School, UK"
+  },
+  "Mossbourne Federation": null,
+  "HTL": {
+    "lat": 55.8913035,
+    "lon": -4.2808901,
+    "address": "Hamiltonhill Lines, Curzon Street, Eastpark, Maryhill, Glasgow, Glasgow City, Alba / Scotland, G20 9EX, United Kingdom",
+    "query_used": "HTL, UK"
+  },
+  "Redbourn Primary School": null,
+  "CORE Education Trust": null,
+  "Churcher's College Junior School, Liphook": {
+    "lat": 51.0690928,
+    "lon": -0.7926138,
+    "address": "Churcher's College Junior School, Midhurst Road, Bramshott and Liphook, Liphook, East Hampshire, Hampshire, England, GU30 7HT, United Kingdom",
+    "query_used": "Churcher's College Junior School, Liphook, UK"
+  },
+  "Danes Hill School": {
+    "lat": 51.3277862,
+    "lon": -0.3623989,
+    "address": "Danes Hill School, Northcote Park, Oxshott, Elmbridge, Surrey, England, KT22 0JG, United Kingdom",
+    "query_used": "Danes Hill School, UK"
+  },
+  "Home educated group": null,
+  "Wembley High Technology College": {
+    "lat": 51.5633803,
+    "lon": -0.309803,
+    "address": "Wembley High Technology College, East Lane, North Wembley, Sudbury, London Borough of Brent, London, Greater London, England, HA0 3NT, United Kingdom",
+    "query_used": "Wembley High Technology College, UK"
+  },
+  "Nonsuch High School for girls": {
+    "lat": 51.3542666,
+    "lon": -0.2248,
+    "address": "Nonsuch High School for Girls, Ewell Road, London Borough of Sutton, London, Greater London, England, SM3 8AB, United Kingdom",
+    "query_used": "Nonsuch High School for girls, UK"
+  },
+  "Waltham Toll Bar Academy": {
+    "lat": 53.5222308,
+    "lon": -0.0788045,
+    "address": "Waltham Toll Bar Academy, Simpson's Fold Court, New Waltham, Grimsby, North East Lincolnshire, Greater Lincolnshire, England, DN36 4RZ, United Kingdom",
+    "query_used": "Waltham Toll Bar Academy, UK"
+  },
+  "Coopers Lane primary school": {
+    "lat": 51.4370524,
+    "lon": 0.0205284,
+    "address": "Coopers Lane Primary School, Pragnell Road, Burnt Ash, Chinbrook, London Borough of Lewisham, London, Greater London, England, SE12 0LF, United Kingdom",
+    "query_used": "Coopers Lane primary school, UK"
+  },
+  "Connaught Junior School": {
+    "lat": 51.3558995,
+    "lon": -0.6878937,
+    "address": "Connaught Junior School, Broomsquires Road, Bagshot Green, Windlesham, Bagshot, Surrey Heath, Surrey, England, GU19 5JY, United Kingdom",
+    "query_used": "Connaught Junior School, UK"
+  },
+  "Serenity School Maidstone": null,
+  "The Royal Kent School": {
+    "lat": 51.1202465,
+    "lon": 0.252137,
+    "address": "The Ark Children\u2019s Centre, School Rise, Broadwater Down, Royal Tunbridge Wells, Tunbridge Wells, Kent, England, TN2 5TQ, United Kingdom",
+    "query_used": "The Royal Kent School, UK"
+  },
+  "Ecclesbourne Primary School": {
+    "lat": 51.3918827,
+    "lon": -0.1019224,
+    "address": "Ecclesbourne Primary School, Attlee Close, Thornton Heath, London Borough of Croydon, London, Greater London, England, CR7 7FA, United Kingdom",
+    "query_used": "Ecclesbourne Primary School, UK"
+  },
+  "Bridgemary School": {
+    "lat": 50.8230087,
+    "lon": -1.1745524,
+    "address": "Bridgemary School, Wych Lane, Bridgemary, Gosport, Hampshire, England, PO13 0JN, United Kingdom",
+    "query_used": "Bridgemary School, UK"
+  },
+  "Ramsden Hall Academy": {
+    "lat": 51.6320353,
+    "lon": 0.4505651,
+    "address": "Ramsden Hall Academy, Heath Road, Billericay, Ramsden Heath, Chelmsford, Essex, England, CM11 1HN, United Kingdom",
+    "query_used": "Ramsden Hall Academy, UK"
+  },
+  "Ark Charter Academy": {
+    "lat": 50.7966917,
+    "lon": -1.0877467,
+    "address": "Ark Charter Academy, Hyde Park Road, Somers Town, Portsmouth, England, PO5 4HL, United Kingdom",
+    "query_used": "Ark Charter Academy, UK"
+  },
+  "BrickLane School": null,
+  "Saffron Green Primary School": {
+    "lat": 51.6505624,
+    "lon": -0.2523475,
+    "address": "Saffron Green Primary School, Nicoll Way, Elstree and Borehamwood, Borehamwood, Hertsmere, Hertfordshire, England, WD6 2PP, United Kingdom",
+    "query_used": "Saffron Green Primary School, UK"
+  },
+  "St Annes Catholic Primary School": null,
+  "Edward Bryant School": {
+    "lat": 50.7875557,
+    "lon": -0.6719322,
+    "address": "Edward Bryant School, London Road, Bognor Regis, Arun, West Sussex, England, PO21 1BG, United Kingdom",
+    "query_used": "Edward Bryant School, UK"
+  },
+  "Davenies School": {
+    "lat": 51.6083853,
+    "lon": -0.6410848,
+    "address": "Davenies School, Station Road, Beaconsfield New Town, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Knotty Green, Buckinghamshire, England, HP9 1AA, United Kingdom",
+    "query_used": "Davenies School, UK"
+  },
+  "Brindishe Lee School": {
+    "lat": 51.4536499,
+    "lon": 0.0088834,
+    "address": "Brindishe Lee Primary School, Wantage Road, Dacre Park Estate, Blackheath, London Borough of Lewisham, London, Greater London, England, SE12 8NA, United Kingdom",
+    "query_used": "Brindishe Lee School, UK"
+  },
+  "Merstham Primary school": {
+    "lat": 51.2611466,
+    "lon": -0.1521997,
+    "address": "Merstham Primary School, London Road South, Merstham, Redhill, Reigate and Banstead, Surrey, England, RH1 3AZ, United Kingdom",
+    "query_used": "Merstham Primary school, UK"
+  },
+  "bishop wand school": {
+    "lat": 51.4108377,
+    "lon": -0.4253133,
+    "address": "Bishop Wand School, Layton's Lane, Spelthorne, Surrey, England, TW16 6LP, United Kingdom",
+    "query_used": "bishop wand school, UK"
+  },
+  "Southfield Park Primary": {
+    "lat": 51.3441343,
+    "lon": -0.2769556,
+    "address": "Southfield Park Primary School, Long Grove Road, Epsom, Epsom and Ewell, Surrey, England, KT19 8TF, United Kingdom",
+    "query_used": "Southfield Park Primary, UK"
+  },
+  "Hoo St Werburgh Primary School": null,
+  "Stanchester Academy": {
+    "lat": 50.9545581,
+    "lon": -2.7266461,
+    "address": "Stanchester Academy, Montacute Road, East Stoke, Stoke sub Hamdon, Somerset, England, TA14 6UG, United Kingdom",
+    "query_used": "Stanchester Academy, UK"
+  },
+  "Thorngrove School": {
+    "lat": 51.3492713,
+    "lon": -1.3781804,
+    "address": "Thorngrove School, Pantings Lane, Highclere, Basingstoke and Deane, Hampshire, England, RG20 9PS, United Kingdom",
+    "query_used": "Thorngrove School, UK"
+  },
+  "scotts park primary school": {
+    "lat": 51.4109019,
+    "lon": 0.0312347,
+    "address": "Scotts Park Primary School, Orchard Road, Widmore Green, Widmore, London Borough of Bromley, London, Greater London, England, BR1 2PR, United Kingdom",
+    "query_used": "scotts park primary school, UK"
+  },
+  "Priory Junior School": {
+    "lat": 52.2322355,
+    "lon": -0.2515459,
+    "address": "Priory Junior School, Longsands Road, St. Neots, St Neots, Cambridgeshire, Cambridgeshire and Peterborough, England, PE19 1TF, United Kingdom",
+    "query_used": "Priory Junior School, UK"
+  },
+  "Ernest Bevin Academy": {
+    "lat": 51.437267,
+    "lon": -0.167693,
+    "address": "Ernest Bevin Academy, Beechcroft Road, Upper Tooting, Summerstown, London Borough of Wandsworth, London, Greater London, England, SW17 7DF, United Kingdom",
+    "query_used": "Ernest Bevin Academy, UK"
+  },
+  "Beaconsfield High School": {
+    "lat": 51.6046373,
+    "lon": -0.6462015,
+    "address": "Beaconsfield High School, Wattleton Road, Beaconsfield Old Town, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Buckinghamshire, England, HP9 1RR, United Kingdom",
+    "query_used": "Beaconsfield High School, UK"
+  },
+  "Orchard Way Primary School": {
+    "lat": 51.3831178,
+    "lon": -0.040169,
+    "address": "Orchard Way Primary School, Orchard Way, Shirley, London Borough of Croydon, London, Greater London, England, CR0 7NJ, United Kingdom",
+    "query_used": "Orchard Way Primary School, UK"
+  },
+  "RNN Group, Dearne Valley College": null,
+  "Deptford Park Primary School": {
+    "lat": 51.4884386,
+    "lon": -0.0377146,
+    "address": "Deptford Park Primary School, Evelyn Street, Pepys Estate, Deptford, London Borough of Lewisham, London, Greater London, England, SE8 5RJ, United Kingdom",
+    "query_used": "Deptford Park Primary School, UK"
+  },
+  "The Link School": {
+    "lat": 54.890217,
+    "lon": -1.4243286,
+    "address": "The Link School (Springwell Dene), Springwell Road, Nookside, Sunderland, Tyne and Wear, North East, England, SR3 4EE, United Kingdom",
+    "query_used": "The Link School, UK"
+  },
+  "Brindishe Green": {
+    "lat": 51.4508796,
+    "lon": -0.0045436,
+    "address": "Brindishe Green School, Beacon Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, England, SE13 6EH, United Kingdom",
+    "query_used": "Brindishe Green, UK"
+  },
+  "St Edmund's Catholic School": {
+    "lat": 51.1356059,
+    "lon": 1.3072931,
+    "address": "St Edmund's Catholic School, Old Charlton Road, Tower Hamlets, Dover, Kent, England, CT16 2QB, United Kingdom",
+    "query_used": "St Edmund's Catholic School, UK"
+  },
+  "Brindishe Lee": {
+    "lat": 51.4536499,
+    "lon": 0.0088834,
+    "address": "Brindishe Lee Primary School, Wantage Road, Dacre Park Estate, Blackheath, London Borough of Lewisham, London, Greater London, England, SE12 8NA, United Kingdom",
+    "query_used": "Brindishe Lee, UK"
+  },
+  "Brindishe Manor": {
+    "lat": 51.4522122,
+    "lon": 0.0038108,
+    "address": "Brindishe Manor School, Leahurst Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, England, SE13 5LS, United Kingdom",
+    "query_used": "Brindishe Manor, UK"
+  },
+  "Thorpe St Andrew School and Sixth Form": {
+    "lat": 52.6374704,
+    "lon": 1.3565023,
+    "address": "Thorpe St Andrew School and Sixth Form, Laundry Lane, Thorpe St Andrew, Broadland, Norfolk, England, NR7 0XS, United Kingdom",
+    "query_used": "Thorpe St Andrew School and Sixth Form, UK"
+  },
+  "Briscoe Primary School & Nursery": {
+    "lat": 51.5784415,
+    "lon": 0.5088551,
+    "address": "Briscoe Primary School & Nursery Academy, Felmores End, Basildon, Essex, England, SS13 1PN, United Kingdom",
+    "query_used": "Briscoe Primary School & Nursery, UK"
+  },
+  "St Edmund's Catholic Primary School": {
+    "lat": 51.6295606,
+    "lon": -0.0556878,
+    "address": "St Edmund's Catholic Primary School, Hertford Road, London Borough of Enfield, London, Greater London, England, N9 7HJ, United Kingdom",
+    "query_used": "St Edmund's Catholic Primary School, UK"
+  },
+  "St Georges Catholic Primary School": {
+    "lat": 51.5631309,
+    "lon": -0.3315959,
+    "address": "St George's Primary Catholic Voluntary Academy, Sudbury Hill, London Borough of Harrow, London, Greater London, England, HA1 3SB, United Kingdom",
+    "query_used": "St Georges Catholic Primary School, UK"
+  },
+  "St Paul's Whitechapel CE Primary": {
+    "lat": 51.5101918,
+    "lon": -0.065937,
+    "address": "St Paul's Whitechapel Church of England Primary School, Wellclose Square, St. George in the East, Wapping, London Borough of Tower Hamlets, London, Greater London, England, E1 8HY, United Kingdom",
+    "query_used": "St Paul's Whitechapel CE Primary School, UK"
+  },
+  "Meopham Community Academy": {
+    "lat": 51.3747988,
+    "lon": 0.3593914,
+    "address": "Meopham Community Academy, Longfield Road, Hook Green, Meopham, Gravesham, Kent, England, DA13 0JW, United Kingdom",
+    "query_used": "Meopham Community Academy, UK"
+  },
+  "Spires Academy": {
+    "lat": 51.31237,
+    "lon": 1.1517707,
+    "address": "Spires Academy, 1, Bredlands Lane, Hersden, Canterbury, Kent, England, CT2 0HD, United Kingdom",
+    "query_used": "Spires Academy, UK"
+  },
+  "St Paulinus CE Primary": null,
+  "Manor House School": {
+    "lat": 51.272785,
+    "lon": -0.3916175,
+    "address": "Manor House School, Bishop\u2019s Walk, Little Bookham, Mole Valley, Surrey, England, KT23 4EN, United Kingdom",
+    "query_used": "Manor House School, UK"
+  },
+  "Dersingham Primary School": {
+    "lat": 51.5498209,
+    "lon": 0.0622135,
+    "address": "Dersingham Primary School, Dersingham Avenue, Little Ilford, London Borough of Newham, London, Greater London, England, E12 5QJ, United Kingdom",
+    "query_used": "Dersingham Primary School, UK"
+  },
+  "Stanburn Primary School": {
+    "lat": 51.6068003,
+    "lon": -0.3089149,
+    "address": "Stanburn Primary School, Abercorn Road, Stanmore, London Borough of Harrow, London, Greater London, England, HA7 2PJ, United Kingdom",
+    "query_used": "Stanburn Primary School, UK"
+  },
+  "Frith Manor Primary School": {
+    "lat": 51.6150124,
+    "lon": -0.2009703,
+    "address": "Frith Manor Primary School, Lullington Garth, Woodside Park, London Borough of Barnet, London, Greater London, England, N12 7BN, United Kingdom",
+    "query_used": "Frith Manor Primary School, UK"
+  },
+  "Norham High School": {
+    "lat": 55.006008,
+    "lon": -1.4737703,
+    "address": "Norham High School, Alnwick Avenue, Percy Main, North Shields, North Tyneside, Tyne and Wear, North East, England, NE29 7BU, United Kingdom",
+    "query_used": "Norham High School, UK"
+  },
+  "Robert Mays School": null,
+  "Cyril Jackson Primary School": {
+    "lat": 51.5102987,
+    "lon": -0.0296814,
+    "address": "Cyril Jackson Primary School, Limehouse Causeway, Limehouse, London Borough of Tower Hamlets, London, Greater London, England, E14 8AQ, United Kingdom",
+    "query_used": "Cyril Jackson Primary School, UK"
+  },
+  "St Nicholas CE Primary School": {
+    "lat": 52.3463965,
+    "lon": -1.575676,
+    "address": "St. Nicholas CE Primary School, The Blundells, Ladyes Hills, Kenilworth, Warwick, Warwickshire, England, CV8 2PE, United Kingdom",
+    "query_used": "St Nicholas CE Primary School, UK"
+  },
+  "Summerside Primary Academy": {
+    "lat": 51.6085895,
+    "lon": -0.168267,
+    "address": "Summerside Primary Academy, Crossway, North Finchley, London Borough of Barnet, London, Greater London, England, N12 0QU, United Kingdom",
+    "query_used": "Summerside Primary Academy, UK"
+  },
+  "Manningtree High School": {
+    "lat": 51.9422927,
+    "lon": 1.0539365,
+    "address": "Manningtree High School, Colchester Road, Lawford, Tendring, Essex, England, CO11 2BW, United Kingdom",
+    "query_used": "Manningtree High School, UK"
+  },
+  "St Ippolyts School": {
+    "lat": 51.9300329,
+    "lon": -0.2583692,
+    "address": "St Ippolyts Church of England Aided Primary School, Ashbrook Lane, Ashbrook, St Ippolyts, Hitchin, North Hertfordshire, Hertfordshire, England, SG4 7PB, United Kingdom",
+    "query_used": "St Ippolyts School, UK"
+  },
+  "Swanshurst School": {
+    "lat": 52.4295943,
+    "lon": -1.8746716,
+    "address": "Swanshurst School, Brook Lane, Kings Heath, Wake Green, Birmingham, West Midlands, England, B13 0TW, United Kingdom",
+    "query_used": "Swanshurst School, UK"
+  },
+  "Rokeby School": {
+    "lat": 51.5185558,
+    "lon": 0.0159386,
+    "address": "Rokeby School, Barking Road, Canning Town, London Borough of Newham, London, Greater London, England, E16 4DD, United Kingdom",
+    "query_used": "Rokeby School, UK"
+  },
+  "Castleview Primary School": {
+    "lat": 55.9300702,
+    "lon": -3.1365562,
+    "address": "Castleview Primary School, Castlepark Glade, Niddrie Mains, Craigmillar, City of Edinburgh, Alba / Scotland, EH16 4DP, United Kingdom",
+    "query_used": "Castleview Primary School, UK"
+  },
+  "The Beacon Folkestone": {
+    "lat": 51.0915949,
+    "lon": 1.1719403,
+    "address": "The Beacon Folkestone, Park Farm Road, Park Farm, Folkestone, Folkestone and Hythe, Kent, England, CT19 5DN, United Kingdom",
+    "query_used": "The Beacon Folkestone, UK"
+  },
+  "St Mary's Catholic Primary School": {
+    "lat": 51.5641383,
+    "lon": 0.196687,
+    "address": "St Mary's Catholic Primary School, Hornchurch Road, Hornchurch, London Borough of Havering, London, Greater London, England, RM12 4TL, United Kingdom",
+    "query_used": "St Mary's Catholic Primary School, UK"
+  },
+  "Homewood School and Sixth Form Centre": null,
+  "Nonsuch School": {
+    "lat": 51.3542666,
+    "lon": -0.2248,
+    "address": "Nonsuch High School for Girls, Ewell Road, London Borough of Sutton, London, Greater London, England, SM3 8AB, United Kingdom",
+    "query_used": "Nonsuch School, UK"
+  },
+  "St Bede's College": {
+    "lat": 53.4446234,
+    "lon": -2.2588567,
+    "address": "St Bede's College, Alexandra Road South, Whalley Range, Manchester, Greater Manchester, England, M16 8HX, United Kingdom",
+    "query_used": "St Bede's College, UK"
+  },
+  "Palmarsh Primary School": {
+    "lat": 51.0624335,
+    "lon": 1.0495686,
+    "address": "Palmarsh Primary School, St Georges Place, Palmarsh, Hythe, Folkestone and Hythe, Kent, England, CT21 6NE, United Kingdom",
+    "query_used": "Palmarsh Primary School, UK"
+  },
+  "Cardwell primary": {
+    "lat": 51.4906393,
+    "lon": 0.0531562,
+    "address": "Cardwell Primary School, 118, Frances Street, Woolwich Dockyard, Charlton Riverside, Royal Borough of Greenwich, London, Greater London, England, SE18 5LP, United Kingdom",
+    "query_used": "Cardwell primary, UK"
+  },
+  "St James Primary School": {
+    "lat": 51.5821288,
+    "lon": -3.20148,
+    "address": "St James Primary School, Lansbury Park Distributor Road, Lansbury Park, Van, Bedwas, Caerphilly, Cymru / Wales, CF83 3GT, United Kingdom",
+    "query_used": "St James Primary School, UK"
+  },
+  "Thomas Arnold Primary School": {
+    "lat": 51.5366495,
+    "lon": 0.1458812,
+    "address": "Thomas Arnold Primary School, Rowdowns Road, Dagenham, London Borough of Barking and Dagenham, London, Greater London, England, RM9 6NH, United Kingdom",
+    "query_used": "Thomas Arnold Primary School, UK"
+  },
+  "Langley Grammar School": {
+    "lat": 51.4982756,
+    "lon": -0.5525406,
+    "address": "Langley Grammar School, Tobermory Close, Langley, Slough, England, SL3 7QS, United Kingdom",
+    "query_used": "Langley Grammar School, UK"
+  },
+  "Dudley Colleg": null,
+  "Ryedene Primary School": {
+    "lat": 51.5587651,
+    "lon": 0.4898537,
+    "address": "Ryedene Primary and Nursery School, Ryedene, Vange, Basildon, Essex, England, SS16 4SY, United Kingdom",
+    "query_used": "Ryedene Primary School, UK"
+  },
+  "Maple Grove Primary School": {
+    "lat": 51.5655,
+    "lon": 0.5005909,
+    "address": "Maple Grove Primary School, High Road, Vange, Basildon, Essex, England, SS13 3AB, United Kingdom",
+    "query_used": "Maple Grove Primary School, UK"
+  },
+  "Hayes Primary School": {
+    "lat": 51.3777095,
+    "lon": 0.0230273,
+    "address": "Hayes Primary School, George Lane, Hayes, London Borough of Bromley, London, Greater London, England, BR2 7LQ, United Kingdom",
+    "query_used": "Hayes Primary School, UK"
+  },
+  "Ysgol David hughes": {
+    "lat": 53.2282027,
+    "lon": -4.1790666,
+    "address": "Ysgol David Hughes, Pentraeth Road, Four Crosses, Menai Bridge, Porthaethwy / Menai Bridge, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL59 5SS, United Kingdom",
+    "query_used": "Ysgol David hughes, UK"
+  },
+  "Westfield Primary and Nursery School": null,
+  "Barking and Dagenham College": {
+    "lat": 51.5602866,
+    "lon": 0.1719072,
+    "address": "Barking and Dagenham College, Dagenham Road, Rush Green, London Borough of Barking and Dagenham, London, Greater London, England, RM7 0XU, United Kingdom",
+    "query_used": "Barking and Dagenham College, UK"
+  },
+  "Francis Holland Regent's Park": null,
+  "The Adeyfield Academy": {
+    "lat": 51.7531254,
+    "lon": -0.4474921,
+    "address": "The Adeyfield Academy, Longlands, Jarman Park, Highfield, Old Town, Dacorum, Hertfordshire, England, HP2 4DE, United Kingdom",
+    "query_used": "The Adeyfield Academy, UK"
+  },
+  "Dunottar School": {
+    "lat": 51.2301411,
+    "lon": -0.184635,
+    "address": "Dunottar School, High Trees Road, Meadvale, Reigate, Reigate and Banstead, Surrey, England, RH2 7EL, United Kingdom",
+    "query_used": "Dunottar School, UK"
+  },
+  "Oundle School": {
+    "lat": 52.4845702,
+    "lon": -0.4758661,
+    "address": "Oundle School, New Street, Peterborough, North Northamptonshire, England, PE8 4GH, United Kingdom",
+    "query_used": "Oundle School, UK"
+  },
+  "Harrodian School": {
+    "lat": 51.4815386,
+    "lon": -0.246943,
+    "address": "Harrodian School, Lonsdale Road, London Borough of Richmond upon Thames, London, Greater London, England, SW13 9AR, United Kingdom",
+    "query_used": "Harrodian School, UK"
+  },
+  "Burnt Ash Primary School": {
+    "lat": 51.4214682,
+    "lon": 0.0127483,
+    "address": "Burnt Ash Primary School, Rangefield Road, Sundridge, London Borough of Bromley, London, Greater London, England, BR1 4QX, United Kingdom",
+    "query_used": "Burnt Ash Primary School, UK"
+  },
+  "Queen Elizabeth's Grammar school": {
+    "lat": 51.3183966,
+    "lon": 0.8979306,
+    "address": "Queen Elizabeth's Grammar School, Abbey Place, The Brents, Faversham, Oare, Swale, Kent, England, ME13 7BQ, United Kingdom",
+    "query_used": "Queen Elizabeth's Grammar school, UK"
+  },
+  "St George's CE Primary School Bickley": null,
+  "Chennestone Primary School": {
+    "lat": 51.4120233,
+    "lon": -0.4053909,
+    "address": "Chennestone Primary School, Manor Lane, Sunbury-on-Thames, Surrey, England, TW16 5ED, United Kingdom",
+    "query_used": "Chennestone Primary School, UK"
+  },
+  "Emerald Place Clinic School": null,
+  "The Windsor Boys' School": {
+    "lat": 51.4824273,
+    "lon": -0.6217914,
+    "address": "The Windsor Boys' School, 1, Maidenhead Road, Clewer New Town, Clewer Village, Windsor, Windsor and Maidenhead, England, SL4 5EH, United Kingdom",
+    "query_used": "The Windsor Boys' School, UK"
+  },
+  "Hayes Park School": {
+    "lat": 51.5293652,
+    "lon": -0.4218831,
+    "address": "Hayes Park School, Raynton Drive, Charville, London Borough of Hillingdon, London, Greater London, England, UB4 8BE, United Kingdom",
+    "query_used": "Hayes Park School, UK"
+  },
+  "Spring Common Academy": {
+    "lat": 52.3377923,
+    "lon": -0.1733693,
+    "address": "Spring Common Academy, Bevan Close, Newtown, Huntingdon, Hartford, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE29 1TQ, United Kingdom",
+    "query_used": "Spring Common Academy, UK"
+  },
+  "North Bridge House Canonbury Senior": null,
+  "St Augustine's Priory": {
+    "lat": 51.5231178,
+    "lon": -0.2932369,
+    "address": "St Augustine's Priory, Hillcrest Road, Park Royal, London Borough of Ealing, London, Greater London, England, W5 2JL, United Kingdom",
+    "query_used": "St Augustine's Priory, UK"
+  },
+  "Ashley CofE Primary School": null,
+  "Baring Primary School": {
+    "lat": 51.4442739,
+    "lon": 0.0142425,
+    "address": "Baring Primary School, Linchmere Road, Burnt Ash Green, Hither Green, London Borough of Lewisham, London, Greater London, England, SE12 0NB, United Kingdom",
+    "query_used": "Baring Primary School, UK"
+  },
+  "Sir Joseph Williamson's Mathematical School": {
+    "lat": 51.3713111,
+    "lon": 0.4965309,
+    "address": "Sir Joseph Williamson's Mathematical School, Maidstone Road, Troy Town, Borstal, Rochester, Medway, England, ME1 3EL, United Kingdom",
+    "query_used": "Sir Joseph Williamson's Mathematical School, UK"
+  },
+  "City of London School": {
+    "lat": 51.511386,
+    "lon": -0.0990729,
+    "address": "City of London School, 107, Queen Victoria Street, St Paul's, City of London, Greater London, England, EC4V 3AL, United Kingdom",
+    "query_used": "City of London School, UK"
+  },
+  "St Augustine's Catholic Primary School": {
+    "lat": 51.5803574,
+    "lon": 0.0758785,
+    "address": "St Augustine's Catholic Primary School, Cranbrook Road, Gants Hill, Ilford, London, Greater London, England, IG2 6RG, United Kingdom",
+    "query_used": "St Augustine's Catholic Primary School, UK"
+  },
+  "York College": {
+    "lat": 53.9295327,
+    "lon": -1.1128922,
+    "address": "York College, Sim Balk Lane, Dringhouses, York, York and North Yorkshire, England, YO23 2BB, United Kingdom",
+    "query_used": "York College, UK"
+  },
+  "Bower Park Academy": {
+    "lat": 51.6052605,
+    "lon": 0.1818082,
+    "address": "Bower Park Academy, Havering Court, Collier Row, London Borough of Havering, London, Greater London, England, RM1 4YY, United Kingdom",
+    "query_used": "Bower Park Academy, UK"
+  },
+  "White Woman Lane Junior School": {
+    "lat": 52.6653302,
+    "lon": 1.3101661,
+    "address": "White Woman Lane Junior School, Longe Road, Sprowston, Beeston St Andrew, Broadland, Norfolk, England, NR6 7JA, United Kingdom",
+    "query_used": "White Woman Lane Junior School, UK"
+  },
+  "Harefield School": {
+    "lat": 51.6079563,
+    "lon": -0.4751479,
+    "address": "Harefield Academy, Northwood Way, Harefield, London, Greater London, England, UB9 6ET, United Kingdom",
+    "query_used": "Harefield School, UK"
+  },
+  "Compass Community Schools Wheatley Park": null,
+  "Queenswood School": {
+    "lat": 51.715842,
+    "lon": -0.1681737,
+    "address": "Queenswood School, Shepherds Way, North Mymms, Brookmans Park, Welwyn Hatfield, Hertfordshire, England, AL9 6NS, United Kingdom",
+    "query_used": "Queenswood School, UK"
+  },
+  "Oldfield Primary School": {
+    "lat": 53.8367556,
+    "lon": -1.9938636,
+    "address": "Oldfield Primary School, Oldfield Lane, Oldfield, Keighley, Stanbury, Bradford, West Yorkshire, England, BD22 0HZ, United Kingdom",
+    "query_used": "Oldfield Primary School, UK"
+  },
+  "Knole Academy": {
+    "lat": 51.2876102,
+    "lon": 0.1847712,
+    "address": "Knole Academy, Bradbourne Vale Road, St John's, Sevenoaks, Dunton Green, Sevenoaks, Kent, England, TN13 3LE, United Kingdom",
+    "query_used": "Knole Academy, UK"
+  },
+  "Argyle Primary School": {
+    "lat": 51.5287508,
+    "lon": -0.1240196,
+    "address": "Argyle Primary School, Tonbridge Street, King's Cross, London Borough of Camden, London, Greater London, England, WC1H 9EG, United Kingdom",
+    "query_used": "Argyle Primary School, UK"
+  },
+  "Holly lodge girls college": {
+    "lat": 53.4289639,
+    "lon": -2.9160241,
+    "address": "Holly Lodge Girls' College, 140, Mill Lane, Sandfield Park, West Derby, Liverpool, Liverpool City Region, England, L12 7LE, United Kingdom",
+    "query_used": "Holly lodge girls college, UK"
+  },
+  "Duxford Church of England Community Primary school": {
+    "lat": 52.0932344,
+    "lon": 0.1531417,
+    "address": "Duxford Church of England Community Primary School, Saint John's Street, Duxford, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, CB22 4RA, United Kingdom",
+    "query_used": "Duxford Church of England Community Primary school, UK"
+  },
+  "Redruth School": {
+    "lat": 50.2339391,
+    "lon": -5.2380642,
+    "address": "Redruth School, Tolgus Vean, Redruth, Cornwall, England, TR15 1TA, United Kingdom",
+    "query_used": "Redruth School, UK"
+  },
+  "Greenford High School": {
+    "lat": 51.5309109,
+    "lon": -0.3692945,
+    "address": "Greenford High School, Lady Margaret Road, Greenford, Southall, London, Greater London, England, UB1 2GU, United Kingdom",
+    "query_used": "Greenford High School, UK"
+  },
+  "Chisenhale Primary": {
+    "lat": 51.5328868,
+    "lon": -0.0389254,
+    "address": "Chisenhale Primary School, Chisenhale Road, Globe Town, Mile End, London Borough of Tower Hamlets, London, Greater London, England, E3 5QY, United Kingdom",
+    "query_used": "Chisenhale Primary, UK"
+  },
+  "Ark Brunel Primary School": {
+    "lat": 51.525362,
+    "lon": -0.2122581,
+    "address": "Ark Brunel Primary Academy, Middle Row, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, England, W10 5AT, United Kingdom",
+    "query_used": "Ark Brunel Primary School, UK"
+  },
+  "Our Lady\u2019s Preparatory School": {
+    "lat": 51.3713181,
+    "lon": -0.8019224,
+    "address": "Our Lady's Preparatory School, Lyneham Road, Wokingham Without, Wokingham, England, RG45 6PB, United Kingdom",
+    "query_used": "Our Lady\u2019s Preparatory School, UK"
+  },
+  "Warren Mead School": {
+    "lat": 51.3241961,
+    "lon": -0.2282605,
+    "address": "Warren Mead Junior School, Roundwood Way, Nork, Banstead, Reigate and Banstead, Surrey, England, SM7 1EJ, United Kingdom",
+    "query_used": "Warren Mead School, UK"
+  },
+  "LOOE COMMUNITY ACADEMY": {
+    "lat": 50.3657461,
+    "lon": -4.449092,
+    "address": "Looe Community Academy, Sunrising, Plaidy, St Martin, Looe, Cornwall, England, PL13 1NQ, United Kingdom",
+    "query_used": "LOOE COMMUNITY ACADEMY, UK"
+  },
+  "Courtwood Primary School": {
+    "lat": 51.3445339,
+    "lon": -0.0380804,
+    "address": "Courtwood Primary School, Courtwood Lane, Selsdon, Forestdale, London Borough of Croydon, London, Greater London, England, CR0 9HX, United Kingdom",
+    "query_used": "Courtwood Primary School, UK"
+  },
+  "Marden Lodge school": {
+    "lat": 51.2962281,
+    "lon": -0.0711906,
+    "address": "Marden Lodge School, Croydon Road, Caterham Valley, Caterham, Tandridge, Surrey, England, CR3 6PH, United Kingdom",
+    "query_used": "Marden Lodge school, UK"
+  },
+  "Turton Edgworth CEM Primary School": null,
+  "Parkside School": {
+    "lat": 53.8268886,
+    "lon": -1.8911202,
+    "address": "Parkside School, Parkside Terrace, Cullingworth, Bradford, West Yorkshire, England, BD13 5AD, United Kingdom",
+    "query_used": "Parkside School, UK"
+  },
+  "Barlby Primary School": {
+    "lat": 51.5237105,
+    "lon": -0.2154773,
+    "address": "Barlby Primary School, Barlby Road, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, England, W10 6DW, United Kingdom",
+    "query_used": "Barlby Primary School, UK"
+  },
+  "Noel park": {
+    "lat": 51.5970269,
+    "lon": -0.1009153,
+    "address": "Noel Park, West Green, London Borough of Haringey, London, Greater London, England, N22 6NU, United Kingdom",
+    "query_used": "Noel park, UK"
+  },
+  "Reed's School": {
+    "lat": 51.3382963,
+    "lon": -0.3792963,
+    "address": "Reed's School, Sandy Lane, Clarendon Park, Oxshott, Elmbridge, Surrey, England, KT11 2ES, United Kingdom",
+    "query_used": "Reed's School, UK"
+  },
+  "Robin hood primary and nursery school": {
+    "lat": 51.4291182,
+    "lon": -0.2603159,
+    "address": "Robin Hood Primary and Nursery School, Bowness Crescent, Kingston Vale, Royal Borough of Kingston upon Thames, London, Greater London, England, SW15 3QL, United Kingdom",
+    "query_used": "Robin hood primary and nursery school, UK"
+  },
+  "Baring": {
+    "lat": 51.4366009,
+    "lon": 0.01795,
+    "address": "Baring Close, Downham, London Borough of Lewisham, London, Greater London, England, SE12 0UN, United Kingdom",
+    "query_used": "Baring, UK"
+  },
+  "St Swithun's School": {
+    "lat": 51.0619767,
+    "lon": -1.2888557,
+    "address": "St. Swithun's School, Alresford Road, Chilcomb, Winchester, Hampshire, England, SO21 1HB, United Kingdom",
+    "query_used": "St Swithun's School, UK"
+  },
+  "Dover Grammar School for Boys": {
+    "lat": 51.1278297,
+    "lon": 1.2916998,
+    "address": "Dover Grammar School for Boys, Astor Avenue, Tower Hamlets, Dover, Kent, England, CT17 0DQ, United Kingdom",
+    "query_used": "Dover Grammar School for Boys, UK"
+  },
+  "Burlington House School": {
+    "lat": 51.4725313,
+    "lon": -0.2145335,
+    "address": "Burlington House School, Bishop's Avenue, Hurlingham, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, England, SW6 6EG, United Kingdom",
+    "query_used": "Burlington House School, UK"
+  },
+  "St Columba's College": {
+    "lat": 51.7432625,
+    "lon": -0.3491112,
+    "address": "St Columba's College, King Harry Lane, King Harry Park, St Stephens, St Albans, Hertfordshire, England, AL3 4AW, United Kingdom",
+    "query_used": "St Columba's College, UK"
+  },
+  "Reading Girls School": {
+    "lat": 51.4351437,
+    "lon": -0.9607511,
+    "address": "Reading Girls' School, Bamburgh Close, Whitley, Reading, England, RG2 7PY, United Kingdom",
+    "query_used": "Reading Girls School, UK"
+  },
+  "George Mitchell School": {
+    "lat": 51.5679492,
+    "lon": -0.013425,
+    "address": "George Mitchell School, Farmer Road, Leyton, London Borough of Waltham Forest, London, Greater London, England, E10 5DN, United Kingdom",
+    "query_used": "George Mitchell School, UK"
+  },
+  "Hurst Drive Primary School": {
+    "lat": 51.6843803,
+    "lon": -0.0406514,
+    "address": "Hurst Drive Primary School, Teresa Gardens, Waltham Cross, Broxbourne, Hertfordshire, England, EN8 8DH, United Kingdom",
+    "query_used": "Hurst Drive Primary School, UK"
+  },
+  "Carshaltonboys Sports College": null,
+  "Grove Academy": {
+    "lat": 56.4709159,
+    "lon": -2.8793874,
+    "address": "Grove Academy, Claypotts Road, Forthill, Broughty Ferry, Dundee, Dundee City, Alba / Scotland, DD5 1AB, United Kingdom",
+    "query_used": "Grove Academy, UK"
+  },
+  "Regina Coeli Catholic School": {
+    "lat": 51.3535618,
+    "lon": -0.1067939,
+    "address": "Regina Coeli Catholic Primary School, 178, Pampisford Road, Purley, London Borough of Croydon, London, Greater London, England, CR2 6DF, United Kingdom",
+    "query_used": "Regina Coeli Catholic School, UK"
+  },
+  "Kingsley School": {
+    "lat": 51.020458,
+    "lon": -4.2177454,
+    "address": "Kingsley School, South Bank Drive, East The Water, Bideford, Northam, Torridge, Devon, Devon and Torbay, England, EX39 3LY, United Kingdom",
+    "query_used": "Kingsley School, UK"
+  },
+  "Howden School": {
+    "lat": 53.7488034,
+    "lon": -0.8602157,
+    "address": "Howden School, Hopyard Court, Goole, East Riding of Yorkshire, Hull and East Yorkshire, England, DN14 7AL, United Kingdom",
+    "query_used": "Howden School, UK"
+  },
+  "Burstow Primary School": {
+    "lat": 51.172366,
+    "lon": -0.1168276,
+    "address": "Burstow Primary School, Redehall Road, Burstow, Smallfield, Tandridge, Surrey, England, RH6 9PT, United Kingdom",
+    "query_used": "Burstow Primary School, UK"
+  },
+  "St Philip's Catholic Primary School": {
+    "lat": 53.3969889,
+    "lon": -2.1197886,
+    "address": "St Philip's Catholic Primary School, Half Moon Lane, Offerton Park, Hazel Grove, Stockport, Greater Manchester, England, SK2 5LB, United Kingdom",
+    "query_used": "St Philip's Catholic Primary School, UK"
+  },
+  "St Columba\u2019s": {
+    "lat": 54.5359657,
+    "lon": -2.3987716,
+    "address": "St Columba's, B6259, Warcop, Westmorland and Furness, England, CA16 6PH, United Kingdom",
+    "query_used": "St Columba\u2019s, UK"
+  },
+  "Bishops hatfield girls school": null,
+  "Alexander McLeod Primary School": {
+    "lat": 51.4851103,
+    "lon": 0.1126137,
+    "address": "Alexander McLeod Primary School, Bostall Lane, Abbey Wood, Royal Borough of Greenwich, London, Greater London, England, SE2 0QS, United Kingdom",
+    "query_used": "Alexander McLeod Primary School, UK"
+  },
+  "Sayes Court Primary": null,
+  "Queensmead House School": {
+    "lat": 51.4714858,
+    "lon": -0.6081526,
+    "address": "Queensmead House School, Kings Road, Clewer Within, Clewer New Town, Clewer Village, Windsor, Windsor and Maidenhead, England, SL4 2AX, United Kingdom",
+    "query_used": "Queensmead House School, UK"
+  },
+  "Brighton Girls": {
+    "lat": 50.8275683,
+    "lon": -0.1522777,
+    "address": "Brighton Girls, Montpelier Road, Brunswick, Brighton, Brighton and Hove, England, BN1 3AT, United Kingdom",
+    "query_used": "Brighton Girls, UK"
+  },
+  "Penshurst Primary School": {
+    "lat": 53.7301703,
+    "lon": -0.4271361,
+    "address": "Penshurst Primary School, Winthorpe Road, Hessle, East Riding of Yorkshire, Hull and East Yorkshire, England, HU13 9EX, United Kingdom",
+    "query_used": "Penshurst Primary School, UK"
+  },
+  "Simon Langton Grammar School for Boys": {
+    "lat": 51.2613702,
+    "lon": 1.0840492,
+    "address": "Simon Langton Grammar School for Boys, Langton Lane, Lower Hardres and Nackington, Canterbury, Kent, England, CT4 7AS, United Kingdom",
+    "query_used": "Simon Langton Grammar School for Boys, UK"
+  },
+  "Chulmleigh College": {
+    "lat": 50.9170772,
+    "lon": -3.8701607,
+    "address": "Chulmleigh Community College, South Molton Street, Chulmleigh, North Devon, Devon, Devon and Torbay, England, EX18 7AA, United Kingdom",
+    "query_used": "Chulmleigh College, UK"
+  },
+  "Reigate Valley College": {
+    "lat": 51.2252577,
+    "lon": -0.2063595,
+    "address": "Reigate Valley College (South Park Campus), Alexander Road, South Park, Reigate, Reigate and Banstead, Surrey, England, RH2 8PP, United Kingdom",
+    "query_used": "Reigate Valley College, UK"
+  },
+  "Glebelands school": {
+    "lat": 51.1448001,
+    "lon": -0.4904768,
+    "address": "Glebelands School, Parsonage Road, Cranleigh, Waverley, Surrey, England, GU6 7AN, United Kingdom",
+    "query_used": "Glebelands school, UK"
+  },
+  "St Elphege's Junior School": null,
+  "West Chiltington Community Primary School": {
+    "lat": 50.9547937,
+    "lon": -0.447316,
+    "address": "West Chiltington Community Primary School, East Street, Voakes Manor, West Chiltington, West Chiltington Common, Horsham, West Sussex, England, RH20 2JY, United Kingdom",
+    "query_used": "West Chiltington Community Primary School, UK"
+  },
+  "Springfield Primary School": {
+    "lat": 51.5766636,
+    "lon": -0.0647753,
+    "address": "Springfield Primary School, Castlewood Road, Stamford Hill, London Borough of Hackney, London, Greater London, England, N16 6DH, United Kingdom",
+    "query_used": "Springfield Primary School, UK"
+  },
+  "St Marylebone CE Bridge school": null,
+  "Bromley Beacon Academy": {
+    "lat": 51.3702029,
+    "lon": 0.1183097,
+    "address": "Bromley Beacon Academy, Avalon Road, Goddington, Orpington, London, Greater London, England, BR6 9BD, United Kingdom",
+    "query_used": "Bromley Beacon Academy, UK"
+  }
+}

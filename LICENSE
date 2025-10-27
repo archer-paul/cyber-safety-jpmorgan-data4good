@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2025 Breck Foundation Impact Intelligence Project
+JP Morgan Data for Good Hackathon 2025 - Top 3 Finalist
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ACKNOWLEDGMENTS
+
+This project was developed as part of the JP Morgan Data for Good Hackathon
+2025 in support of the Breck Foundation's mission to keep young people safe
+online through cyber safety education.
+
+BRECK FOUNDATION
+The Breck Foundation empowers the digital generation to be smart and safe
+online. For more information, visit: https://www.breckfoundation.org
+
+JP MORGAN DATA FOR GOOD
+This hackathon project demonstrates the power of data science and technology
+applied to social impact challenges facing nonprofit organizations.
+
+---
+
+DATA USAGE NOTE
+
+This repository contains code and analytical frameworks. The underlying data
+from the Breck Foundation's programs is not included for privacy reasons.
+Users wishing to apply these tools to their own datasets should ensure they
+have appropriate permissions and comply with all relevant data protection
+regulations (GDPR, etc.).

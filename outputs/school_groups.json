@@ -1,0 +1,511 @@
+{
+  "merstham": [
+    "Merstham Park School",
+    "Limetree primary school, Merstham",
+    "Merstham Primary school"
+  ],
+  "slough": [
+    "Slough & Eton School",
+    "Slough & Eton"
+  ],
+  "brindishe": [
+    "Brindishe Green Primary School",
+    "Brindishe Lee School",
+    "Brindishe Green",
+    "Brindishe Lee",
+    "Brindishe Manor"
+  ],
+  "green": [
+    "Brindishe Green Primary School",
+    "Rushey Green Primary School",
+    "St John's Walham Green CE Primary",
+    "Culverstone Green Primary School",
+    "Saffron Green Primary School",
+    "Brindishe Green"
+  ],
+  "charles": [
+    "Charles Darwin School",
+    "Charles Darwin Primary School"
+  ],
+  "darwin": [
+    "Charles Darwin School",
+    "Charles Darwin Primary School"
+  ],
+  "valley": [
+    "Valley Invicta Primary School at Holborough Lakes",
+    "Valley Invicta primary school at Holborough Lakes",
+    "Nar Valley Federation, Castle Acre, Narborough and Sporle",
+    "Valley Primary School",
+    "RNN Group, Dearne Valley College",
+    "Reigate Valley College"
+  ],
+  "invicta": [
+    "Valley Invicta Primary School at Holborough Lakes",
+    "Valley Invicta primary school at Holborough Lakes"
+  ],
+  "holborough": [
+    "Valley Invicta Primary School at Holborough Lakes",
+    "Valley Invicta primary school at Holborough Lakes"
+  ],
+  "lakes": [
+    "Valley Invicta Primary School at Holborough Lakes",
+    "Valley Invicta primary school at Holborough Lakes"
+  ],
+  "bishop": [
+    "The Bishop David Brown School",
+    "Bishop  Challoner Catholic Secondary School",
+    "bishop wand school"
+  ],
+  "david": [
+    "The Bishop David Brown School",
+    "Ysgol David hughes"
+  ],
+  "serenity": [
+    "Serenity School Crawley",
+    "Serenity School Maidstone"
+  ],
+  "leopold": [
+    "Leopold Primary School",
+    "Leopold Gwenneth Rickus Primary"
+  ],
+  "coombe": [
+    "Coombe Boys School",
+    "Coombe Wood School"
+  ],
+  "thomas": [
+    "Thomas Willingale",
+    "Thomas Bennett Community College",
+    "Thomas More Catholic School",
+    "Thomas Arnold Primary School"
+  ],
+  "north": [
+    "North Bridge House Senior School Hampstead",
+    "New North Academy",
+    "The New North Academy",
+    "North Brent School",
+    "North Bridge House Canonbury Senior"
+  ],
+  "bridge": [
+    "North Bridge House Senior School Hampstead",
+    "North Bridge House Canonbury Senior",
+    "St Marylebone CE Bridge school"
+  ],
+  "house": [
+    "North Bridge House Senior School Hampstead",
+    "Radnor House Twickenham",
+    "Blossom House School",
+    "Chilworth House Lower School",
+    "Manor House School",
+    "North Bridge House Canonbury Senior",
+    "Burlington House School",
+    "Queensmead House School"
+  ],
+  "senior": [
+    "North Bridge House Senior School Hampstead",
+    "North Bridge House Canonbury Senior"
+  ],
+  "girls": [
+    "The Ellen Wilkinson School For Girls",
+    "Mulberry School for Girls",
+    "Northfleet School for Girls",
+    "Chislehurst School for Girls",
+    "Nonsuch High School for girls",
+    "Holly lodge girls college",
+    "Reading Girls School",
+    "Bishops hatfield girls school",
+    "Brighton Girls"
+  ],
+  "community": [
+    "Kingsford Community School",
+    "Parkside Community Primary School",
+    "South Molton Community College",
+    "Richard de Clare Community Academy",
+    "Thomas Bennett Community College",
+    "Wellington Community Primary School",
+    "Meopham Community Academy",
+    "Compass Community Schools Wheatley Park",
+    "Duxford Church of England Community Primary school",
+    "LOOE COMMUNITY ACADEMY",
+    "West Chiltington Community Primary School"
+  ],
+  "parkside": [
+    "Parkside Community Primary School",
+    "Parkside School"
+  ],
+  "college": [
+    "Clifton College",
+    "Foundry College",
+    "St George's College Weybridge",
+    "Bonus Pastor Catholic College",
+    "South Molton Community College",
+    "Brighton College",
+    "Central Bedfordshire College",
+    "University College School",
+    "The College Merthyr Tydfil",
+    "Thomas Bennett Community College",
+    "Scarborough College",
+    "Brampton College",
+    "Mckee college",
+    "ONELAB College",
+    "New City College - Havering 6th Form",
+    "Nescot College",
+    "Churcher's College Junior School, Liphook",
+    "Wembley High Technology College",
+    "RNN Group, Dearne Valley College",
+    "St Bede's College",
+    "Barking and Dagenham College",
+    "York College",
+    "Holly lodge girls college",
+    "St Columba's College",
+    "Carshaltonboys Sports College",
+    "Chulmleigh College",
+    "Reigate Valley College"
+  ],
+  "catholic": [
+    "St Anselm's Catholic School",
+    "Holy Family Catholic Primary School",
+    "Bishop  Challoner Catholic Secondary School",
+    "Bonus Pastor Catholic College",
+    "St Cuthbert's Catholic Primary School",
+    "St Peter's Catholic Primary School",
+    "St Francis Catholic Primary School",
+    "St Francis Catholic School, Caterham",
+    "Holy Family Catholic Primary",
+    "St Anthony's Catholic Primary School",
+    "Good Shepherd Catholic Primary school",
+    "Holy Cross Catholic Primary School",
+    "St John Evangelist Catholic Primary school",
+    "Thomas More Catholic School",
+    "St William of York Catholic Primary School",
+    "St Annes Catholic Primary School",
+    "St Edmund's Catholic School",
+    "St Edmund's Catholic Primary School",
+    "St Georges Catholic Primary School",
+    "St Mary's Catholic Primary School",
+    "St Augustine's Catholic Primary School",
+    "Regina Coeli Catholic School",
+    "St Philip's Catholic Primary School"
+  ],
+  "hillcroft": [
+    "Hillcroft School",
+    "Hillcroft Primary School"
+  ],
+  "trinity": [
+    "The Trinity CE Primary Academy",
+    "Trinity Primary Academy",
+    "Trinity Academy St Edwards",
+    "Holy Trinity CE Primary",
+    "Holy Trinity C of E Primary School",
+    "Trinity School"
+  ],
+  "george's": [
+    "St George's College Weybridge",
+    "St George's CE Primary School Bickley"
+  ],
+  "family": [
+    "Holy Family Catholic Primary School",
+    "Holy Family Catholic Primary"
+  ],
+  "francis": [
+    "Francis Holland Sloane Square",
+    "Francis Holland School Regent's Park",
+    "St Francis Catholic Primary School",
+    "St Francis Catholic School, Caterham",
+    "Francis Holland Regent's Park"
+  ],
+  "holland": [
+    "Francis Holland Sloane Square",
+    "Francis Holland School Regent's Park",
+    "Francis Holland Regent's Park"
+  ],
+  "avenue": [
+    "Birchwood Avenue Primary School",
+    "Prince Avenue Academy"
+  ],
+  "edward": [
+    "King Edward VI School, Southampton",
+    "Edward Bryant School"
+  ],
+  "school,": [
+    "King Edward VI School, Southampton",
+    "St Francis Catholic School, Caterham",
+    "Limetree primary school, Merstham",
+    "Churcher's College Junior School, Liphook"
+  ],
+  "john's": [
+    "St John's Beaumont",
+    "St John's C of E Primary School",
+    "St John's Walham Green CE Primary"
+  ],
+  "arnold": [
+    "The Matthew Arnold School",
+    "Thomas Arnold Primary School"
+  ],
+  "brighton": [
+    "Brighton College",
+    "Brighton Girls"
+  ],
+  "nursery": [
+    "Manorfield Primary & Nursery School",
+    "John Wood School and Nursery",
+    "Dairy Meadow Primary and Nursery School",
+    "Sythwood primary & Nursery School",
+    "Whitmore Primary School & Nursery",
+    "Briscoe Primary School & Nursery",
+    "Westfield Primary and Nursery School",
+    "Robin hood primary and nursery school"
+  ],
+  "esher": [
+    "Esher Church of England High School",
+    "Esher Church School"
+  ],
+  "england": [
+    "Esher Church of England High School",
+    "Thorpe Church of England Primary School",
+    "Heart of England Training Ltd",
+    "Hockering Church of England Primary Academy",
+    "St. Luke's church of England Primary school",
+    "Duxford Church of England Community Primary school"
+  ],
+  "royal": [
+    "Royal Alexandra and Albert School",
+    "Royal Aelxandra and Albert School",
+    "The Royal Kent School"
+  ],
+  "albert": [
+    "Royal Alexandra and Albert School",
+    "Royal Aelxandra and Albert School"
+  ],
+  "regent's": [
+    "Francis Holland School Regent's Park",
+    "Francis Holland Regent's Park"
+  ],
+  "ewell": [
+    "Ewell Grove Primary School",
+    "Ewell Castle Prep"
+  ],
+  "grove": [
+    "Ewell Grove Primary School",
+    "Maple Grove Primary School",
+    "Grove Academy"
+  ],
+  "beacon": [
+    "The Beacon",
+    "The Beacon Folkestone",
+    "Bromley Beacon Academy"
+  ],
+  "grammar": [
+    "Rochester Grammar",
+    "Wallington county Grammar School",
+    "Bristol Grammar School",
+    "Maidstone Grammar",
+    "Langley Grammar School",
+    "Queen Elizabeth's Grammar school",
+    "Dover Grammar School for Boys",
+    "Simon Langton Grammar School for Boys"
+  ],
+  "burstow": [
+    "Burstow Park School",
+    "Burstow Primary School"
+  ],
+  "children's": [
+    "Cedar Children's Academy",
+    "All Faiths Children's Academy",
+    "Gordon Children's Academy"
+  ],
+  "bishops": [
+    "Bishops Down Primary School",
+    "Bishops hatfield girls school"
+  ],
+  "peter's": [
+    "St Peter's Catholic Primary School",
+    "Chorley St Peter's C of E Primary School",
+    "St Peter's Primary School"
+  ],
+  "hatchlands": [
+    "Hatchlands Primary School",
+    "Hatchlands Primary"
+  ],
+  "cyril": [
+    "Cyril Jackson Primary",
+    "Cyril Jackson Primary School"
+  ],
+  "jackson": [
+    "Cyril Jackson Primary",
+    "Cyril Jackson Primary School"
+  ],
+  "alexander": [
+    "Alexander McLeod Primary",
+    "Alexander McLeod Primary School"
+  ],
+  "mcleod": [
+    "Alexander McLeod Primary",
+    "Alexander McLeod Primary School"
+  ],
+  "caterham": [
+    "St Francis Catholic School, Caterham",
+    "Caterham School"
+  ],
+  "castle": [
+    "Ewell Castle Prep",
+    "Castle View School",
+    "Nar Valley Federation, Castle Acre, Narborough and Sporle"
+  ],
+  "education": [
+    "On Track Education Northampton",
+    "CORE Education Trust"
+  ],
+  "paul's": [
+    "St Paul's Cray CE primary School",
+    "St Paul's Whitechapel CE Primary"
+  ],
+  "robin": [
+    "Robin Hood Primary School",
+    "Robin hood primary and nursery school"
+  ],
+  "thorpe": [
+    "Thorpe Church of England Primary School",
+    "Thorpe CofE Primary School",
+    "Thorpe St Andrew School and Sixth Form"
+  ],
+  "cross": [
+    "Holy Cross Primary",
+    "Fulham Cross Academy",
+    "Holy Cross Catholic Primary School"
+  ],
+  "augustine's": [
+    "St. AUgustine's Primary School",
+    "St Augustine's Priory",
+    "St Augustine's Catholic Primary School"
+  ],
+  "anthony's": [
+    "St Anthony's Catholic Primary School",
+    "ST ANTHONY'S SCHOOL MARGATE"
+  ],
+  "peter": [
+    "St Peter & St Paul Primary",
+    "St Peter and St Paul Church Primary School"
+  ],
+  "chisenhale": [
+    "Chisenhale Primary School",
+    "Chisenhale Primary"
+  ],
+  "scotts": [
+    "Scotts Park Primary School",
+    "scotts park primary school"
+  ],
+  "mary's": [
+    "St Mary's CofE Controlled Primary School",
+    "St Mary's Lewisham CE Primary School",
+    "St Mary's Catholic Primary School"
+  ],
+  "limetree": [
+    "Limetree primary school",
+    "Limetree primary school, Merstham"
+  ],
+  "hurst": [
+    "Hurst Park Primary School",
+    "Hurst Drive Primary School"
+  ],
+  "deptford": [
+    "St Joseph's, Deptford",
+    "Deptford Park Primary School"
+  ],
+  "adeyfield": [
+    "Adeyfield Academy",
+    "The Adeyfield Academy"
+  ],
+  "warren": [
+    "Warren Mead",
+    "Warren Mead School"
+  ],
+  "group": [
+    "RNN Group",
+    "Home educated group"
+  ],
+  "learning": [
+    "The Enterprise Learning Alliance",
+    "Learning Partners Academy Trust",
+    "Learning Partners"
+  ],
+  "luke's": [
+    "St. Luke's church of England Primary school",
+    "St Luke's"
+  ],
+  "manor": [
+    "Yateley Manor School",
+    "Drayton Manor High School",
+    "Brindishe Manor",
+    "Manor House School",
+    "Frith Manor Primary School"
+  ],
+  "international": [
+    "The International School of Geneva",
+    "Marymount International School"
+  ],
+  "field": [
+    "Prior's Field",
+    "Geoffrey Field Junior School"
+  ],
+  "bromley": [
+    "Bromley Trust Academy",
+    "Bromley Beacon Academy"
+  ],
+  "trust": [
+    "Bromley Trust Academy",
+    "Learning Partners Academy Trust",
+    "CORE Education Trust"
+  ],
+  "maidstone": [
+    "Maidstone Grammar",
+    "Serenity School Maidstone"
+  ],
+  "partners": [
+    "Learning Partners Academy Trust",
+    "Learning Partners"
+  ],
+  "folkestone": [
+    "Folkestone Primary",
+    "The Beacon Folkestone"
+  ],
+  "schools": [
+    "The Oaklands Primary Schools",
+    "Compass Community Schools Wheatley Park"
+  ],
+  "regina": [
+    "The Regina Coeli School",
+    "Regina Coeli Catholic School"
+  ],
+  "coeli": [
+    "The Regina Coeli School",
+    "Regina Coeli Catholic School"
+  ],
+  "nonsuch": [
+    "Nonsuch High School for girls",
+    "Nonsuch School"
+  ],
+  "priory": [
+    "Priory Junior School",
+    "St Augustine's Priory"
+  ],
+  "edmund's": [
+    "St Edmund's Catholic School",
+    "St Edmund's Catholic Primary School"
+  ],
+  "sixth": [
+    "Thorpe St Andrew School and Sixth Form",
+    "Homewood School and Sixth Form Centre"
+  ],
+  "hayes": [
+    "Hayes Primary School",
+    "Hayes Park School"
+  ],
+  "baring": [
+    "Baring Primary School",
+    "Baring"
+  ],
+  "lodge": [
+    "Holly lodge girls college",
+    "Marden Lodge school"
+  ]
+}

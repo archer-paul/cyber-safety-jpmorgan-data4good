@@ -1,0 +1,39 @@
+================================================================================
+BRECK FOUNDATION - EXECUTIVE SUMMARY
+JP Morgan Data for Good Hackathon 2025
+================================================================================
+
+Analysis Date: 2025-10-24T18:11:44.042896
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+
+Youth Feedback:
+  - Total responses: 440
+  - Average effectiveness: 4.35/5
+  - Satisfaction rate: 91.4%
+  - Unique schools: 70
+
+
+TOP RECOMMENDATIONS
+--------------------------------------------------------------------------------
+
+Data Collection:
+  - Implement pre/post matched surveys with unique IDs
+  - Add 3-month follow-up survey to measure behavior change
+  - Collect school postcodes for geographic analysis
+
+Workshop Content:
+  - Address 'More time/depth' feedback - mentioned by 27 students
+  - Address 'More interactivity' feedback - mentioned by 5 students
+  - Address 'Visuals/videos' feedback - mentioned by 5 students
+
+Delivery Optimization:
+  - Consider age-specific workshop adaptations based on effectiveness variations
+  - Prioritize external speaker delivery - shows positive impact on engagement
+
+Geographic Expansion:
+  - Identify 7 isolated schools for targeted outreach
+
+
+================================================================================

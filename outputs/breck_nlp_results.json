@@ -1,0 +1,426 @@
+{
+  "timestamp": "2025-10-24T18:11:45.061485",
+  "feedback_analysis": {
+    "positive": {
+      "total_responses": 436,
+      "top_keywords": [
+        [
+          "found",
+          54
+        ],
+        [
+          "grooming",
+          53
+        ],
+        [
+          "story",
+          50
+        ],
+        [
+          "interesting",
+          45
+        ],
+        [
+          "breck",
+          42
+        ],
+        [
+          "online",
+          39
+        ],
+        [
+          "useful",
+          31
+        ],
+        [
+          "people",
+          30
+        ],
+        [
+          "part",
+          28
+        ],
+        [
+          "his",
+          26
+        ],
+        [
+          "trust",
+          22
+        ],
+        [
+          "real",
+          21
+        ],
+        [
+          "lewis",
+          21
+        ],
+        [
+          "me",
+          21
+        ],
+        [
+          "us",
+          20
+        ],
+        [
+          "parents",
+          20
+        ],
+        [
+          "because",
+          19
+        ],
+        [
+          "groomers",
+          17
+        ],
+        [
+          "video",
+          17
+        ],
+        [
+          "presentation",
+          16
+        ],
+        [
+          "signs",
+          15
+        ],
+        [
+          "him",
+          15
+        ],
+        [
+          "really",
+          15
+        ],
+        [
+          "groomer",
+          13
+        ],
+        [
+          "person",
+          13
+        ]
+      ],
+      "top_bigrams": [
+        [
+          [
+            "it",
+            "was"
+          ],
+          36
+        ],
+        [
+          [
+            "the",
+            "story"
+          ],
+          27
+        ],
+        [
+          [
+            "how",
+            "to"
+          ],
+          26
+        ],
+        [
+          [
+            "found",
+            "it"
+          ],
+          25
+        ],
+        [
+          [
+            "the",
+            "part"
+          ],
+          20
+        ],
+        [
+          [
+            "of",
+            "grooming"
+          ],
+          17
+        ],
+        [
+          [
+            "of",
+            "it"
+          ],
+          16
+        ],
+        [
+          [
+            "of",
+            "the"
+          ],
+          16
+        ],
+        [
+          [
+            "all",
+            "of"
+          ],
+          15
+        ],
+        [
+          [
+            "and",
+            "how"
+          ],
+          14
+        ],
+        [
+          [
+            "the",
+            "most"
+          ],
+          14
+        ],
+        [
+          [
+            "the",
+            "video"
+          ],
+          14
+        ],
+        [
+          [
+            "the",
+            "presentation"
+          ],
+          13
+        ],
+        [
+          [
+            "don",
+            "know"
+          ],
+          13
+        ],
+        [
+          [
+            "when",
+            "the"
+          ],
+          12
+        ]
+      ],
+      "themes": {
+        "Story/Personal": 119,
+        "Grooming": 102,
+        "Educational": 30,
+        "Safety": 29,
+        "Interactive": 15,
+        "Presenter": 10
+      }
+    },
+    "positive_sentiment": {
+      "mean_sentiment": 0.16590214067278286,
+      "median_sentiment": 0.0,
+      "std_sentiment": 0.3990935532250486,
+      "distribution": {
+        "positive": 80,
+        "neutral": 351,
+        "negative": 5
+      }
+    },
+    "improvements": {
+      "total_responses": 241,
+      "nothing_responses": 171,
+      "substantive_responses": 142,
+      "top_keywords": [
+        [
+          "really",
+          19
+        ],
+        [
+          "good",
+          12
+        ],
+        [
+          "breck",
+          9
+        ],
+        [
+          "lewis",
+          7
+        ],
+        [
+          "nothing",
+          7
+        ],
+        [
+          "presentation",
+          6
+        ],
+        [
+          "no.",
+          6
+        ],
+        [
+          "nope",
+          6
+        ],
+        [
+          "information",
+          5
+        ],
+        [
+          "given",
+          5
+        ],
+        [
+          "avoid",
+          5
+        ],
+        [
+          "online",
+          5
+        ],
+        [
+          "maybe",
+          5
+        ],
+        [
+          "time",
+          4
+        ],
+        [
+          "identify",
+          4
+        ],
+        [
+          "groomed",
+          4
+        ],
+        [
+          "us",
+          4
+        ],
+        [
+          "people",
+          4
+        ],
+        [
+          "being",
+          4
+        ],
+        [
+          "killed",
+          4
+        ]
+      ],
+      "improvement_themes": {
+        "More time/depth": 27,
+        "More interactivity": 5,
+        "Visuals/videos": 5,
+        "Q&A session": 4,
+        "More examples": 2
+      }
+    },
+    "additions": {
+      "total_responses": 199,
+      "nothing_responses": 103,
+      "substantive_responses": 158,
+      "top_keywords": [
+        [
+          "nothing",
+          21
+        ],
+        [
+          "maybe",
+          15
+        ],
+        [
+          "good",
+          15
+        ],
+        [
+          "really",
+          11
+        ],
+        [
+          "presentation",
+          11
+        ],
+        [
+          "grooming",
+          10
+        ],
+        [
+          "breck",
+          7
+        ],
+        [
+          "information",
+          7
+        ],
+        [
+          "examples",
+          6
+        ],
+        [
+          "questions",
+          5
+        ],
+        [
+          "story",
+          5
+        ],
+        [
+          "better",
+          5
+        ],
+        [
+          "real",
+          5
+        ],
+        [
+          "happened",
+          4
+        ],
+        [
+          "its",
+          4
+        ],
+        [
+          "add",
+          4
+        ],
+        [
+          "talk",
+          4
+        ],
+        [
+          "sure",
+          4
+        ],
+        [
+          "people",
+          4
+        ],
+        [
+          "interactive",
+          3
+        ]
+      ],
+      "improvement_themes": {
+        "More time/depth": 46,
+        "More interactivity": 8,
+        "More examples": 8,
+        "Visuals/videos": 8,
+        "Q&A session": 6,
+        "Social media": 2,
+        "Statistics/facts": 1
+      }
+    }
+  },
+  "news_analysis": {}
+}

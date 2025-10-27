@@ -1,0 +1,1093 @@
+{
+  "timestamp": "2025-10-24T18:11:44.042896",
+  "config": {
+    "data_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\Breck_Internal_Data.xlsx",
+    "gias_database": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\edubasealldata20251024.csv",
+    "breck_summary_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\school_summary.csv",
+    "output_dir": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs",
+    "n_clusters": 5,
+    "create_visualizations": true,
+    "analyze_news": false,
+    "news_file": null,
+    "champion_min_visits": 2,
+    "hotspot_radius_km": 5.0,
+    "fsm_threshold": 30.0,
+    "normal_leads_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\normal_leads.csv",
+    "deprived_leads_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\deprived_area_leads.csv",
+    "map_output_path": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\breck_interactive_map.html",
+    "max_connections_per_lead": 2,
+    "visited_schools_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\schools_with_geocoding.csv"
+  },
+  "data_summary": {
+    "timestamp": "2025-10-24T18:11:45.006001",
+    "data_sources": {
+      "youth_feedback": {
+        "rows": 440,
+        "columns": 29,
+        "date_range": {
+          "start": "2024-08-23 00:00:00",
+          "end": "2025-09-28 00:00:00"
+        }
+      },
+      "adult_feedback": {
+        "rows": 40,
+        "columns": 25,
+        "date_range": null
+      },
+      "class_feedback": {
+        "rows": 85,
+        "columns": 11,
+        "date_range": null
+      },
+      "all_sessions": {
+        "rows": 0,
+        "columns": 4,
+        "date_range": null
+      },
+      "qualitative_feedback": {
+        "rows": 34,
+        "columns": 5,
+        "date_range": null
+      }
+    },
+    "key_metrics": {
+      "youth_feedback": {
+        "total_responses": 440,
+        "avg_effectiveness_score": 4.350797266514807,
+        "satisfaction_rate": 91.36363636363637,
+        "recommendation_rate": 95.0413223140496,
+        "unique_schools": 70
+      }
+    }
+  },
+  "effectiveness_analysis": {
+    "overall_metrics": {
+      "sample_size": 440,
+      "avg_effectiveness_score": 4.350797266514807,
+      "satisfaction_rate": 91.36363636363637,
+      "recommendation_rate": 95.0413223140496,
+      "learning_outcomes": {
+        "identifying_dangers": NaN,
+        "understanding_grooming": NaN,
+        "online_vs_real_friends": NaN
+      }
+    },
+    "by_age_group": {
+      "mean": {
+        "10 or under": 4.0,
+        "11-13": 4.39,
+        "14-16": 4.28,
+        "16+": 4.33
+      },
+      "count": {
+        "10 or under": 1,
+        "11-13": 282,
+        "14-16": 153,
+        "16+": 3
+      },
+      "std": {
+        "10 or under": NaN,
+        "11-13": 0.67,
+        "14-16": 0.71,
+        "16+": 1.15
+      }
+    },
+    "by_gender": {
+      "mean": {
+        "Female": 4.44,
+        "Male": 4.29,
+        "Other": 3.83,
+        "Prefer not to say": 4.33
+      },
+      "count": {
+        "Female": 189,
+        "Male": 232,
+        "Other": 6,
+        "Prefer not to say": 12
+      },
+      "std": {
+        "Female": 0.6,
+        "Male": 0.72,
+        "Other": 0.98,
+        "Prefer not to say": 0.89
+      }
+    },
+    "temporal_trends": {
+      "mean": {
+        "2024-08": NaN,
+        "2024-09": 3.94,
+        "2024-11": 4.49,
+        "2024-12": 4.0,
+        "2025-03": 4.5,
+        "2025-05": 4.09,
+        "2025-09": 4.5
+      },
+      "count": {
+        "2024-08": 0,
+        "2024-09": 89,
+        "2024-11": 263,
+        "2024-12": 1,
+        "2025-03": 30,
+        "2025-05": 34,
+        "2025-09": 22
+      }
+    },
+    "engagement_factors": {
+      "external_speaker": {
+        "mean": {
+          "No": 3.75,
+          "Yes": 4.47
+        },
+        "count": {
+          "No": 20,
+          "Yes": 309
+        }
+      }
+    }
+  },
+  "data_gaps": {
+    "missing_data_points": [
+      {
+        "category": "Follow-up",
+        "description": "No 3-month or 6-month follow-up surveys",
+        "impact": "Cannot measure behavior change or knowledge retention"
+      },
+      {
+        "category": "Geographic",
+        "description": "School locations not geocoded",
+        "impact": "Cannot create heat maps or analyze geographic patterns"
+      },
+      {
+        "category": "Behavioral",
+        "description": "No data on actual behavior change (reporting incidents, changing privacy settings)",
+        "impact": "Cannot measure real-world application of learnings"
+      }
+    ],
+    "low_response_fields": [
+      {
+        "field": "If you want to, please use this box to self identify",
+        "missing_percentage": 88.18181818181819
+      },
+      {
+        "field": "Is there anything you feel was missing or could be improved in the presentation? If so, please provide details.",
+        "missing_percentage": 45.22727272727273
+      },
+      {
+        "field": "If \u2018Yes\u2019, what aspects made it more effective for you? Options (select all that apply)",
+        "missing_percentage": 21.363636363636363
+      },
+      {
+        "field": "Other:",
+        "missing_percentage": 93.63636363636364
+      },
+      {
+        "field": "What could we add to the presentation to make it better?",
+        "missing_percentage": 54.77272727272727
+      },
+      {
+        "field": "external_speaker_engaging",
+        "missing_percentage": 25.227272727272727
+      },
+      {
+        "field": "confident_identifying_dangers",
+        "missing_percentage": 100.0
+      },
+      {
+        "field": "understanding_grooming",
+        "missing_percentage": 100.0
+      },
+      {
+        "field": "understanding_online_vs_real",
+        "missing_percentage": 100.0
+      },
+      {
+        "field": "improvements",
+        "missing_percentage": 45.22727272727273
+      },
+      {
+        "field": "additions",
+        "missing_percentage": 54.77272727272727
+      }
+    ],
+    "suggested_additions": [
+      "Implement pre/post matched surveys with unique IDs",
+      "Add 3-month follow-up survey to measure behavior change",
+      "Collect school postcodes for geographic analysis",
+      "Add questions about specific actions taken (e.g., 'Have you changed your privacy settings?')",
+      "Include parental feedback surveys",
+      "Track incident reporting rates in participating schools",
+      "Add more demographic variables (ethnicity, SEN status) for equity analysis",
+      "Include questions about specific online platforms used"
+    ],
+    "data_quality_issues": []
+  },
+  "session_analysis": {
+    "totals": {
+      "total_sessions": 0,
+      "unique_session_types": 0,
+      "months_active": 0,
+      "data_sources": 0
+    },
+    "by_type": {},
+    "by_source": {},
+    "trends": {
+      "monthly": {}
+    }
+  },
+  "nlp_analysis": {
+    "timestamp": "2025-10-24T18:11:45.061485",
+    "feedback_analysis": {
+      "positive": {
+        "total_responses": 436,
+        "top_keywords": [
+          "('found', 54)",
+          "('grooming', 53)",
+          "('story', 50)",
+          "('interesting', 45)",
+          "('breck', 42)",
+          "('online', 39)",
+          "('useful', 31)",
+          "('people', 30)",
+          "('part', 28)",
+          "('his', 26)",
+          "('trust', 22)",
+          "('real', 21)",
+          "('lewis', 21)",
+          "('me', 21)",
+          "('us', 20)",
+          "('parents', 20)",
+          "('because', 19)",
+          "('groomers', 17)",
+          "('video', 17)",
+          "('presentation', 16)",
+          "('signs', 15)",
+          "('him', 15)",
+          "('really', 15)",
+          "('groomer', 13)",
+          "('person', 13)"
+        ],
+        "top_bigrams": [
+          "(('it', 'was'), 36)",
+          "(('the', 'story'), 27)",
+          "(('how', 'to'), 26)",
+          "(('found', 'it'), 25)",
+          "(('the', 'part'), 20)",
+          "(('of', 'grooming'), 17)",
+          "(('of', 'it'), 16)",
+          "(('of', 'the'), 16)",
+          "(('all', 'of'), 15)",
+          "(('and', 'how'), 14)",
+          "(('the', 'most'), 14)",
+          "(('the', 'video'), 14)",
+          "(('the', 'presentation'), 13)",
+          "(('don', 'know'), 13)",
+          "(('when', 'the'), 12)"
+        ],
+        "themes": {
+          "Story/Personal": 119,
+          "Grooming": 102,
+          "Educational": 30,
+          "Safety": 29,
+          "Interactive": 15,
+          "Presenter": 10
+        }
+      },
+      "positive_sentiment": {
+        "mean_sentiment": 0.16590214067278286,
+        "median_sentiment": 0.0,
+        "std_sentiment": 0.3990935532250486,
+        "distribution": {
+          "positive": 80,
+          "neutral": 351,
+          "negative": 5
+        }
+      },
+      "improvements": {
+        "total_responses": 241,
+        "nothing_responses": 171,
+        "substantive_responses": 142,
+        "top_keywords": [
+          "('really', 19)",
+          "('good', 12)",
+          "('breck', 9)",
+          "('lewis', 7)",
+          "('nothing', 7)",
+          "('presentation', 6)",
+          "('no.', 6)",
+          "('nope', 6)",
+          "('information', 5)",
+          "('given', 5)",
+          "('avoid', 5)",
+          "('online', 5)",
+          "('maybe', 5)",
+          "('time', 4)",
+          "('identify', 4)",
+          "('groomed', 4)",
+          "('us', 4)",
+          "('people', 4)",
+          "('being', 4)",
+          "('killed', 4)"
+        ],
+        "improvement_themes": {
+          "More time/depth": 27,
+          "More interactivity": 5,
+          "Visuals/videos": 5,
+          "Q&A session": 4,
+          "More examples": 2
+        }
+      },
+      "additions": {
+        "total_responses": 199,
+        "nothing_responses": 103,
+        "substantive_responses": 158,
+        "top_keywords": [
+          "('nothing', 21)",
+          "('maybe', 15)",
+          "('good', 15)",
+          "('really', 11)",
+          "('presentation', 11)",
+          "('grooming', 10)",
+          "('breck', 7)",
+          "('information', 7)",
+          "('examples', 6)",
+          "('questions', 5)",
+          "('story', 5)",
+          "('better', 5)",
+          "('real', 5)",
+          "('happened', 4)",
+          "('its', 4)",
+          "('add', 4)",
+          "('talk', 4)",
+          "('sure', 4)",
+          "('people', 4)",
+          "('interactive', 3)"
+        ],
+        "improvement_themes": {
+          "More time/depth": 46,
+          "More interactivity": 8,
+          "More examples": 8,
+          "Visuals/videos": 8,
+          "Q&A session": 6,
+          "Social media": 2,
+          "Statistics/facts": 1
+        }
+      }
+    },
+    "news_analysis": {}
+  },
+  "geographic_analysis": {
+    "timestamp": "2025-10-24T18:11:45.105589",
+    "input_schools": 99,
+    "geocoded_schools": 64,
+    "clusters": [
+      {
+        "school_name": "Abbey school",
+        "postcode": null,
+        "latitude": 51.5477801,
+        "longitude": 0.0927588,
+        "address": "Abbey School, South Park Drive, Loxford, London Borough of Redbridge, London, Greater London, England, IG11 8FF, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Bishop Challoner",
+        "postcode": null,
+        "latitude": 51.2563831,
+        "longitude": -1.1221183,
+        "address": "Bishop Challoner Catholic Secondary School, St Michaels Road, Berg Estate, South Ham, Basingstoke, Basingstoke and Deane, Hampshire, England, RG22 6SR, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Bishop Challoner Catholic Secondary School",
+        "postcode": null,
+        "latitude": 51.2563831,
+        "longitude": -1.1221183,
+        "address": "Bishop Challoner Catholic Secondary School, St Michaels Road, Berg Estate, South Ham, Basingstoke, Basingstoke and Deane, Hampshire, England, RG22 6SR, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Bow School",
+        "postcode": null,
+        "latitude": 51.5228628,
+        "longitude": -0.0094972,
+        "address": "Bow School, 44, Twelvetrees Crescent, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E3 3QW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Brampton College",
+        "postcode": null,
+        "latitude": 51.5886402,
+        "longitude": -0.2221231,
+        "address": "Brampton College, Chapel Walk, Hendon, London Borough of Barnet, London, Greater London, England, NW4 4ER, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Brentwood",
+        "postcode": null,
+        "latitude": 51.6201654,
+        "longitude": 0.3018662,
+        "address": "Brentwood, Essex, England, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Brentwood School",
+        "postcode": null,
+        "latitude": 51.6209332,
+        "longitude": 0.3085837,
+        "address": "Brentwood School, Crescent Drive, Shenfield, Brentwood, Essex, England, CM15 8EE, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Brentwood school",
+        "postcode": null,
+        "latitude": 51.6209332,
+        "longitude": 0.3085837,
+        "address": "Brentwood School, Crescent Drive, Shenfield, Brentwood, Essex, England, CM15 8EE, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Brindishe Manor School",
+        "postcode": null,
+        "latitude": 51.4522122,
+        "longitude": 0.0038108,
+        "address": "Brindishe Manor School, Leahurst Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, England, SE13 5LS, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Ellen Wilkinson",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Ellen Wilkinson School",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Ellen wilkinson",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Felmore Primary",
+        "postcode": null,
+        "latitude": 51.580615,
+        "longitude": 0.5068551,
+        "address": "Felmore Primary School, Davenants, Basildon, Essex, England, SS13 1QX, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Grafton School",
+        "postcode": null,
+        "latitude": 51.5586321,
+        "longitude": 0.1409032,
+        "address": "Grafton Primary School, Grafton Road, Becontree Heath, London Borough of Barking and Dagenham, London, Greater London, England, RM8 3EX, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Harry Gosling Primary School",
+        "postcode": null,
+        "latitude": 51.5137446,
+        "longitude": -0.0661018,
+        "address": "Harry Gosling Primary School, Fairclough Street, St. George in the East, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 1NT, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Holy Family Catholic Primary School",
+        "postcode": null,
+        "latitude": 51.4600569,
+        "longitude": 0.0302342,
+        "address": "Holy Family Catholic Primary School, Tudway Road, Kidbrooke Village, Kidbrooke, Royal Borough of Greenwich, London, Greater London, England, SE3 9YX, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Kingsbury High School",
+        "postcode": null,
+        "latitude": 51.5877798,
+        "longitude": -0.268498,
+        "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Kingsbury High school",
+        "postcode": null,
+        "latitude": 51.5877798,
+        "longitude": -0.268498,
+        "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Kingsbury high",
+        "postcode": null,
+        "latitude": 51.5877798,
+        "longitude": -0.268498,
+        "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Kingsbury high School",
+        "postcode": null,
+        "latitude": 51.5877798,
+        "longitude": -0.268498,
+        "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Kingsbury high school",
+        "postcode": null,
+        "latitude": 51.5877798,
+        "longitude": -0.268498,
+        "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Marner",
+        "postcode": null,
+        "latitude": 52.4214159,
+        "longitude": -1.5184081,
+        "address": "Marner Crescent, Bishopsgate Green, Radford, Daimler Green, Coventry, West Midlands, England, CV6 3BX, United Kingdom",
+        "source": "nominatim",
+        "cluster": 2
+      },
+      {
+        "school_name": "Norham High School",
+        "postcode": null,
+        "latitude": 55.006008,
+        "longitude": -1.4737703,
+        "address": "Norham High School, Alnwick Avenue, Percy Main, North Shields, North Tyneside, Tyne and Wear, North East, England, NE29 7BU, United Kingdom",
+        "source": "nominatim",
+        "cluster": 2
+      },
+      {
+        "school_name": "Our Lady Of The Rosary Catholic Primary School",
+        "postcode": null,
+        "latitude": 51.4476664,
+        "longitude": 0.0916687,
+        "address": "Our Lady of the Rosary Catholic Primary School, Holbeach Gardens, Falconwood, Sidcup, London, Greater London, England, DA15 8QW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Our Lady of the Rosary",
+        "postcode": null,
+        "latitude": 51.4486288,
+        "longitude": 0.1009119,
+        "address": "Our Lady of the Rosary, 330A, Burnt Oak Lane, The Hollies, Blackfen, London Borough of Bexley, London, Greater London, England, DA15 8LW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Our Lady of the Rosary school",
+        "postcode": null,
+        "latitude": 51.4476664,
+        "longitude": 0.0916687,
+        "address": "Our Lady of the Rosary Catholic Primary School, Holbeach Gardens, Falconwood, Sidcup, London, Greater London, England, DA15 8QW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Ryan Reynolds",
+        "postcode": null,
+        "latitude": 53.0459436,
+        "longitude": -2.9927504,
+        "address": "Ryan Rodney Reynolds Memorial Park, City Centre, Rhosddu, Wrexham, Cymru / Wales, United Kingdom",
+        "source": "nominatim",
+        "cluster": 2
+      },
+      {
+        "school_name": "St John Fisher School Pinner",
+        "postcode": null,
+        "latitude": 51.5883755,
+        "longitude": -0.3699264,
+        "address": "St John Fisher Catholic Primary School, Melrose Road, Pinner, London Borough of Harrow, London, Greater London, England, HA5 5RA, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "St Luke's Primary School",
+        "postcode": null,
+        "latitude": 51.5132232,
+        "longitude": 0.014039,
+        "address": "St Luke's Primary School, Ruscoe Road, Canning Town, London Borough of Newham, London, Greater London, England, E16 1JB, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "THE ABBEY SCHOOL",
+        "postcode": null,
+        "latitude": 51.3082162,
+        "longitude": 0.8845217,
+        "address": "The Abbey School, London Road, Orchard Green, Faversham, Ospringe, Swale, Kent, England, ME13 8RZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "The  abbey school farnham",
+        "postcode": null,
+        "latitude": 51.2089415,
+        "longitude": -0.7851272,
+        "address": "The Abbey School, Menin Way, Waverley Estate, Farnham, Waverley, Surrey, England, GU9 8DY, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The Abbey",
+        "postcode": null,
+        "latitude": 51.750531,
+        "longitude": -0.3425639,
+        "address": "St Albans Cathedral, Sumpter Yard, St Stephens, St Albans, Hertfordshire, England, AL1 1BY, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The Abbey School",
+        "postcode": null,
+        "latitude": 51.3082162,
+        "longitude": 0.8845217,
+        "address": "The Abbey School, London Road, Orchard Green, Faversham, Ospringe, Swale, Kent, England, ME13 8RZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "The Ellen Wilkinson School For Girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The Ellen Wilkinson School For girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The Ellen Wilkinson School for Girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The Ellen Wilkinson school for girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The abbey",
+        "postcode": null,
+        "latitude": 51.750531,
+        "longitude": -0.3425639,
+        "address": "St Albans Cathedral, Sumpter Yard, St Stephens, St Albans, Hertfordshire, England, AL1 1BY, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The abbey school",
+        "postcode": null,
+        "latitude": 51.3082162,
+        "longitude": 0.8845217,
+        "address": "The Abbey School, London Road, Orchard Green, Faversham, Ospringe, Swale, Kent, England, ME13 8RZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "The abbey school farnham",
+        "postcode": null,
+        "latitude": 51.2089415,
+        "longitude": -0.7851272,
+        "address": "The Abbey School, Menin Way, Waverley Estate, Farnham, Waverley, Surrey, England, GU9 8DY, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "The ellen Wilkinson school for girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Underhill School and Children's Centre",
+        "postcode": null,
+        "latitude": 51.645349,
+        "longitude": -0.2054976,
+        "address": "Underhill School and Children's Centre, Mays Lane, High Barnet, London Borough of Barnet, London, Greater London, England, EN5 2LZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "Uplands",
+        "postcode": null,
+        "latitude": 51.6186865,
+        "longitude": -3.9668278,
+        "address": "Uplands, Swansea, Cymru / Wales, United Kingdom",
+        "source": "nominatim",
+        "cluster": 3
+      },
+      {
+        "school_name": "Uplands Academy",
+        "postcode": null,
+        "latitude": 51.0604133,
+        "longitude": 0.3402958,
+        "address": "Uplands Academy, Lower High Street, Stone Cross Farm, Wadhurst, Wealden, East Sussex, England, TN5 6AZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Uplands academy",
+        "postcode": null,
+        "latitude": 51.0604133,
+        "longitude": 0.3402958,
+        "address": "Uplands Academy, Lower High Street, Stone Cross Farm, Wadhurst, Wealden, East Sussex, England, TN5 6AZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "West Hill Primary Academy",
+        "postcode": null,
+        "latitude": 51.447347,
+        "longitude": 0.2029925,
+        "address": "West Hill Primary Academy, Nelson Road, Dartford, Kent, England, DA1 3DZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "Zoom",
+        "postcode": null,
+        "latitude": 53.4452239,
+        "longitude": -2.1917832,
+        "address": "Zoom, 900, Stockport Road, Levenshulme, Manchester, Greater Manchester, England, M19 3AD, United Kingdom",
+        "source": "nominatim",
+        "cluster": 2
+      },
+      {
+        "school_name": "aaron",
+        "postcode": null,
+        "latitude": 51.5884096,
+        "longitude": 0.0828605,
+        "address": "Aaron, 36, Sandringham Gardens, Barkingside, London Borough of Redbridge, London, Greater London, England, IG6 1NT, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "abbey",
+        "postcode": null,
+        "latitude": 50.8890767,
+        "longitude": -3.221979,
+        "address": "Abbey, Dunkeswell, East Devon, Devon, Devon and Torbay, England, EX14 4RP, United Kingdom",
+        "source": "nominatim",
+        "cluster": 3
+      },
+      {
+        "school_name": "abbey school",
+        "postcode": null,
+        "latitude": 51.5477801,
+        "longitude": 0.0927588,
+        "address": "Abbey School, South Park Drive, Loxford, London Borough of Redbridge, London, Greater London, England, IG11 8FF, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "bishop challoner",
+        "postcode": null,
+        "latitude": 51.2563831,
+        "longitude": -1.1221183,
+        "address": "Bishop Challoner Catholic Secondary School, St Michaels Road, Berg Estate, South Ham, Basingstoke, Basingstoke and Deane, Hampshire, England, RG22 6SR, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "brentwood school",
+        "postcode": null,
+        "latitude": 51.6209332,
+        "longitude": 0.3085837,
+        "address": "Brentwood School, Crescent Drive, Shenfield, Brentwood, Essex, England, CM15 8EE, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "joey",
+        "postcode": null,
+        "latitude": 58.1410989,
+        "longitude": -5.2385243,
+        "address": "Joey Island, Lochinver, Highland, Alba / Scotland, United Kingdom",
+        "source": "nominatim",
+        "cluster": 1
+      },
+      {
+        "school_name": "kingsbury high school",
+        "postcode": null,
+        "latitude": 51.5877798,
+        "longitude": -0.268498,
+        "address": "Kingsbury High School, Goldsmith Lane, Kingsbury, London Borough of Brent, London, Greater London, England, NW9 9AH, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "luke",
+        "postcode": null,
+        "latitude": 51.4587325,
+        "longitude": -2.5874022,
+        "address": "Luke, The Horsefair, Stokes Croft, Broadmead, Bristol, City of Bristol, West of England, England, BS1 3EL, United Kingdom",
+        "source": "nominatim",
+        "cluster": 3
+      },
+      {
+        "school_name": "the Ellen Wilkinson school for girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "the abbey",
+        "postcode": null,
+        "latitude": 51.750531,
+        "longitude": -0.3425639,
+        "address": "St Albans Cathedral, Sumpter Yard, St Stephens, St Albans, Hertfordshire, England, AL1 1BY, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "the abbey school",
+        "postcode": null,
+        "latitude": 51.3082162,
+        "longitude": 0.8845217,
+        "address": "The Abbey School, London Road, Orchard Green, Faversham, Ospringe, Swale, Kent, England, ME13 8RZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "the abbey school farnham",
+        "postcode": null,
+        "latitude": 51.2089415,
+        "longitude": -0.7851272,
+        "address": "The Abbey School, Menin Way, Waverley Estate, Farnham, Waverley, Surrey, England, GU9 8DY, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "the ellen wilkinson school for girls",
+        "postcode": null,
+        "latitude": 51.5162428,
+        "longitude": -0.2865957,
+        "address": "The Ellen Wilkinson School for Girls, Queens Drive, Park Royal, London Borough of Ealing, London, Greater London, England, W3 0HW, United Kingdom",
+        "source": "nominatim",
+        "cluster": 0
+      },
+      {
+        "school_name": "uplands",
+        "postcode": null,
+        "latitude": 51.6186865,
+        "longitude": -3.9668278,
+        "address": "Uplands, Swansea, Cymru / Wales, United Kingdom",
+        "source": "nominatim",
+        "cluster": 3
+      },
+      {
+        "school_name": "uplands Academy wadhurst",
+        "postcode": null,
+        "latitude": 51.0604133,
+        "longitude": 0.3402958,
+        "address": "Uplands Academy, Lower High Street, Stone Cross Farm, Wadhurst, Wealden, East Sussex, England, TN5 6AZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "uplands academy",
+        "postcode": null,
+        "latitude": 51.0604133,
+        "longitude": 0.3402958,
+        "address": "Uplands Academy, Lower High Street, Stone Cross Farm, Wadhurst, Wealden, East Sussex, England, TN5 6AZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      },
+      {
+        "school_name": "uplands-academy",
+        "postcode": null,
+        "latitude": 51.0604133,
+        "longitude": 0.3402958,
+        "address": "Uplands Academy, Lower High Street, Stone Cross Farm, Wadhurst, Wealden, East Sussex, England, TN5 6AZ, United Kingdom",
+        "source": "nominatim",
+        "cluster": 4
+      }
+    ],
+    "coverage_gaps": {
+      "isolated_schools": [
+        {
+          "school_name": "Marner",
+          "postcode": null,
+          "latitude": 52.4214159,
+          "longitude": -1.5184081,
+          "address": "Marner Crescent, Bishopsgate Green, Radford, Daimler Green, Coventry, West Midlands, England, CV6 3BX, United Kingdom",
+          "source": "nominatim",
+          "cluster": 2,
+          "distance_to_nearest": 109.63224632163666
+        },
+        {
+          "school_name": "Norham High School",
+          "postcode": null,
+          "latitude": 55.006008,
+          "longitude": -1.4737703,
+          "address": "Norham High School, Alnwick Avenue, Percy Main, North Shields, North Tyneside, Tyne and Wear, North East, England, NE29 7BU, United Kingdom",
+          "source": "nominatim",
+          "cluster": 2,
+          "distance_to_nearest": 179.71518514372872
+        },
+        {
+          "school_name": "Ryan Reynolds",
+          "postcode": null,
+          "latitude": 53.0459436,
+          "longitude": -2.9927504,
+          "address": "Ryan Rodney Reynolds Memorial Park, City Centre, Rhosddu, Wrexham, Cymru / Wales, United Kingdom",
+          "source": "nominatim",
+          "cluster": 2,
+          "distance_to_nearest": 69.3640035976025
+        },
+        {
+          "school_name": "Zoom",
+          "postcode": null,
+          "latitude": 53.4452239,
+          "longitude": -2.1917832,
+          "address": "Zoom, 900, Stockport Road, Levenshulme, Manchester, Greater Manchester, England, M19 3AD, United Kingdom",
+          "source": "nominatim",
+          "cluster": 2,
+          "distance_to_nearest": 69.3640035976025
+        },
+        {
+          "school_name": "abbey",
+          "postcode": null,
+          "latitude": 50.8890767,
+          "longitude": -3.221979,
+          "address": "Abbey, Dunkeswell, East Devon, Devon, Devon and Torbay, England, EX14 4RP, United Kingdom",
+          "source": "nominatim",
+          "cluster": 3,
+          "distance_to_nearest": 77.26141390033942
+        },
+        {
+          "school_name": "joey",
+          "postcode": null,
+          "latitude": 58.1410989,
+          "longitude": -5.2385243,
+          "address": "Joey Island, Lochinver, Highland, Alba / Scotland, United Kingdom",
+          "source": "nominatim",
+          "cluster": 1,
+          "distance_to_nearest": 417.83573176728703
+        },
+        {
+          "school_name": "luke",
+          "postcode": null,
+          "latitude": 51.4587325,
+          "longitude": -2.5874022,
+          "address": "Luke, The Horsefair, Stokes Croft, Broadmead, Bristol, City of Bristol, West of England, England, BS1 3EL, United Kingdom",
+          "source": "nominatim",
+          "cluster": 3,
+          "distance_to_nearest": 77.26141390033942
+        }
+      ],
+      "avg_nearest_distance_km": 16.558953359496684,
+      "max_nearest_distance_km": 417.83573176728703,
+      "schools_beyond_target": 7
+    },
+    "geographic_metrics": {
+      "total_schools": 64,
+      "latitude_range": {
+        "min": 50.8890767,
+        "max": 58.1410989,
+        "span": 7.252022200000006
+      },
+      "longitude_range": {
+        "min": -5.2385243,
+        "max": 0.8845217,
+        "span": 6.1230459999999995
+      },
+      "centroid": {
+        "latitude": 51.68591300468749,
+        "longitude": -0.4896741734375001
+      },
+      "coverage_area_km2": 257960.64787483768
+    }
+  },
+  "enhanced_lead_generation": {
+    "normal_leads_count": 100,
+    "deprived_leads_count": 100,
+    "normal_leads_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\normal_leads.csv",
+    "deprived_leads_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\deprived_area_leads.csv"
+  },
+  "interactive_map": {
+    "map_file": "C:\\Users\\Paul\\OneDrive - telecom-paristech.fr\\Documents\\Pro\\Hackathon\\JPMorgan Data for Good\\V2\\outputs\\breck_interactive_map.html"
+  },
+  "recommendations": {
+    "data_collection": [
+      "Implement pre/post matched surveys with unique IDs",
+      "Add 3-month follow-up survey to measure behavior change",
+      "Collect school postcodes for geographic analysis",
+      "Add questions about specific actions taken (e.g., 'Have you changed your privacy settings?')",
+      "Include parental feedback surveys",
+      "Track incident reporting rates in participating schools",
+      "Add more demographic variables (ethnicity, SEN status) for equity analysis",
+      "Include questions about specific online platforms used"
+    ],
+    "workshop_content": [
+      "Address 'More time/depth' feedback - mentioned by 27 students",
+      "Address 'More interactivity' feedback - mentioned by 5 students",
+      "Address 'Visuals/videos' feedback - mentioned by 5 students",
+      "Continue emphasizing 'Story/Personal' - most appreciated aspect",
+      "Increase interactive elements (quiz, role-play scenarios)",
+      "Add more visual content and real case examples",
+      "Extend Q&A time for deeper discussion"
+    ],
+    "delivery_optimization": [
+      "Consider age-specific workshop adaptations based on effectiveness variations",
+      "Prioritize external speaker delivery - shows positive impact on engagement"
+    ],
+    "geographic_expansion": [
+      "Identify 7 isolated schools for targeted outreach"
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+school_name,visit_count,first_visit,last_visit,how_heard,contact_person
+Merstham Park School,5,2023-10-06,2025-07-24,Repeat Booking,Rachel Cronin
+Slough & Eton School,4,2024-10-15,2024-10-15,Recommendation/Word of mouth,Catherine Goodyear
+Epsom Primary School,3,2024-04-16,2025-02-25,Recommendation/Word of mouth,Matt Head
+Langshott Primary School,3,2023-09-14,2025-07-10,Repeat Booking,Becky Woods
+Brindishe Green Primary School,3,2023-09-14,2025-09-25,Repeat Booking,Rebekah Chin
+Surbiton High School,3,2023-11-16,2025-10-16,Repeat Booking,Jim Sayer
+Brentwood School,3,2023-10-24,2025-06-25,Repeat Booking,Molly O'Rourke
+Charles Darwin School,3,2024-01-10,2025-10-14,Recommendation/Word of mouth,Amie Gillespie
+Valley Invicta Primary School at Holborough Lakes,3,2024-09-24,2025-09-19,Email Campaign,Kelli Lewis
+The Bishop David Brown School,3,2023-10-31,2025-10-17,Repeat Booking,Amy Price
+The Hammond,2,2023-10-08,2024-09-10,Recommendation/Word of mouth,Lucia Martin
+Malmesbury Primary School,2,2025-09-30,2025-10-01,Meeting/Conference,Rebecca Phillips
+Serenity School Crawley,2,2023-09-14,2024-06-05,Previously engaged (different school),Rosie McDonnell
+Leopold Primary School,2,2023-09-15,2025-02-12,Repeat Booking,Georgette Bennett
+East Preston Junior School,2,2023-09-14,2025-01-07,Repeat Booking,Emily Coomber
+Stockport Academy,2,2023-09-19,2024-11-16,Repeat Booking,Jenny McNulty
+Shenley Primary School,2,2025-02-27,2025-03-01,Recommendation/Word of mouth,Rachel Amos
+Broadmead Primary School,2,2025-01-21,2025-01-21,Recommendation/Word of mouth,Sarah Hunter
+The Ravensbourne School,2,2025-01-29,2025-09-09,Recommendation/Word of mouth,Rebecca Schembri
+Coombe Boys School,2,2023-10-30,2024-11-19,Previously engaged (different school),Hannah Read
+Thomas Willingale,2,2025-04-30,2025-10-14,Repeat Booking,Teresa Phillips
+North Bridge House Senior School Hampstead,2,2025-03-23,2025-03-24,Meeting/Conference,Vanessa Waysome
+Wintringham Primary Academy,2,2025-07-02,2025-10-20,Previously engaged (different school),Tracy Bryden
+The Ellen Wilkinson School For Girls,2,2025-06-24,2025-06-24,Repeat Booking,Latifa Palton
+Kingsford Community School,2,2023-11-09,2024-11-20,Repeat Booking,Abigail Rodriguez
+Hogarth Primary,2,2023-11-08,2024-02-28,Specific Funding,Lauren King
+Parkside Community Primary School,2,2023-11-20,2024-03-06,Meeting/Conference,Jacqui Mattholie
+Clifton College,2,2023-11-14,2025-06-09,Recommendation/Word of mouth,Rachel Coleman
+Grafton Primary School,2,2024-12-01,2025-10-19,Online Search,Maxine Prince
+Coombe Wood School,2,2024-11-12,2025-08-06,Repeat Booking,Isabelle Singh
+Chertsey High School,2,2024-11-12,2025-03-25,Online Search,Karen Howard
+St Anselm's Catholic School,2,2023-11-20,2025-10-14,Repeat Booking,Sarah Leddington
+The Turing school,2,2024-10-15,2024-10-15,Recommendation/Word of mouth,Natalie Johnson
+Mora Primary School,2,2024-09-25,2025-07-16,Email Campaign,Nora Adam
+Foundry College,2,2024-09-26,2024-11-18,Repeat Booking,Joanna Thorn
+Hillcroft School,2,2025-01-29,2025-10-21,,Fergus Meyer
+The Trinity CE Primary Academy,2,2025-01-07,2025-01-16,Recommendation/Word of mouth,Rebecca Owens
+East Lane Primary School,2,2024-11-19,2025-06-25,Repeat Booking,Theo Adams
+Mulberry School for Girls,2,2025-03-24,2025-10-23,Recommendation/Word of mouth,Razia Khanum
+Felmore Primary,2,2025-02-26,2025-05-08,Email Campaign,Karen Berrada
+Audley Primary School,2,2023-12-06,2025-01-24,Recommendation/Word of mouth,Kerry Wadey
+St George's College Weybridge,2,2023-12-01,2024-09-18,Recommendation/Word of mouth,Grace van Barthold
+Holy Family Catholic Primary School,2,2024-10-01,2025-01-14,Recommendation/Word of mouth,Alicia Lewins
+Charles Darwin Primary School,2,2024-09-30,2025-09-22,Repeat Booking,Sara McLeod
+Gascoigne Primary School,2,2024-09-29,2025-10-05,Repeat Booking,Shaliza Akhtar
+Francis Holland Sloane Square,2,2023-10-31,2024-05-20,Repeat Booking,Polly Martin
+Birchwood Avenue Primary School,2,2023-12-15,2024-09-27,Repeat Booking,Amy James
+Caldicott School,2,2023-12-07,2024-01-23,Recommendation/Word of mouth,EDWARD HARPER
+Ruislip High School,2,2024-07-18,2025-04-01,Staff at BF,Sutapa Poddar
+Bishop  Challoner Catholic Secondary School,2,2024-08-13,2025-06-28,Media/TV,Judith Boyd
+Heathermount School,2,2024-06-04,2025-03-14,Recommendation/Word of mouth,Craig Drummond
+Edmund Waller Primary School,2,2024-06-05,2025-07-03,Repeat Booking,Sue Greenbank
+Radnor House Twickenham,2,2024-06-07,2025-06-10,Repeat Booking,Nikki Firth
+"King Edward VI School, Southampton",2,2024-09-07,2025-08-21,Meeting/Conference,Nicola Moxon
+Bonus Pastor Catholic College,2,2024-07-09,2025-06-23,Repeat Booking,Nicholas Lawrence
+St John's Beaumont,2,2024-07-10,2025-01-16,Recommendation/Word of mouth,Robyn Reid
+The Matthew Arnold School,2,2024-03-27,2024-12-09,Repeat Booking,Karen Barham
+Trinity Primary Academy,2,2024-05-15,2025-05-21,Repeat Booking,Lauren Dobie
+John Ball Primary School,2,2024-05-13,2024-07-23,Repeat Booking,Cassey Kiely
+Weyfield Primary Academy,2,2024-01-19,2025-09-04,Repeat Booking,Sophie Mulcahy
+Trinity Academy St Edwards,2,2024-01-19,2025-03-28,Social Media,Liz Bestall
+South Molton Community College,2,2023-11-27,2025-01-26,Repeat Booking,Kellie Finney
+Brighton College,2,2024-03-07,2024-07-29,Repeat Booking,Simon Connolly
+Manorfield Primary & Nursery School,2,2024-01-09,2024-10-22,Local/Direct Contact,Louise Boakes
+Fleetdown Primary Academy,2,2024-03-07,2024-10-18,Recommendation/Word of mouth,Toniann Braniff
+Maritime Academy,2,2024-03-17,2024-11-05,Recommendation/Word of mouth,Steph Culley
+New North Academy,2,2024-02-29,2025-09-26,Repeat Booking,Ellie Haworth
+Laleham Gap School,2,2024-02-05,2025-07-17,Repeat Booking,Melissa Wakefield
+Central Bedfordshire College,2,2024-01-04,2024-06-18,Online Search,Teresa Hibberd
+St John's C of E Primary School,2,2023-09-20,2025-03-03,Recommendation/Word of mouth,Natasha Moses
+Felsted Prep School,2,2023-10-02,2024-10-02,Repeat Booking,Alex Manley
+St Cuthbert's Catholic Primary School,2,2023-09-15,2024-03-01,Specific Funding,Irene Missen
+Dorchester Primary,1,2023-09-14,2023-09-14,Meeting/Conference,Chloe Marwood
+Esher Church of England High School,1,2025-06-24,2025-06-24,Recommendation/Word of mouth,Elizabeth Bosley
+Highfield and Brookham,1,2025-06-26,2025-06-26,Repeat Booking,Vivienne Liddell
+University College School,1,2025-06-30,2025-06-30,Repeat Booking,Darius Bluck
+Yattendon School,1,2023-10-05,2023-10-05,Email Campaign,Ruth Bienkowski
+Handcross Primary School,1,2023-10-05,2023-10-05,,Charlotte Stone
+Royal Alexandra and Albert School,1,2023-10-05,2023-10-05,Recommendation/Word of mouth,Eloise Morgan
+Francis Holland School Regent's Park,1,2023-10-09,2023-10-09,Recommendation/Word of mouth,Jane Melchers
+John Wood School and Nursery,1,2023-10-12,2023-10-12,Recommendation/Word of mouth,Julie Davis
+Esher Church School,1,2023-10-18,2023-10-18,Repeat Booking,Alex Munro
+UCS,1,2023-10-24,2023-10-24,Meeting/Conference,Darius Bluck
+Mabe Primary School,1,2023-10-26,2023-10-26,Recommendation/Word of mouth,Steve Cruse
+Northfleet School for Girls,1,2025-09-25,2025-09-25,Online Search,Louise Lynn
+Ewell Grove Primary School,1,2025-09-01,2025-09-01,Recommendation/Word of mouth,Tom Bosher
+Slough & Eton,1,2025-09-02,2025-09-02,Repeat Booking,Catherine Goodyear
+The Beacon,1,2025-09-02,2025-09-02,Repeat Booking,Samantha Barnes
+The College Merthyr Tydfil,1,2025-07-02,2025-07-02,Previously engaged (different school),Samantha Gunnarsson
+Rochester Grammar,1,2024-03-01,2024-03-01,Recommendation/Word of mouth,Jacqui Eades
+Burstow Park School,1,2024-03-04,2024-03-04,Recommendation/Word of mouth,Aimee Nicholas
+Cedar Children's Academy,1,2024-01-04,2024-01-04,Recommendation/Word of mouth,Georgina Randall
+Bishops Down Primary School,1,2024-01-05,2024-01-05,Recommendation/Word of mouth,Andrew Milne
+Claygate primary School,1,2024-01-08,2024-01-08,Online Search,Hilary Ali
+Coomb Wood School,1,2023-09-19,2023-09-19,Previously engaged (different school),Isabelle Singh
+St Peter's Catholic Primary School,1,2023-09-20,2023-09-20,Recommendation/Word of mouth,Kathryn Scott
+Hatchlands Primary School,1,2023-09-22,2023-09-22,Recommendation/Word of mouth,Lacey Bateman
+Whyteleafe School,1,2023-09-22,2023-09-22,Recommendation/Word of mouth,Joseph Hardern
+The Redeemer CEP,1,2023-09-26,2023-09-26,Media/TV,Sam Smallridge
+Leopold Gwenneth Rickus Primary,1,2023-09-26,2023-09-26,Online Search,Anna Bellou
+The Weald C of E Primary School,1,2023-09-26,2023-09-26,Email Campaign,Helen Young
+Rushey Green Primary School,1,2023-09-26,2023-09-26,,Lena Lindsay
+Cyril Jackson Primary,1,2023-10-03,2023-10-03,Meeting/Conference,Tom Sheldon
+Cayley,1,2025-10-21,2025-10-21,Meeting/Conference,Tom Foster
+St Francis Catholic Primary School,1,2025-09-29,2025-09-29,Repeat Booking,Caroline Coggins
+Bell Farm Primary School,1,2024-03-13,2024-03-13,Online Search,Emma Keningale
+Globe Primary School,1,2024-03-14,2024-03-14,Recommendation/Word of mouth,Rebecca Jones
+Prince's Mead,1,2024-03-14,2024-03-14,Previously engaged (different school),Alex Crowhurst-Jones
+Alexander McLeod Primary,1,2024-03-14,2024-03-14,Staff at BF,Jennifer Bailey
+"St Francis Catholic School, Caterham",1,2024-01-31,2024-01-31,Repeat Booking,Maria Parker
+East Leake Academy,1,2024-02-05,2024-02-05,Recommendation/Word of mouth,Jane England
+Ewell Castle Prep,1,2024-02-07,2024-02-07,Repeat Booking,Georgina Bean
+Hackbridge Primary School,1,2024-02-07,2024-02-07,Repeat Booking,Natasha Edmonds-Chappell
+On Track Education Northampton,1,2024-02-09,2024-02-09,Online Search,Holly Roberts
+St Paul's Cray CE primary School,1,2024-02-22,2024-02-22,Repeat Booking,Jo Zegeling
+Cuddington Croft Primary School,1,2024-02-22,2024-02-22,Local/Direct Contact,Mike Skelton
+Robin Hood Primary School,1,2024-02-27,2024-02-27,Specific Funding,Catherine Clarke
+Thorpe Church of England Primary School,1,2024-02-27,2024-02-27,Specific Funding,Helen Southgate
+The Victory  Academy,1,2024-02-28,2024-02-28,Online Search,Jodie Allard
+All Faiths Children's Academy,1,2024-02-28,2024-02-28,Recommendation/Word of mouth,Kelly Kelsey
+Holy Family Catholic Primary,1,2024-03-01,2024-03-01,,Steve Tindall
+Unicorn Primary School,1,2024-04-21,2024-04-21,Repeat Booking,Rachel Harris
+Chislehurst School for Girls,1,2024-04-23,2024-04-23,,Annika Singer
+Fairlawn primary school,1,2024-04-24,2024-04-24,Recommendation/Word of mouth,Hania Ryans
+Holy Cross Primary,1,2024-04-24,2024-04-24,Meeting/Conference,Mary Collins
+St. AUgustine's Primary School,1,2024-04-24,2024-04-24,Meeting/Conference,Mary Collins
+St Anthony's Catholic Primary School,1,2024-04-25,2024-04-25,Meeting/Conference,Joanne Hawthorne
+Emanuel School,1,2024-04-25,2024-04-25,Repeat Booking,Rachel Chetwood
+St Peter & St Paul Primary,1,2024-03-05,2024-03-05,Previously engaged (different school),Malinda Young
+Hatchlands Primary,1,2024-03-05,2024-03-05,Specific Funding,Lacey Bateman
+Hillcroft Primary School,1,2024-03-06,2024-03-06,Repeat Booking,Lucie Winsor
+St John's Walham Green CE Primary,1,2024-03-07,2024-03-07,Recommendation/Word of mouth,Ali Stock
+Heart of England Training Ltd,1,2024-03-07,2024-03-07,Repeat Booking,Jan Gibson
+Chisenhale Primary School,1,2024-03-11,2024-03-11,Recommendation/Word of mouth,Gemma Anidi
+The Newbridge School,1,2024-03-11,2024-03-11,Recommendation/Word of mouth,Rebecca Knaggs
+Richard de Clare Community Academy,1,2024-03-12,2024-03-12,Online Search,Kerri Harrison
+Thomas Bennett Community College,1,2024-03-13,2024-03-13,,Nikki Baxter
+Haseltine Primary School,1,2024-03-27,2024-03-27,Recommendation/Word of mouth,Sara Anderman
+Gordon Children's Academy,1,2024-01-09,2024-01-09,Email Campaign,Liam Tovey
+Holy Trinity CE Primary,1,2024-01-09,2024-01-09,Repeat Booking,Eleanor Davis
+Bromsgrove Prep School,1,2024-01-10,2024-01-10,Repeat Booking,Suzanne Webley
+Scotts Park Primary School,1,2024-01-10,2024-01-10,Repeat Booking,Victoria Collman-Simmonds
+St Mary's CofE Controlled Primary School,1,2024-01-12,2024-01-12,Meeting/Conference,Rachael Harfield
+Beechwood Park School,1,2024-01-22,2024-01-22,Recommendation/Word of mouth,Judith Waiting
+Orwell Park Prep School but also The Wellbeing Hub and previous Huddl!,1,2024-01-30,2024-01-30,Repeat Booking,Katie Lawson
+Blossom House School,1,2024-01-31,2024-01-31,,Hannah Millyard
+Avon Park School,1,2023-11-28,2023-11-28,Online Search,Bal Dhadwal
+The Forest Academy,1,2023-11-29,2023-11-29,Repeat Booking,Simran Bains
+Limetree primary school,1,2023-11-30,2023-11-30,Donor,Lucille Naulls
+Papplewick School,1,2024-03-28,2024-03-28,Repeat Booking,Roger Wood
+ST ANTHONY'S SCHOOL MARGATE,1,2024-04-16,2024-04-16,Repeat Booking,KATY WREN
+Fulham Cross Academy,1,2024-04-17,2024-04-17,Recommendation/Word of mouth,Jason Stallon
+Clandon CE Primary School,1,2024-04-17,2024-04-17,Recommendation/Word of mouth,Stacey Reynolds
+Scarborough College,1,2024-04-28,2024-04-28,Recommendation/Word of mouth,Tim Cashell
+Hurst Park Primary School,1,2024-04-29,2024-04-29,Recommendation/Word of mouth,Asma Laher
+"St Joseph's, Deptford",1,2024-04-30,2024-04-30,Meeting/Conference,Leah Butler
+Yavneh Primary,1,2024-05-07,2024-05-07,Recommendation/Word of mouth,Emma Marks
+Good Shepherd Catholic Primary school,1,2024-05-07,2024-05-07,Meeting/Conference,Gurpreet Doal
+Caterham School,1,2024-05-08,2024-05-08,Repeat Booking,Rebecca Mugridge
+Canford School,1,2024-05-09,2024-05-09,Repeat Booking,David Allen
+Amport Primary School,1,2024-05-10,2024-05-10,Online Search,Hannah Pelham
+Downsend School,1,2024-05-13,2024-05-13,Repeat Booking,Charlotte White
+Launcelot Primary School,1,2024-05-13,2024-05-13,Meeting/Conference,Andrew Squirrell
+St Birinus,1,2024-05-14,2024-05-14,Recommendation/Word of mouth,will Manning
+Chilworth House Lower School,1,2024-05-22,2024-05-22,Recommendation/Word of mouth,Charlotte James
+Chelsea Academy,1,2024-05-22,2024-05-22,Recommendation/Word of mouth,Honor Thomson
+Adeyfield Academy,1,2024-05-23,2024-05-23,Repeat Booking,Imogen Walbank
+Warren Mead,1,2024-03-18,2024-03-18,Recommendation/Word of mouth,Scott Maclean
+Fairholme Primary School,1,2024-03-22,2024-03-22,Recommendation/Word of mouth,Selina McGlone
+Guildford High School,1,2024-08-23,2024-08-23,Repeat Booking,Amanda Whybro
+Brampton College,1,2024-08-27,2024-08-27,Online Search,Adam Bainbridge
+RNN Group,1,2024-09-03,2024-09-03,Online Search,Shabnam Clayton
+de Stafford School,1,2024-06-03,2024-06-03,Repeat Booking,David Parry
+Priestlands School,1,2024-06-03,2024-06-03,Online Search,Lucy Stewart
+Holy Cross Catholic Primary School,1,2024-06-04,2024-06-04,Recommendation/Word of mouth,Francesca Bogalski
+The Stephen Longfellow Academy,1,2024-06-06,2024-06-06,Online Search,Tom O’Neill
+St John Evangelist Catholic Primary school,1,2024-06-11,2024-06-11,Recommendation/Word of mouth,Stephanie Maker
+Hockering Church of England Primary Academy,1,2024-06-12,2024-06-12,Meeting/Conference,Roisin Hill
+Monmouth Comprehensive School,1,2024-06-13,2024-06-13,Previously engaged (different school),Mandy Davies
+The Enterprise Learning Alliance,1,2024-06-13,2024-06-13,Recommendation/Word of mouth,Eve Silk
+Carpenters Primary School,1,2024-06-18,2024-06-18,Repeat Booking,Serena Glen
+Offmore Primary School,1,2024-06-19,2024-06-19,Meeting/Conference,Sarah Packer
+Mckee college,1,2024-06-19,2024-06-19,Previously engaged (different school),tracey carruthers
+Dormers Wells High School,1,2024-06-26,2024-06-26,,matthew job
+The Worthgate School,1,2024-07-02,2024-07-02,Recommendation/Word of mouth,Martyn Rogers
+Rokesly Junior School,1,2024-09-13,2024-09-13,Recommendation/Word of mouth,Bola Soneye-Thomas
+Harry Gosling Primary School,1,2024-09-16,2024-09-16,Meeting/Conference,Eleanor Clarke
+Canbury School,1,2024-09-18,2024-09-18,Recommendation/Word of mouth,Josie Bate
+Chestnut Park Primary school,1,2024-09-19,2024-09-19,,sabrina wimalasuriya
+The Mead Infant School and Auriol Junior School,1,2024-09-22,2024-09-22,Meeting/Conference,Heidi Wijsbroek
+Thomas More Catholic School,1,2024-09-23,2024-09-23,Email Campaign,Julie De Vivo
+Holy Trinity C of E Primary School,1,2024-09-23,2024-09-23,Online Search,Aaron Jones
+Chorley St Peter's C of E Primary School,1,2024-07-04,2024-07-04,Online Search,Hannah Jenkinson
+"Limetree primary school, Merstham",1,2024-07-11,2024-07-11,Donor,Lucy Naulls
+St. Luke's church of England Primary school,1,2024-07-11,2024-07-11,Recommendation/Word of mouth,Jessica Tough
+Great Dunmow Primary School,1,2024-07-17,2024-07-17,Recommendation/Word of mouth,Kevin Watts
+Prince Avenue Academy,1,2024-07-17,2024-07-17,Previously engaged (different school),Lynn Hargreaves
+Wallington county Grammar School,1,2024-07-18,2024-07-18,Repeat Booking,Duvessa Owen
+St William of York Catholic Primary School,1,2024-07-23,2024-07-23,Repeat Booking,Hayley Mayers
+Chingford Foundation,1,2024-07-24,2024-07-24,Online Search,Aimee Machnicki
+ONELAB College,1,2024-08-22,2024-08-22,Meeting/Conference,Elsa Ellies
+Dairy Meadow Primary and Nursery School,1,2024-09-24,2024-09-24,Email Campaign,Alex Feldman
+Earlham Primary School,1,2024-09-24,2024-09-24,Email Campaign,Luke Harrold
+Castle View School,1,2024-09-24,2024-09-24,Email Campaign,Lizzie Hobbs
+Bow School,1,2024-09-24,2024-09-24,Email Campaign,Grayce Durden
+Waldegrave School,1,2024-09-24,2024-09-24,Email Campaign,Sarah Moore
+John Perry Primary School,1,2024-09-24,2024-09-24,Previously engaged (different school),Gabi Hart
+Marner Primary,1,2024-09-24,2024-09-24,Meeting/Conference,Sam Sharpe
+Oakfield Primary Academy,1,2024-09-25,2024-09-25,Repeat Booking,Rosie Brady
+Wellington Community Primary School,1,2024-09-04,2024-09-04,Previously engaged (different school),Joe Bostock
+Yateley Manor School,1,2024-09-04,2024-09-04,Repeat Booking,Andrew Hardy-Lenik
+Michael Faraday School,1,2024-09-09,2024-09-09,Recommendation/Word of mouth,Kenan Sonar
+Royal Aelxandra and Albert School,1,2024-09-10,2024-09-10,Recommendation/Word of mouth,Emma Tingley
+The International School of Geneva,1,2024-09-11,2024-09-11,Media/TV,John Deighan
+Thorpe CofE Primary School,1,2024-09-11,2024-09-11,Repeat Booking,Melanie Wright
+Bristol Grammar School,1,2024-09-11,2024-09-11,Recommendation/Word of mouth,Lois Ray
+St Luke's,1,2024-09-12,2024-09-12,Recommendation/Word of mouth,Jenny Phillips
+Rotherhithe Primary School,1,2024-09-23,2024-09-23,Email Campaign,Lisa Christiansen
+St Peter's Primary School,1,2024-09-23,2024-09-23,Email Campaign,Caroline Barriball
+Valley Invicta primary school at Holborough Lakes,1,2024-09-23,2024-09-23,,Samuel Farrington
+Drayton Manor High School,1,2023-11-30,2023-11-30,Online Search,Arron Poole
+Prior's Field,1,2023-12-01,2023-12-01,Recommendation/Word of mouth,Alison Baines
+Ashby School,1,2023-12-06,2023-12-06,Meeting/Conference,Vikki Rundle-Brown
+Wrotham Road Primary School,1,2023-12-08,2023-12-08,Recommendation/Word of mouth,Andy Bennett
+"The Kings, (The Cathedral) School.",1,2023-12-15,2023-12-15,Repeat Booking,Lynne Thurlow
+Bromley Trust Academy,1,2023-12-18,2023-12-18,Online Search,Myra Brown
+Orchards CE Academy,1,2023-12-18,2023-12-18,Meeting/Conference,Julie Harrison
+St Peter and St Paul Church Primary School,1,2023-12-28,2023-12-28,Recommendation/Word of mouth,Chloe Sutherland
+Kilmorie,1,2023-10-31,2023-10-31,Repeat Booking,Nicola Cann
+Maidstone Grammar,1,2023-11-01,2023-11-01,Previously engaged (different school),Richard Alvarez
+St Katherine's C of E Primary School,1,2024-09-23,2024-09-23,Email Campaign,Gemma Hopes
+Kingsbury High School,1,2024-09-24,2024-09-24,Email Campaign,Sarah Purtill
+St Mary's Lewisham CE Primary School,1,2024-09-24,2024-09-24,Recommendation/Word of mouth,Luisa Element
+Corbets Tey School,1,2024-10-23,2024-10-23,Previously engaged (different school),Jodie Flowers
+Hilltop Junior School,1,2024-10-23,2024-10-23,Recommendation/Word of mouth,Louise Edwards
+Learning Partners Academy Trust,1,2024-10-23,2024-10-23,Previously engaged (different school),Holly Wise
+Seaford Head School,1,2024-10-25,2024-10-25,Staff at BF,Sam Whittaker
+The New North Academy,1,2024-09-26,2024-09-26,Email Campaign,Sally Lindsay-German
+Garden City Academy,1,2024-09-27,2024-09-27,Email Campaign,Elisa Eisenhauer
+Marymount International School,1,2024-09-27,2024-09-27,Online Search,Annah Langan
+"Nar Valley Federation, Castle Acre, Narborough and Sporle",1,2024-09-30,2024-09-30,Online Search,Anne Neary
+Bletchingley Village Primary school,1,2024-10-03,2024-10-03,Repeat Booking,Danni Barlow
+Folkestone Primary,1,2024-10-07,2024-10-07,Email Campaign,Maria Cunningham
+Shirebrook Academy,1,2024-10-07,2024-10-07,Online Search,Kelly Brown
+Welbourne Primary School,1,2024-10-07,2024-10-07,Email Campaign,Frank Streeter
+Leigh Primary School,1,2024-10-08,2024-10-08,Repeat Booking,Sophie White
+Learning Partners,1,2024-10-09,2024-10-09,Recommendation/Word of mouth,Olivia Wernick
+Charterhouse School,1,2024-10-12,2024-10-12,Online Search,Leanne Rowlands
+Sythwood primary & Nursery School,1,2024-09-23,2024-09-23,Email Campaign,Michelle Jolly
+The Oaklands Primary Schools,1,2024-11-12,2024-11-12,Meeting/Conference,Aaron Foy
+Hiltingbury Junior School,1,2024-11-12,2024-11-12,Repeat Booking,Zoe Loosemore
+Sandymoor Ormiston Academy,1,2024-11-13,2024-11-13,Online Search,Rebecca Ruddock
+Trinity School,1,2024-11-14,2024-11-14,Repeat Booking,Alison Fulker
+The Regina Coeli School,1,2024-11-18,2024-11-18,Repeat Booking,Joan Mabey
+North Brent School,1,2024-11-18,2024-11-18,Recommendation/Word of mouth,Parvis Rahman
+New City College - Havering 6th Form,1,2024-10-15,2024-10-15,Online Search,Becky Konstandinou
+Danetree Primary School,1,2024-10-15,2024-10-15,Online Search,Fiona O'Donnell
+Fryent primary School,1,2024-10-16,2024-10-16,Recommendation/Word of mouth,Lauren Quick
+St Mary;s,1,2024-10-16,2024-10-16,,Ben Holbrook
+Valley Primary School,1,2024-10-18,2024-10-18,Repeat Booking,Caroline Ishojer
+Culverstone Green Primary School,1,2024-10-18,2024-10-18,Recommendation/Word of mouth,James Bernard
+Pooles Park Primary School,1,2024-10-18,2024-10-18,Recommendation/Word of mouth,Emma Chicken
+Nescot College,1,2024-10-18,2024-10-18,Media/TV,fiona nerberg
+West Hill Primary Academy,1,2024-10-20,2024-10-20,Recommendation/Word of mouth,Sarah Graaaskov
+The Cavendish School,1,2024-10-21,2024-10-21,Meeting/Conference,Alexandra Selmes
+Whitmore Primary School & Nursery,1,2024-11-29,2024-11-29,Previously engaged (different school),Robert Wade
+Geoffrey Field Junior School,1,2024-11-29,2024-11-29,Meeting/Conference,Dave Marks
+Mossbourne Federation,1,2024-11-29,2024-11-29,Online Search,CAMILLA COX
+HTL,1,2024-12-02,2024-12-02,Recommendation/Word of mouth,Oliver Winstone
+Redbourn Primary School,1,2024-12-03,2024-12-03,Repeat Booking,Amanda Bowran
+CORE Education Trust,1,2024-12-05,2024-12-05,Online Search,Emily Preece
+"Churcher's College Junior School, Liphook",1,2024-12-06,2024-12-06,Recommendation/Word of mouth,Lucy Francis
+Danes Hill School,1,2024-12-10,2024-12-10,Previously engaged (different school),Vicky Cooper
+Home educated group,1,2024-10-25,2024-10-25,Online Search,Abby Leeder
+Wembley High Technology College,1,2024-10-31,2024-10-31,Recommendation/Word of mouth,Tom Best
+Nonsuch High School for girls,1,2024-11-01,2024-11-01,Repeat Booking,Jessica Thomas-Cole
+Waltham Toll Bar Academy,1,2024-11-04,2024-11-04,Online Search,Esther Douglass
+Coopers Lane primary school,1,2024-11-06,2024-11-06,Online Search,Gabrielle McIlroy
+Connaught Junior School,1,2024-11-07,2024-11-07,Repeat Booking,Sam Stevens
+Serenity School Maidstone,1,2024-11-11,2024-11-11,Recommendation/Word of mouth,Jessica Campbell
+The Royal Kent School,1,2024-11-11,2024-11-11,Online Search,joe blaney
+Ecclesbourne Primary School,1,2024-11-18,2024-11-18,Recommendation/Word of mouth,Jo Waters
+Bridgemary School,1,2024-11-19,2024-11-19,Online Search,Laura Jones
+Ramsden Hall Academy,1,2024-11-22,2024-11-22,,Sandra Barrett
+Ark Charter Academy,1,2023-11-08,2023-11-08,Website,Courtney Cotton
+BrickLane School,1,2023-11-08,2023-11-08,Meeting/Conference,Selina Griffiths
+Saffron Green Primary School,1,2023-11-15,2023-11-15,Meeting/Conference,Kate Harris
+St Annes Catholic Primary School,1,2023-11-15,2023-11-15,Recommendation/Word of mouth,Leanne Harris
+Edward Bryant School,1,2023-11-15,2023-11-15,Recommendation/Word of mouth,Graham Oakford
+Davenies School,1,2023-11-16,2023-11-16,Recommendation/Word of mouth,Sarah Walker
+Brindishe Lee School,1,2023-10-04,2023-10-04,Repeat Booking,Verity Ferrant
+Merstham Primary school,1,2023-10-04,2023-10-04,Online Search,Natasha Gjana
+bishop wand school,1,2023-10-04,2023-10-04,Online Search,charlotte piercy
+Southfield Park Primary,1,2023-10-05,2023-10-05,Email Campaign,Lauren Clogg
+Hoo St Werburgh Primary School,1,2024-11-22,2024-11-22,Recommendation/Word of mouth,Michelle Pace
+Stanchester Academy,1,2024-11-25,2024-11-25,Recommendation/Word of mouth,Gemma Glentworth
+Thorngrove School,1,2024-11-26,2024-11-26,Recommendation/Word of mouth,Daniel Helliwell
+scotts park primary school,1,2025-02-04,2025-02-04,Repeat Booking,natasha lewis
+Priory Junior School,1,2024-12-11,2024-12-11,Repeat Booking,Tracy Keefe
+Ernest Bevin Academy,1,2024-12-13,2024-12-13,Previously engaged (different school),Shelene brown
+Beaconsfield High School,1,2024-12-14,2024-12-14,Website,Emma Pritchard
+Orchard Way Primary School,1,2024-12-17,2024-12-17,Recommendation/Word of mouth,Andrew May
+"RNN Group, Dearne Valley College",1,2024-12-18,2024-12-18,Online Search,Shabnam Clayton
+Deptford Park Primary School,1,2024-12-19,2024-12-19,Recommendation/Word of mouth,Catherine Lawrence
+The Link School,1,2025-01-09,2025-01-09,Repeat Booking,Will Hamblin
+Brindishe Green,1,2025-01-10,2025-01-10,Repeat Booking,Rebekah Chinq
+St Edmund's Catholic School,1,2025-01-10,2025-01-10,Staff at BF,Sabine Davies
+Brindishe Lee,1,2025-01-13,2025-01-13,Repeat Booking,Rebekah Chin
+Brindishe Manor,1,2025-01-13,2025-01-13,Repeat Booking,Rebekah Chin
+Thorpe St Andrew School and Sixth Form,1,2025-01-13,2025-01-13,Online Search,Katie Barnes
+Briscoe Primary School & Nursery,1,2025-01-14,2025-01-14,Repeat Booking,Jack Smith
+St Edmund's Catholic Primary School,1,2025-01-15,2025-01-15,Repeat Booking,Elizabeth Higgins
+St Georges Catholic Primary School,1,2025-01-15,2025-01-15,Recommendation/Word of mouth,Eileen O'Sullivan
+St Paul's Whitechapel CE Primary,1,2025-03-03,2025-03-03,Recommendation/Word of mouth,Natasha Moses
+Meopham Community Academy,1,2025-03-05,2025-03-05,Recommendation/Word of mouth,Victoria Coombes
+Spires Academy,1,2025-03-06,2025-03-06,Recommendation/Word of mouth,Kev Reygate
+St Paulinus CE Primary,1,2025-03-06,2025-03-06,Recommendation/Word of mouth,Charlotte Rhodes
+Manor House School,1,2025-01-16,2025-01-16,Previously engaged (different school),Aimee Nicholas
+Dersingham Primary School,1,2025-01-16,2025-01-16,Recommendation/Word of mouth,Sherwyn Cupido-Weaich
+Stanburn Primary School,1,2025-01-16,2025-01-16,Online Search,David Rafferty
+Frith Manor Primary School,1,2025-01-18,2025-01-18,Recommendation/Word of mouth,Melissa Whitehead
+Norham High School,1,2025-01-21,2025-01-21,Online Search,Joanne Pearson
+Robert Mays School,1,2025-01-22,2025-01-22,Email Campaign,Jenny Robinson
+Cyril Jackson Primary School,1,2025-01-23,2025-01-23,Online Search,Joshua Chivers
+St Nicholas CE Primary School,1,2025-01-23,2025-01-23,Repeat Booking,Megan Ford
+Summerside Primary Academy,1,2025-01-24,2025-01-24,Meeting/Conference,Francesca Phillips
+Manningtree High School,1,2025-01-26,2025-01-26,Meeting/Conference,Liz Thurlow
+St Ippolyts School,1,2025-01-27,2025-01-27,Recommendation/Word of mouth,Kerry Ingle
+Swanshurst School,1,2025-01-29,2025-01-29,Meeting/Conference,Shaan Suemal
+Rokeby School,1,2025-03-25,2025-03-25,Recommendation/Word of mouth,Nat Palmer
+Castleview Primary School,1,2025-03-26,2025-03-26,Recommendation/Word of mouth,Clair Harris
+The Beacon Folkestone,1,2025-03-28,2025-03-28,Online Search,Samantha Barnes
+St Mary's Catholic Primary School,1,2025-03-30,2025-03-30,Online Search,Michelle Nash
+Homewood School and Sixth Form Centre,1,2025-04-01,2025-04-01,Recommendation/Word of mouth,Kat Beament
+Nonsuch School,1,2025-04-03,2025-04-03,Recommendation/Word of mouth,Beth Nesbitt
+St Bede's College,1,2025-02-04,2025-02-04,Media/TV,Ryan Telchadder
+Palmarsh Primary School,1,2025-02-07,2025-02-07,Recommendation/Word of mouth,Linda Purkiss
+Cardwell primary,1,2025-02-10,2025-02-10,Recommendation/Word of mouth,Sarah McAlpine
+St James Primary School,1,2025-02-11,2025-02-11,Recommendation/Word of mouth,Maria Hazlewood
+Thomas Arnold Primary School,1,2025-02-12,2025-02-12,Repeat Booking,Jo Donnelly
+Langley Grammar School,1,2025-02-12,2025-02-12,Recommendation/Word of mouth,Helena Makowski
+Dudley Colleg,1,2025-02-13,2025-02-13,Website,Neil Pardoe
+Ryedene Primary School,1,2025-02-24,2025-02-24,Email Campaign,Steve Watson
+Maple Grove Primary School,1,2025-02-25,2025-02-25,Email Campaign,Sharon Alger
+Hayes Primary School,1,2025-02-28,2025-02-28,Repeat Booking,Alex Sieber
+Ysgol David hughes,1,2025-04-28,2025-04-28,Social Media,Sarah Parry
+Westfield Primary and Nursery School,1,2025-05-01,2025-05-01,Recommendation/Word of mouth,Georgina Taylor
+Barking and Dagenham College,1,2025-05-06,2025-05-06,Online Search,Jade Evans
+Francis Holland Regent's Park,1,2025-05-06,2025-05-06,Repeat Booking,Jane Melchers
+The Adeyfield Academy,1,2025-05-07,2025-05-07,Repeat Booking,Michelle Forni
+Dunottar School,1,2025-05-13,2025-05-13,Repeat Booking,Joelle Cullender
+Oundle School,1,2025-05-21,2025-05-21,Repeat Booking,Catriona Harrington
+Harrodian School,1,2025-05-21,2025-05-21,Recommendation/Word of mouth,Guy Holder
+Burnt Ash Primary School,1,2025-03-11,2025-03-11,Repeat Booking,Jake Wilkes
+Queen Elizabeth's Grammar school,1,2025-03-11,2025-03-11,Recommendation/Word of mouth,Nicola Calvo Hernandez
+St George's CE Primary School Bickley,1,2025-03-18,2025-03-18,Recommendation/Word of mouth,Rachel Coyle
+Chennestone Primary School,1,2025-03-18,2025-03-18,Recommendation/Word of mouth,Karis McNamara
+Emerald Place Clinic School,1,2025-03-20,2025-03-20,Previously engaged (different school),Daniel Swan
+The Windsor Boys' School,1,2025-03-21,2025-03-21,Online Search,Millie Kalinowska
+Hayes Park School,1,2025-03-21,2025-03-21,Email Campaign,Janna Murphy
+Spring Common Academy,1,2025-03-24,2025-03-24,Repeat Booking,Rebecca Greig
+North Bridge House Canonbury Senior,1,2025-06-11,2025-06-11,Meeting/Conference,Dan O'Neil
+St Augustine's Priory,1,2025-06-12,2025-06-12,Recommendation/Word of mouth,Lucy Benson
+Ashley CofE Primary School,1,2025-06-12,2025-06-12,,Fiona Britnell
+Baring Primary School,1,2025-06-13,2025-06-13,Repeat Booking,Joanne Haine
+Sir Joseph Williamson's Mathematical School,1,2025-06-16,2025-06-16,Recommendation/Word of mouth,Lisa Humphries
+City of London School,1,2025-06-16,2025-06-16,Online Search,Flora Easton
+St Augustine's Catholic Primary School,1,2025-06-18,2025-06-18,Repeat Booking,Denise Duffus
+York College,1,2025-06-20,2025-06-20,Website,Jenny Edwards
+Bower Park Academy,1,2025-06-22,2025-06-22,Recommendation/Word of mouth,Ashley Nti-Agyemang
+White Woman Lane Junior School,1,2025-04-04,2025-04-04,Repeat Booking,Clair Gribble
+Harefield School,1,2025-04-20,2025-04-20,Repeat Booking,Salma Riley
+Compass Community Schools Wheatley Park,1,2025-04-22,2025-04-22,Online Search,Marie Shepherd
+Queenswood School,1,2025-04-22,2025-04-22,Online Search,Lucy McLean
+Oldfield Primary School,1,2025-04-24,2025-04-24,Staff at BF,James McCormack
+Knole Academy,1,2025-04-28,2025-04-28,Meeting/Conference,Sarah Barnes
+Argyle Primary School,1,2025-04-28,2025-04-28,Email Campaign,Bernie Mukasa
+Holly lodge girls college,1,2025-07-04,2025-07-04,Website,Nikki O'neill
+Duxford Church of England Community Primary school,1,2025-07-08,2025-07-08,Meeting/Conference,Jessica Shevki
+Redruth School,1,2025-07-10,2025-07-10,Repeat Booking,Katie Hill
+Greenford High School,1,2025-07-11,2025-07-11,Meeting/Conference,Trisha Soneji
+Chisenhale Primary,1,2025-07-15,2025-07-15,Repeat Booking,Jill Healey
+Ark Brunel Primary School,1,2025-07-16,2025-07-16,,Elizabeth Lamb
+Our Lady’s Preparatory School,1,2025-07-22,2025-07-22,Recommendation/Word of mouth,Gemma Nash
+Warren Mead School,1,2025-08-01,2025-08-01,Social Media,Katie Mcvea
+LOOE COMMUNITY ACADEMY,1,2025-08-03,2025-08-03,Meeting/Conference,LIZ Fowkes
+Courtwood Primary School,1,2025-08-06,2025-08-06,Social Media,Jen Squires
+Marden Lodge school,1,2025-05-23,2025-05-23,Recommendation/Word of mouth,clare garratt
+Turton Edgworth CEM Primary School,1,2025-06-03,2025-06-03,Recommendation/Word of mouth,Craig Wheatley
+Parkside School,1,2025-06-05,2025-06-05,Recommendation/Word of mouth,Anna Baker
+Barlby Primary School,1,2025-06-06,2025-06-06,Recommendation/Word of mouth,Paul Enright
+Noel park,1,2025-06-06,2025-06-06,Email Campaign,Zoe Economou
+Reed's School,1,2025-06-10,2025-06-10,Online Search,Mandy Francis
+Robin hood primary and nursery school,1,2023-09-14,2023-09-14,Recommendation/Word of mouth,Catherine Clarke
+Baring,1,2023-09-14,2023-09-14,Repeat Booking,caroline Phillips
+St Swithun's School,1,2023-09-18,2023-09-18,Online Search,Nick Fyfe
+Dover Grammar School for Boys,1,2023-09-14,2023-09-14,Local/Direct Contact,Lisa Lavender
+Burlington House School,1,2025-10-01,2025-10-01,Previously engaged (different school),Jonathan Brophy
+St Columba's College,1,2025-10-01,2025-10-01,Meeting/Conference,Sarah Gregson-Brooks
+Reading Girls School,1,2025-10-03,2025-10-03,Meeting/Conference,Caroline Shephard
+George Mitchell School,1,2025-10-06,2025-10-06,Social Media,Sadaf Ahmedzai
+Hurst Drive Primary School,1,2025-10-08,2025-10-08,Recommendation/Word of mouth,Elle Savage
+Carshaltonboys Sports College,1,2025-10-10,2025-10-10,Media/TV,lia bonfante
+Grove Academy,1,2025-10-10,2025-10-10,,Rosie Szumowski
+Regina Coeli Catholic School,1,2025-10-14,2025-10-14,Repeat Booking,Joan Mabey
+Kingsley School,1,2025-10-14,2025-10-14,Recommendation/Word of mouth,Katrina Venner
+Howden School,1,2025-10-17,2025-10-17,Recommendation/Word of mouth,Ryan Gardiner
+Burstow Primary School,1,2025-09-26,2025-09-26,Email Campaign,Katrina Turvey
+St Philip's Catholic Primary School,1,2025-06-24,2025-06-24,Meeting/Conference,Ellie Shaddick
+St Columba’s,1,2025-09-29,2025-09-29,Meeting/Conference,Claudia Crowther
+Bishops hatfield girls school,1,2025-09-29,2025-09-29,Meeting/Conference,Charli Faux
+Alexander McLeod Primary School,1,2025-09-09,2025-09-09,Repeat Booking,Peter Dickinson
+Sayes Court Primary,1,2025-09-10,2025-09-10,Media/TV,Caroline Renny
+Queensmead House School,1,2025-09-10,2025-09-10,Online Search,Charlotte Piercy
+Brighton Girls,1,2025-09-11,2025-09-11,Online Search,Rebecca Gandy
+Penshurst Primary School,1,2025-09-12,2025-09-12,Repeat Booking,Sally Hornby
+Simon Langton Grammar School for Boys,1,2025-09-16,2025-09-16,Social Media,Ilona Hofer
+Chulmleigh College,1,2025-09-17,2025-09-17,Repeat Booking,Abigail Thorncroft
+Reigate Valley College,1,2025-09-18,2025-09-18,Local/Direct Contact,Laura Hackett
+Glebelands school,1,2025-09-20,2025-09-20,Media/TV,Shim Amin
+St Elphege's Junior School,1,2025-09-22,2025-09-22,Recommendation/Word of mouth,Charlotte Wright
+West Chiltington Community Primary School,1,2025-09-23,2025-09-23,Online Search,HELEN DRUMMOND
+Springfield Primary School,1,2023-09-13,2023-09-13,Online Search,Elizabeth Mallins
+St Marylebone CE Bridge school,1,2023-10-03,2023-10-03,Email Campaign,sara Hassan
+Bromley Beacon Academy,1,2025-08-22,2025-08-22,Recommendation/Word of mouth,Melissa Bassett

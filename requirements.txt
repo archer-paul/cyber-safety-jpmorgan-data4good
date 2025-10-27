@@ -1,0 +1,43 @@
+# Breck Foundation Data Analysis Framework - Requirements
+# JP Morgan Data for Good Hackathon 2025
+# ========================================================
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file handling
+
+# Scientific Computing & Statistics
+scipy>=1.11.0
+scikit-learn>=1.3.0  # For clustering and ML
+
+# Geocoding & Geographic Analysis
+geopy>=2.3.0  # For geocoding schools
+requests>=2.31.0  # For UK Postcode API
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+folium>=0.14.0  # For interactive maps
+plotly>=5.14.0  # Optional: for interactive plots
+
+# Natural Language Processing (Optional - for advanced features)
+# Uncomment if needed:
+# nltk>=3.8.0
+# spacy>=3.5.0
+# textblob>=0.17.0
+
+# Data Validation
+# pydantic>=2.0.0  # Optional: for data validation
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Development Tools (Optional)
+# jupyter>=1.0.0
+# ipykernel>=6.22.0
+# pytest>=7.3.0
+
+# Note: Install with:
+# pip install -r requirements.txt --break-system-packages
