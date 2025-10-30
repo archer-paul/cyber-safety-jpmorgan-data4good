@@ -716,6 +716,24 @@ This project was developed as part of the JP Morgan Data for Good Hackathon 2025
 
 Special thanks to the Breck Foundation for their critical mission to keep young people safe online. Their dedication to cyber safety education inspired this work, and we hope this platform helps amplify their impact across the UK.
 
+### Team Members
+
+This project was made possible by the collaborative efforts of our talented team:
+
+- **Arush Gupta** - Mathematics and Computer Science, University of Oxford
+- **Ethan McElhone** - MSc Statistics, LSE
+- **Kevin Y** - BSc Financial Mathematics and Statistics, LSE
+- **Rayaan Sheikh** - MSc AI, QMUL
+
+### Mentors & Organizers
+
+We are deeply grateful to our mentors from JP Morgan who provided invaluable guidance throughout the hackathon:
+
+- **Andrea Soldà** - Executive Director, Applied AI at JPMorgan
+- **Yunfan Zou** - Quantitative Research Associate at J.P. Morgan
+
+Their expertise and support were instrumental in shaping this project and achieving our Top 3 Finalist status.
+
 ### Technology Stack
 
 - **Data Processing**: pandas, numpy
