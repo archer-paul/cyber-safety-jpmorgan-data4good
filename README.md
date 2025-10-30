@@ -12,7 +12,7 @@ A comprehensive data analytics framework designed to help the Breck Foundation m
 
 [![Interactive Map Preview](assets/map_preview.png)](https://archer-paul.github.io/cyber-safety-jpmorgan-data4good/)
 
-**[🗺️ Click to explore the interactive map](https://archer-paul.github.io/cyber-safety-jpmorgan-data4good/)**
+**[Click to explore the interactive map](https://archer-paul.github.io/cyber-safety-jpmorgan-data4good/)**
 
 </div>
 
